@@ -39,9 +39,26 @@ touch dump-1.sqlite3
 echo "Running migrations on fresh database..."
 python manage.py migrate --run-syncdb
 
-# Create superuser
+# Create a teacher user for admin access
 echo "Creating admin user..."
-python -c "from django.contrib.auth import get_user_model; User = get_user_model(); User.objects.create_superuser(email='admin@university.com', password='admin123', first_name='Admin', last_name='User') if not User.objects.filter(email='admin@university.com').exists() else print('Admin user already exists')" || echo "Failed to create superuser, but continuing build"
+python -c "
+from django.contrib.auth import get_user_model
+User = get_user_model()
+if not User.objects.filter(email='admin@university.com').exists():
+    User.objects.create_superuser(
+        email='admin@university.com',
+        password='admin123',
+        first_name='Admin',
+        last_name='User',
+        is_active=True,
+        phone_number='1234567890',
+        gender='M',
+        user_type='teacher'
+    )
+    print('Admin user created successfully.')
+else:
+    print('Admin user already exists.')
+" || echo "Failed to create superuser, but continuing build"
 
 # Optionally seed some basic data for testing
 echo "Seeding basic data..."
