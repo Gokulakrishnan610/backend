@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Exit on error
 set -o errexit
 
@@ -7,7 +6,6 @@ set -o errexit
 export ENVIRONMENT="production"
 export DJANGO_SETTINGS_MODULE="UniversityApp.settings"
 export SECRET_KEY="your-secret-key-here"
-export COOKIE_DOMAIN="render.com"
 export JWT_KEY="your-jwt-key-here"
 
 # For initial deployment, use SQLite to simplify testing
@@ -41,12 +39,9 @@ touch dump-1.sqlite3
 echo "Running migrations on fresh database..."
 python manage.py migrate --run-syncdb
 
-# Create admin user and seed basic data
+# Create superuser
 echo "Creating admin user..."
-python manage.py create_admin
+python -c "from django.contrib.auth import get_user_model; User = get_user_model(); User.objects.create_superuser(email='admin@university.com', password='admin123', first_name='Admin', last_name='User') if not User.objects.filter(email='admin@university.com').exists() else print('Admin user already exists')" || echo "Failed to create superuser, but continuing build"
 
 # Optionally seed some basic data for testing
 echo "Seeding basic data..."
-python manage.py seed_departments
-python manage.py seed_rooms
-# Add other seed commands as needed 

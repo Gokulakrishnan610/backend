@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = config('SECRET_KEY')
+SECRET_KEY = config('SECRET_KEY', default='django-insecure-default-key-for-development')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -36,8 +36,8 @@ ALLOWED_HOSTS = [
     'e520-2409-4072-6e84-6ff3-15b8-5952-364b-473.ngrok-free.app', 
     '*.ngrok-free.app',
     'timetable-backend.onrender.com',
-    '*.onrender.com',
-    'backend-nz7c.onrender.com'
+    'backend-nz7c.onrender.com',
+    '*.onrender.com'
 ]
 
 # CORS settings
@@ -51,11 +51,14 @@ CORS_ALLOWED_ORIGINS = [
     'http://46.202.160.179',
     "https://a030-2409-4072-6e84-6ff3-15b8-5952-364b-473.ngrok-free.app",
     "http://e520-2409-4072-6e84-6ff3-15b8-5952-364b-473.ngrok-free.app",
-    "https://e520-2409-4072-6e84-6ff3-15b8-5952-364b-473.ngrok-free.app"
+    "https://e520-2409-4072-6e84-6ff3-15b8-5952-364b-473.ngrok-free.app",
+    "https://backend-nz7c.onrender.com",
+    "https://*.onrender.com"
 ]
 CORS_ALLOWED_ORIGIN_REGEXES = [
     r"^https?://localhost:\d+$",
     r"^https?://.*\.ngrok-free\.app$",  # Allow all ngrok domains
+    r"^https?://.*\.onrender\.com$",    # Allow all render domains
 ]
 CORS_ALLOW_METHODS = [
     "DELETE",
@@ -86,13 +89,15 @@ CSRF_TRUSTED_ORIGINS = [
     'http://46.202.160.179',
     "https://4q95w77x-5173.inc1.devtunnels.ms",
     "http://e520-2409-4072-6e84-6ff3-15b8-5952-364b-473.ngrok-free.app",
-    "https://e520-2409-4072-6e84-6ff3-15b8-5952-364b-473.ngrok-free.app"
+    "https://e520-2409-4072-6e84-6ff3-15b8-5952-364b-473.ngrok-free.app",
+    "https://backend-nz7c.onrender.com",
+    "https://*.onrender.com"
 ]
 CSRF_COOKIE_SAMESITE = 'Lax'
 CSRF_COOKIE_HTTPONLY = False
 CSRF_USE_SESSIONS = False
-CSRF_COOKIE_SECURE = False  # Set to True in production with HTTPS
-CSRF_COOKIE_DOMAIN= config('COOKIE_DOMAIN')
+CSRF_COOKIE_SECURE = True  # Set to True for HTTPS connections
+CSRF_COOKIE_DOMAIN = None  # Let Django determine the domain
 
 # Application definition
 
@@ -245,7 +250,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 JWT_KEY = config("JWT_KEY", default="secret")
 
-COOKIE_DOMAIN=config('COOKIE_DOMAIN')
+COOKIE_DOMAIN = None  # Let Django determine the domain
 
 
 UNFOLD = {
@@ -341,4 +346,4 @@ LOGGING = {
             'propagate': True,
         },
     },
-}
+} 

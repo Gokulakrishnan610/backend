@@ -2,7 +2,7 @@ services:
   - type: web
     name: timetable-backend
     runtime: python
-    buildCommand: ./build.sh
+    buildCommand: chmod +x build.sh && ./build.sh
     startCommand: cd /opt/render/project/src && gunicorn UniversityApp.wsgi:application
     envVars:
       - key: PYTHON_VERSION
@@ -13,18 +13,8 @@ services:
         value: production
       - key: SECRET_KEY
         generateValue: true
-      - key: COOKIE_DOMAIN
-        value: render.com
       - key: JWT_KEY
         generateValue: true
       - key: USE_SQLITE
         value: "True"
-      - key: DB_NAME
-        sync: false # Will be set in Render dashboard
-      - key: DB_USER
-        sync: false # Will be set in Render dashboard
-      - key: DB_PASSWORD
-        sync: false # Will be set in Render dashboard
-      - key: DB_HOST
-        sync: false # Will be set in Render dashboard
-    plan: free 
+    plan: free
