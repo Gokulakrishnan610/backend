@@ -38,6 +38,8 @@ ALLOWED_HOSTS = [
     'timetable-backend.onrender.com',
     'backend-nz7c.onrender.com',
     '*.onrender.com'
+    'recstudentsapp.netlify.app',
+    '*.netlify.app',
 ]
 
 # CORS settings
