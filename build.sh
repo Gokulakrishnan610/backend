@@ -39,26 +39,38 @@ touch dump-1.sqlite3
 echo "Running migrations on fresh database..."
 python manage.py migrate --run-syncdb
 
-# Create a teacher user for admin access
+# Create admin user with Django management command
 echo "Creating admin user..."
-python -c "
+
+# Create a script to be executed by Django shell
+cat > create_admin.py << 'EOF'
 from django.contrib.auth import get_user_model
 User = get_user_model()
+
 if not User.objects.filter(email='admin@university.com').exists():
-    User.objects.create_superuser(
-        email='admin@university.com',
-        password='admin123',
-        first_name='Admin',
-        last_name='User',
-        is_active=True,
-        phone_number='1234567890',
-        gender='M',
-        user_type='teacher'
-    )
-    print('Admin user created successfully.')
+    try:
+        user = User.objects.create_superuser(
+            email='gokulakrishnankadhir@gmail.com',
+            password='admin123',
+            first_name='SuperAdmin',
+            last_name='User',
+            is_active=True,
+            phone_number='1234567890',
+            gender='M',
+            user_type='teacher'
+        )
+        print(f'Admin user created successfully: {user.email}')
+    except Exception as e:
+        print(f'Error creating admin user: {str(e)}')
 else:
-    print('Admin user already exists.')
-" || echo "Failed to create superuser, but continuing build"
+    print('Admin user already exists')
+EOF
+
+# Run the script using Django's shell_plus
+python manage.py shell < create_admin.py || echo "Failed to create superuser, but continuing build"
+
+# Clean up
+rm -f create_admin.py
 
 # Optionally seed some basic data for testing
 echo "Seeding basic data..."
