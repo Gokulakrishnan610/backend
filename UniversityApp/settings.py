@@ -36,7 +36,8 @@ ALLOWED_HOSTS = [
     'e520-2409-4072-6e84-6ff3-15b8-5952-364b-473.ngrok-free.app', 
     '*.ngrok-free.app',
     'timetable-backend.onrender.com',
-    '*.onrender.com'
+    '*.onrender.com',
+    'backend-nz7c.onrender.com'
 ]
 
 # CORS settings
