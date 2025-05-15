@@ -1,0 +1,125 @@
+room_number,"block",description,is_lab,room_type,room_min_cap,room_max_cap,has_projector,has_ac,tech_level,"maintained_by_id"
+A102,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Medium,Administration
+A103,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Low,Administration
+A104/105,A Block,Classroom,FALSE,Room,110.0,120.0,FALSE,FALSE,High,Administration
+A108,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Medium,Administration
+A109,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,High,Administration
+A110,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Medium,Administration
+A202,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,High,Administration
+A203,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,None,Administration
+A204,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,None,Administration
+A205,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Medium,Administration
+A208,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Medium,Administration
+A209,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,High,Administration
+A210,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Low,Administration
+A211,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Medium,Administration
+A302,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,High,Administration
+A303,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Medium,Administration
+A304,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,None,Administration
+A305,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Low,Administration
+A308,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,Low,Administration
+A309,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,None,Administration
+A310,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,High,Administration
+A311,A Block,Classroom,FALSE,Room,50.0,60.0,FALSE,FALSE,High,Administration
+B First Floor,Lab Block,Biochemistry Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Biotechnology
+B First Floor,Lab Block,Microbiology Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Biotechnology
+B First Floor,Lab Block,Genetic Engineering Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Biotechnology
+B First Floor,Lab Block,Immunology Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Biotechnology
+B Second Floor,Lab Block,Bioprocess Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Biotechnology
+B Second Floor,Lab Block,Downstream Processing Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Biotechnology
+B305,Lab Block,Industrial Automation Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Mechanical Engineering
+B310,Lab Block,MCT CAD Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Mechanical Engineering
+B Third Floor,Lab Block,Computer Application in Chemical Engg Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Chemical Engineering
+B Ground Floor,Lab Block,Chemical Reaction Engineering Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Chemical Engineering
+B Ground Floor,Lab Block,Technical Analysis Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Chemical Engineering
+BG009,Lab Block,Power Electronics Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Electrical Engineering
+BG010,Lab Block,Embedded System Laboratory(EEE),TRUE,NTL,0.0,10.0,TRUE,FALSE,High,Electrical Engineering
+BG014,Lab Block,Electrical Machines I Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Electrical Engineering
+WBL11,Lab Block,Electrical Machines II Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Electrical Engineering
+B116,Lab Block,Communication Systems Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Electronics and Communication
+B117,Lab Block,Embedded System Laboratory (ECE),TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Electronics and Communication
+B118,Lab Block,Basic Electronics Lab-1,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Electronics and Communication
+B119,Lab Block,Basic Electronics Lab-2,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Electronics and Communication
+B120,Lab Block,Optical and Microwave Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Electronics and Communication
+B205,Lab Block,Microprocessor Lab-1,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Electronics and Communication
+B206,Lab Block,Microprocessor Lab-2,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Electronics and Communication
+B204,Lab Block,Networks Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Electronics and Communication
+B203,Lab Block,VLSI Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Electronics and Communication
+B202,Lab Block,DSP Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Electronics and Communication
+B311,Lab Block,Electronic Devices & Circuits Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Electrical Engineering
+B318,Lab Block,Power System Simulation Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Electrical Engineering
+B329,Lab Block,LIC Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Electronics and Communication
+B328,Lab Block,Digital Lab-1,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Electronics and Communication
+B327,Lab Block,Digital Lab-2,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Electronics and Communication
+CG001,Lab Block,Food Microbiology Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Food Technology
+CG002,Lab Block,Baking Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Food Technology
+CG003,Lab Block,Food Processing and Preservation Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Food Technology
+CG006,Lab Block,Aero CAD Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Aeronautical Engineering
+CG005,Lab Block,Avionics Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Aeronautical Engineering
+C106,Lab Block,Microprocessor and Microcontrollers Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Mechatronics
+C107,Lab Block,Mechatronics Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Mechanical Engineering
+C401,Lab Block,Mech CAD Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Mechanical Engineering
+C407,Lab Block,Dynamics Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Mechanical Engineering
+C408,Lab Block,Metrology & Measurement Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Mechanical Engineering
+WS Aero GF,Lab Block,Aerodynamics Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Aeronautical Engineering
+WS Aero FF1,Lab Block,Airframe Repair and Aero Engine Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Aeronautical Engineering
+WS Aero FF2,Lab Block,Aircraft Structures Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Aeronautical Engineering
+WS AUTO GF1,Lab Block,Vehicle Maintenance Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Automobile Engineering
+WS AUTO GF2,Lab Block,Automotive Components Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Automobile Engineering
+WS AUTO FF1,Lab Block,Mass Transfer Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Chemical Engineering
+WS AUTO FF2,Lab Block,Heat Transfer Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Chemical Engineering
+WS AUTO FF3,Lab Block,Process Control Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Chemical Engineering
+WS AUTO FF4,Lab Block,Livestock Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Food Technology
+WS AUTO GF3,Lab Block,Particle Science and Technology Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Chemical Engineering
+DG,Lab Block,Isaac Asimov Laboratory,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Robotics and Automation
+DG,Lab Block,Food Chemistry Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Food Technology
+DG004,Lab Block,Medical Image Processing Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Biomedical Engineering
+DG012,Lab Block,Electronics and Instrumentation,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Biomedical Engineering
+DG013,Lab Block,Diagnostic and Therapeutic Equipment Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Biomedical Engineering
+D102,Lab Block,Auto CAD Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Automobile Engineering
+WS CIVIL 1,Lab Block,Concrete & Survey Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Civil Engineering
+WS CIVIL 2,Lab Block,Soil Mechanics & Highway Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Civil Engineering
+WS MECH FM,Lab Block,Fluid Mechanics Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Mechanical Engineering
+WS MECH SM,Lab Block,Strength of Materials Lab,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Mechanical Engineering
+WS MECH TL,Lab Block,Thermal Lab 2,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Mechanical Engineering
+WS MECH FF1,Lab Block,Machine Shop FF1 - EPL - 1,TRUE,NTL,50.0,60.0,TRUE,FALSE,Medium,Mechanical Engineering
+WS MECH FF2,Lab Block,Machine Shop FF2 - EPL - 2,TRUE,NTL,50.0,60.0,TRUE,FALSE,None,Mechanical Engineering
+WS MECH FF3,Lab Block,Machine Shop FF3 - EPL - 3,TRUE,NTL,50.0,60.0,TRUE,FALSE,High,Mechanical Engineering
+WS MECH FF4,Lab Block,Thermal Lab 1,TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Mechanical Engineering
+WS MECH FF5,Lab Block,Engineering Practices Lab (Electrical),TRUE,NTL,50.0,60.0,TRUE,FALSE,Low,Electrical Engineering
+WS MECH FF6,Lab Block,Engineering Practices Lab (Electronics),TRUE,NTL,50.0,60.0,TRUE,FALSE,None,Electronics and Communication
+WS MECH GF1,Lab Block,Manufacturing Technology I,TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Mechanical Engineering
+WS MECH GF2,Lab Block,Manufacturing Technology II,TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Mechanical Engineering
+DG02,Lab Block,Computer Lab (DG02),TRUE,NTL,50.0,60.0,TRUE,FALSE,High,Computer Science
+DG03,Lab Block,Computer Lab (DG03),TRUE,NTL,50.0,60.0,TRUE,FALSE,Low,Computer Science
+TIFAC I01,Lab Block,Computer Lab (Arch),TRUE,NTL,50.0,60.0,TRUE,FALSE,None,Computer Science
+JL1,Lab Block,Computer Lab (JL1),TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Computer Science
+JL2,Lab Block,Computer Lab (JL2),TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Computer Science and Design
+JL3,Lab Block,Computer Lab (JL3),TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Computer Science and Business Systems
+JR1,Lab Block,Computer Lab (JR1),TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Information Technology
+JR2,Lab Block,Computer Lab (JR2),TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Information Technology
+JR3,Lab Block,Computer Lab (JR3),TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Computer Science and Engineering
+KFL01,Lab Block,Computer Lab (KFL01),TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Computer Science and Design
+KFL02,Lab Block,Computer Lab (KFL02),TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Artificial Intelligence and Machine Learning
+KFL03,Lab Block,Computer Lab (KFL03),TRUE,NTL,,,,TRUE,FALSE,High
+KFR01,Lab Block,Computer Lab (KFR01),TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Artificial Intelligence and Machine Learning
+KFR02,Lab Block,Computer Lab (KFR02),TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Artificial Intelligence and Data Science
+KFR03,Lab Block,Computer Lab (KFR03),TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Computer Science and Engineering
+KSL03,Lab Block,Computer Lab (KSL03),TRUE,NTL,110.0,120.0,TRUE,FALSE,Medium,Computer Science and Engineering
+TLGL1,Lab Block,Computer Lab (TLGL1),TRUE,NTL,50.0,60.0,TRUE,FALSE,Medium,Information Technology
+TLGL2,Lab Block,Computer Lab (TLGL2),TRUE,NTL,50.0,60.0,TRUE,FALSE,Medium,Computer Science and Engineering
+TLGL3,Lab Block,Computer Lab (TLGL3),TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Computer Science and Engineering
+TLGL4,Lab Block,Computer Lab (TLGL4),TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Artificial Intelligence and Machine Learning
+TLFL1,Lab Block,Computer Lab (TLFL1),TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Artificial Intelligence and Data Science
+TLFL2,Lab Block,Computer Lab (TLFL2),TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Computer Science and Business Systems
+TLFL3,Lab Block,Computer Lab (TLFL3),TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Computer Science and Engineering
+TLFL4,Lab Block,Computer Lab (TLFL4),TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Artificial Intelligence and Machine Learning
+TLFL5,Lab Block,Computer Lab (TLFL5),TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Computer Science and Engineering
+TLFR1,Lab Block,Computer Lab (TLFR1),TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Computer Science and Engineering
+TLFR2,Lab Block,Computer Lab (TLFR2),TRUE,NTL,20.0,30.0,TRUE,FALSE,High,Information Technology
+TLFR3,Lab Block,Computer Lab (TLFR3),TRUE,NTL,20.0,30.0,TRUE,FALSE,Low,Artificial Intelligence and Machine Learning
+TLFR4,Lab Block,Computer Lab (TLFR4),TRUE,NTL,20.0,30.0,TRUE,FALSE,None,Artificial Intelligence and Data Science
+TLFR5,Lab Block,Computer Lab (TLFR5),TRUE,NTL,20.0,30.0,TRUE,FALSE,Medium,Information Technology
+TLSL1,Lab Block,Computer Lab (TLSL1),TRUE,NTL,50.0,60.0,TRUE,FALSE,Low,Placement
+TLSL2,Lab Block,Computer Lab (TLSL2),TRUE,NTL,50.0,60.0,TRUE,FALSE,None,Placement
+TLSR1,Lab Block,Computer Lab (TLSR1),TRUE,NTL,50.0,60.0,TRUE,FALSE,Medium,Placement

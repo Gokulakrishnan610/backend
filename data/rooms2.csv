@@ -1,0 +1,217 @@
+room_number,block,description,department_name,type,min_capacity,max_capacity,has_projector,has_ac
+A102,A Block,Classroom,General,Room,50.0,60.0,False,False
+A103,A Block,Classroom,General,Room,50.0,60.0,False,False
+A104/105,A Block,Classroom,General,Room,110.0,120.0,False,False
+A108,A Block,Classroom,General,Room,50.0,60.0,False,False
+A109,A Block,Classroom,General,Room,50.0,60.0,False,False
+A110,A Block,Classroom,General,Room,50.0,60.0,False,False
+A202,A Block,Classroom,General,Room,50.0,60.0,False,False
+A203,A Block,Classroom,General,Room,50.0,60.0,False,False
+A204,A Block,Classroom,General,Room,50.0,60.0,False,False
+A205,A Block,Classroom,General,Room,50.0,60.0,False,False
+A208,A Block,Classroom,General,Room,50.0,60.0,False,False
+A209,A Block,Classroom,General,Room,50.0,60.0,False,False
+A210,A Block,Classroom,General,Room,50.0,60.0,False,False
+A211,A Block,Classroom,General,Room,50.0,60.0,False,False
+A302,A Block,Classroom,General,Room,50.0,60.0,False,False
+A303,A Block,Classroom,General,Room,50.0,60.0,False,False
+A304,A Block,Classroom,General,Room,50.0,60.0,False,False
+A305,A Block,Classroom,General,Room,50.0,60.0,False,False
+A308,A Block,Classroom,General,Room,50.0,60.0,False,False
+A309,A Block,Classroom,General,Room,50.0,60.0,False,False
+A310,A Block,Classroom,General,Room,50.0,60.0,False,False
+A311,A Block,Classroom,General,Room,50.0,60.0,False,False
+B106,B Block,Classroom,General,Room,50.0,60.0,False,False
+B107,B Block,Classroom,General,Room,50.0,60.0,False,False
+B210,B Block,Classroom,General,Room,50.0,60.0,False,False
+B211,B Block,Classroom,General,Room,50.0,60.0,False,False
+B212,B Block,Classroom,General,Room,50.0,60.0,False,False
+B213,B Block,Classroom,General,Room,50.0,60.0,False,False
+B218,B Block,Classroom,General,Room,50.0,60.0,False,False
+B219,B Block,Classroom,General,Room,50.0,60.0,False,False
+B220,B Block,Classroom,General,Room,50.0,60.0,False,False
+B221,B Block,Classroom,General,Room,50.0,60.0,False,False
+B222,B Block,Classroom,General,Room,50.0,60.0,False,False
+B302,B Block,Classroom,General,Room,50.0,60.0,False,False
+B320,B Block,Classroom,General,Room,50.0,60.0,False,False
+B321,B Block,Classroom,General,Room,50.0,60.0,False,False
+B322,B Block,Classroom,General,Room,50.0,60.0,False,False
+B325,B Block,Classroom,General,Room,50.0,60.0,False,False
+B401,B Block,Classroom,General,Room,50.0,60.0,False,False
+B402,B Block,Classroom,General,Room,50.0,60.0,False,False
+B403,B Block,Classroom,General,Room,50.0,60.0,False,False
+B404,B Block,Classroom,General,Room,50.0,60.0,False,False
+B405,B Block,Classroom,General,Room,50.0,60.0,False,False
+B408,B Block,Classroom,General,Room,50.0,60.0,False,False
+B409,B Block,Classroom,General,Room,50.0,60.0,False,False
+B410,B Block,Classroom,General,Room,50.0,60.0,False,False
+B411,B Block,Classroom,General,Room,50.0,60.0,False,False
+B412,B Block,Classroom,General,Room,50.0,60.0,False,False
+B415,B Block,Classroom,General,Room,50.0,60.0,False,False
+B416,B Block,Classroom,General,Room,50.0,60.0,False,False
+B417,B Block,Classroom,General,Room,50.0,60.0,False,False
+B418,B Block,Classroom,General,Room,50.0,60.0,False,False
+B419,B Block,Classroom,General,Room,50.0,60.0,False,False
+B422,B Block,Classroom,General,Room,50.0,60.0,False,False
+B423,B Block,Classroom,General,Room,50.0,60.0,False,False
+B424,B Block,Classroom,General,Room,50.0,60.0,False,False
+B425,B Block,Classroom,General,Room,50.0,60.0,False,False
+B426,B Block,Classroom,General,Room,50.0,60.0,False,False
+C101,C Block,Classroom,General,Room,50.0,60.0,False,False
+C102,C Block,Classroom,General,Room,50.0,60.0,False,False
+C103,C Block,Classroom,General,Room,50.0,60.0,False,False
+C108,C Block,Classroom,General,Room,50.0,60.0,False,False
+C201,C Block,Classroom,General,Room,50.0,60.0,False,False
+C202,C Block,Classroom,General,Room,50.0,60.0,False,False
+C301,C Block,Classroom,General,Room,50.0,60.0,False,False
+C302,C Block,Classroom,General,Room,50.0,60.0,False,False
+C307,C Block,Classroom,General,Room,50.0,60.0,False,False
+C308,C Block,Classroom,General,Room,50.0,60.0,False,False
+D109,D Block,Classroom,General,Room,50.0,60.0,False,False
+D110,D Block,Classroom,General,Room,50.0,60.0,False,False
+D111,D Block,Classroom,General,Room,50.0,60.0,False,False
+D202,D Block,Classroom,General,Room,50.0,60.0,False,False
+D203,D Block,Classroom,General,Room,50.0,60.0,False,False
+D204,D Block,Classroom,General,Room,50.0,60.0,False,False
+D205,D Block,Classroom,General,Room,50.0,60.0,False,False
+D209,D Block,Classroom,General,Room,50.0,60.0,False,False
+D210,D Block,Classroom,General,Room,50.0,60.0,False,False
+D211,D Block,Classroom,General,Room,50.0,60.0,False,False
+D302,D Block,Classroom,General,Room,50.0,60.0,False,False
+D305,D Block,Classroom,General,Room,50.0,60.0,False,False
+D309,D Block,Classroom,General,Room,50.0,60.0,False,False
+D310,D Block,Classroom,General,Room,50.0,60.0,False,False
+D311,D Block,Classroom,General,Room,50.0,60.0,False,False
+D402,D Block,Classroom,General,Room,50.0,60.0,False,False
+D405,D Block,Classroom,General,Room,50.0,60.0,False,False
+D409,D Block,Classroom,General,Room,50.0,60.0,False,False
+D410,D Block,Classroom,General,Room,50.0,60.0,False,False
+D411,D Block,Classroom,General,Room,50.0,60.0,False,False
+D510,D Block,Classroom,General,Room,50.0,60.0,False,False
+D511,D Block,Classroom,General,Room,50.0,60.0,False,False
+D512,D Block,Classroom,General,Room,50.0,60.0,False,False
+D610,D Block,Classroom,General,Room,50.0,60.0,False,False
+D611,D Block,Classroom,General,Room,50.0,60.0,False,False
+D612,D Block,Classroom,General,Room,50.0,60.0,False,False
+D702,D Block,Classroom,General,Room,50.0,60.0,False,False
+D703,D Block,Classroom,General,Room,50.0,60.0,False,False
+D704,D Block,Classroom,General,Room,50.0,60.0,False,False
+D705,D Block,Classroom,General,Room,50.0,60.0,False,False
+D709,D Block,Classroom,General,Room,50.0,60.0,False,False
+D710,D Block,Classroom,General,Room,50.0,60.0,False,False
+D711,D Block,Classroom,General,Room,50.0,60.0,False,False
+I 02,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+I 03,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+I 04,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+I 11,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+I 12,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+I 13,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+IV 02,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+IV 04,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+V 03,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+V 04,Arch Block,Classroom,General,Room,50.0,60.0,False,False
+S201,Idea Lab,Classroom,General,Room,230.0,240.0,False,False
+S202,Idea Lab,Classroom,General,Room,110.0,120.0,False,False
+B first floor,Lab Block,Biochemistry lab,Biotechnology,NTL,20.0,30.0,True,False
+B305,Lab Block,Industrial Automation Lab,Mechatronics,NTL,20.0,30.0,True,False
+B310,Lab Block,MCT CAD Lab,Mechatronics,NTL,20.0,30.0,True,False
+B first floor,Lab Block,Microbiology lab,Biotechnology,NTL,20.0,30.0,True,False
+B First floor,Lab Block,Genetic engineering lab,Biotechnology,NTL,20.0,30.0,True,False
+B First floor,Lab Block,Immunology lab,Biotechnology,NTL,20.0,30.0,True,False
+B Second floor,Lab Block,Bioprocess lab,Biotechnology,NTL,20.0,30.0,True,False
+B Second floor,Lab Block,Downstream processing lab,Biotechnology,NTL,20.0,30.0,True,False
+B Third Floor,Lab Block,Computer Application in Chemical Engg lab,Chemical Engineering,NTL,20.0,30.0,True,False
+B ground floor ,Lab Block,Chemical Reaction Engineering Lab,Chemical Engineering,NTL,20.0,30.0,True,False
+B ground floor ,Lab Block,Technical Analysis Lab,Chemical Engineering,NTL,20.0,30.0,True,False
+BG009,Lab Block,Power Electronics Lab,Electrical and Electronics Engineering,NTL,20.0,30.0,True,False
+BG010,Lab Block,Embedded System Laboratory(EEE),Electrical and Electronics Engineering,NTL,0.0,10.0,True,False
+BG014,Lab Block,Electrical Machines I Lab,Electrical and Electronics Engineering,NTL,20.0,30.0,True,False
+WBL11,Lab Block,Electrical Machines II Lab,Electrical and Electronics Engineering,NTL,20.0,30.0,True,False
+B116,Lab Block,Communication Systems Lab,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B117,Lab Block,Embedded System Laboratory (ECE),Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B118,Lab Block,Basic electronics lab-1,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B119,Lab Block,Basic electronics lab-2,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B120,Lab Block,Optical and Microwave Lab,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B205,Lab Block,Microprocessor lab-1,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B206,Lab Block,Microprocessor lab-2,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B204,Lab Block,Networks Lab,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B203,Lab Block,VLSI Lab,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B202,Lab Block,DSP Lab,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B311 ,Lab Block,Electronic Devices & Circuits Lab,Electrical and Electronics Engineering,NTL,20.0,30.0,True,False
+B318 ,Lab Block,Power System Simulation Lab,Electrical and Electronics Engineering,NTL,20.0,30.0,True,False
+B329,Lab Block,LIC Lab,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B328,Lab Block,Digital Lab-1,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+B327,Lab Block,Digital Lab-2,Electronics and Communication Engineering,NTL,20.0,30.0,True,False
+CG001,Lab Block,Food Microbiology Lab,Food Technology,NTL,20.0,30.0,True,False
+CG002,Lab Block,Baking Lab,Food Technology,NTL,20.0,30.0,True,False
+CG003,Lab Block,Food Processing and Preservation Lab,Food Technology,NTL,20.0,30.0,True,False
+CG006,Lab Block,Aero CAD Lab,Aeronautical Engineering,NTL,20.0,30.0,True,False
+CG005,Lab Block,Avionics Lab,Aeronautical Engineering,NTL,20.0,30.0,True,False
+C106,Lab Block,Microprocessor and Microcontrollers Lab,Mechatronics,NTL,20.0,30.0,True,False
+C107,Lab Block,Mechatronics Lab,Mechanical Engineering,NTL,20.0,30.0,True,False
+C401,Lab Block,Mech CAD Lab,Mechanical Engineering,NTL,20.0,30.0,True,False
+C407,Lab Block,Dynamics Lab,Mechanical Engineering,NTL,20.0,30.0,True,False
+C408,Lab Block,Metrology & Measurement Lab,Mechanical Engineering,NTL,20.0,30.0,True,False
+WS Aero GF,Lab Block,Aerodynamics Lab,Aeronautical Engineering,NTL,20.0,30.0,True,False
+WS Aero FF1,Lab Block,Airframe Repair and Aero Engine Lab,Aeronautical Engineering,NTL,20.0,30.0,True,False
+WS Aero FF2,Lab Block,Aircraft Structures Lab,Aeronautical Engineering,NTL,20.0,30.0,True,False
+WS AUTO GF1,Lab Block,Vehicle Maintenance lab,Automobile Engineering,NTL,20.0,30.0,True,False
+WS AUTO GF2,Lab Block,Automotive Componenets lab,Automobile Engineering,NTL,20.0,30.0,True,False
+WS AUTO FF1,Lab Block,Mass Transfer Lab,Chemical Engineering,NTL,20.0,30.0,True,False
+WS AUTO FF2,Lab Block,Heat Transfer Lab,Chemical Engineering,NTL,20.0,30.0,True,False
+WS AUTO FF3,Lab Block,Process Control Lab,Chemical Engineering,NTL,20.0,30.0,True,False
+WS AUTO FF4,Lab Block,Livestock Lab,Food Technology,NTL,20.0,30.0,True,False
+WS AUTO GF3,Lab Block,Particle Science and Technology Lab,Chemical Engineering,NTL,20.0,30.0,True,False
+DG,Lab Block,Isaac Asimov Laboratory,Robotics and Automation,NTL,20.0,30.0,True,False
+DG,Lab Block,Food chemistry Lab,Food Technology,NTL,20.0,30.0,True,False
+DG004,Lab Block,Medical Image processing lab,Biomedical Engineering,NTL,20.0,30.0,True,False
+DG012,Lab Block,Electronics and instrumentation,Biomedical Engineering,NTL,20.0,30.0,True,False
+DG013,Lab Block,Diagnostic and therapeutic equipment lab,Biomedical Engineering,NTL,20.0,30.0,True,False
+D102,Lab Block,Auto CAD Lab,Automobile Engineering,NTL,20.0,30.0,True,False
+WS CIVIL 1,Lab Block,Concrete & Survey Lab,Civil Engineering,NTL,20.0,30.0,True,False
+WS CIVIL 2,Lab Block,Soil Mechanics & Highway Lab,Civil Engineering,NTL,20.0,30.0,True,False
+WS MECH FM,Lab Block,Fluid Mechanics Lab,Mechanical Engineering,NTL,20.0,30.0,True,False
+WS MECH SM,Lab Block,Strength of Materials Lab,Mechanical Engineering,NTL,20.0,30.0,True,False
+WS MECH TL,Lab Block,Thermal Lab 2,Mechanical Engineering,NTL,20.0,30.0,True,False
+WS MECH FF1,Lab Block,Machine shop FF1 - EPL - 1,Mechanical Engineering,NTL,50.0,60.0,True,False
+WS MECH FF2,Lab Block,Machine shop FF2 - EPL - 2,Mechanical Engineering,NTL,50.0,60.0,True,False
+WS MECH FF3,Lab Block,Machine shop FF3 - EPL - 3,Mechanical Engineering,NTL,50.0,60.0,True,False
+WS MECH FF4,Lab Block,Thermal Lab 1,Mechanical Engineering,NTL,20.0,30.0,True,False
+WS MECH FF5,Lab Block,Engineering Practices Lab (Electrical),Electrical and Electronics Engineering,NTL,50.0,60.0,True,False
+WS MECH FF6,Lab Block,Engineering Practices Lab (Electronics),Electronics and Communication Engineering,NTL,50.0,60.0,True,False
+WS MECH GF1,Lab Block,Manufacturing Technology I,Mechanical Engineering,NTL,20.0,30.0,True,False
+WS MECH GF2,Lab Block,Manufacturing Technology II,Mechanical Engineering,NTL,20.0,30.0,True,False
+DG02,Lab Block,Computer Lab (DG02),Computer Science and Engineering,NTL,50.0,60.0,True,False
+DG03,Lab Block,Computer Lab (DG03),Computer Science and Engineering,NTL,50.0,60.0,True,False
+TIFAC I01,Lab Block,Computer Lab (Arch),Computer Science and Engineering,NTL,50.0,60.0,True,False
+JL1,Lab Block,Computer Lab (JL1),Computer Science and Engineering,NTL,20.0,30.0,True,False
+JL2,Lab Block,Computer Lab (JL2),Computer Science and Design,NTL,20.0,30.0,True,False
+JL3,Lab Block,Computer Lab (JL3),Computer Science and Business Systems,NTL,20.0,30.0,True,False
+JR1,Lab Block,Computer Lab (JR1),Information Technology,NTL,20.0,30.0,True,False
+JR2,Lab Block,Computer Lab (JR2),Information Technology,NTL,20.0,30.0,True,False
+JR3,Lab Block,Computer Lab (JR3),Computer Science and Engineering (Cyber Security),NTL,20.0,30.0,True,False
+KFL01,Lab Block,Computer Lab (KFL01),Computer Science and Design,NTL,20.0,30.0,True,False
+KFL02,Lab Block,Computer Lab (KFL02),Artificial Intelligence and Machine Learning,NTL,20.0,30.0,True,False
+KFL03,Lab Block,Computer Lab (KFL03),General,NTL,,,True,False
+KFR01,Lab Block,Computer Lab (KFR01),Artificial Intelligence and Machine Learning,NTL,20.0,30.0,True,False
+KFR02,Lab Block,Computer Lab (KFR02),Artificial Intelligence and Data Science,NTL,20.0,30.0,True,False
+KFR03,Lab Block,Computer Lab (KFR03),Computer Science and Engineering,NTL,20.0,30.0,True,False
+KFR03,Lab Block,Computer Lab (KFR04),Computer Science and Engineering,NTL,20.0,30.0,True,False
+KSL03,Lab Block,Computer Lab (KSL03),Computer Science and Engineering,NTL,110.0,120.0,True,False
+TLGL1,Lab Block,Computer Lab (TLGL1),Information Technology,NTL,50.0,60.0,True,False
+TLGL2,Lab Block,Computer Lab (TLGL2),Computer Science and Engineering,NTL,50.0,60.0,True,False
+TLGL3,Lab Block,Computer Lab (TLGL3),Computer Science and Engineering,NTL,20.0,30.0,True,False
+TLGL4,Lab Block,Computer Lab (TLGL4),Artificial Intelligence and Machine Learning,NTL,20.0,30.0,True,False
+TLFL1,Lab Block,Computer Lab (TLFL1),Artificial Intelligence and Data Science,NTL,20.0,30.0,True,False
+TLFL2,Lab Block,Computer Lab (TLFL2),Computer Science and Business Systems,NTL,20.0,30.0,True,False
+TLFL3,Lab Block,Computer Lab (TLFL3),Computer Science and Engineering,NTL,20.0,30.0,True,False
+TLFL4,Lab Block,Computer Lab (TLFL4),Artificial Intelligence and Machine Learning,NTL,20.0,30.0,True,False
+TLFL5,Lab Block,Computer Lab (TLFL5),Computer Science and Engineering,NTL,20.0,30.0,True,False
+TLFR1,Lab Block,Computer Lab (TLFR1),Computer Science and Engineering,NTL,20.0,30.0,True,False
+TLFR2,Lab Block,Computer Lab (TLFR2),Information Technology,NTL,20.0,30.0,True,False
+TLFR3,Lab Block,Computer Lab (TLFR3),Artificial Intelligence and Machine Learning,NTL,20.0,30.0,True,False
+TLFR4,Lab Block,Computer Lab (TLFR4),Artificial Intelligence and Data Science,NTL,20.0,30.0,True,False
+TLFR5,Lab Block,Computer Lab (TLFR5),Information Technology,NTL,20.0,30.0,True,False
+TLSL1,Lab Block,Computer Lab (TLSL1),Placement,NTL,50.0,60.0,True,False
+TLSL2,Lab Block,Computer Lab (TLSL2),Placement,NTL,50.0,60.0,True,False
+TLSR1,Lab Block,Computer Lab (TLSR1),Placement,NTL,50.0,60.0,True,False

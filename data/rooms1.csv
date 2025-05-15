@@ -1,0 +1,6 @@
+room_number,block,description,is_lab,room_type,room_min_cap,room_max_cap,has_projector,has_ac,tech_level,maintained_by
+101,A,Lecture Hall,false,Lecture Hall,30,50,true,true,Advanced,Computer Science
+202,B,Computer Lab,true,Computer Lab,20,30,true,true,High,Computer Science
+303,C,Seminar Room,false,Seminar Room,40,60,true,false,Moderate,Electrical Engineering
+404,D,Research Lab,true,Research Lab,10,15,false,true,Advanced,Mechanical Engineering
+505,E,Conference Room,false,Conference Room,25,40,true,true,High,Administration

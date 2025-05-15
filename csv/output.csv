@@ -1,0 +1,561 @@
+id,course_id,course_name,course_dept_id,credits,lecture_hours,practical_hours,tutorial_hours,regulation,course_type
+1,AD23431,Statistical Analysis and Computing,Artificial Intelligence and Data Science,3,2,2,0,2023,LOT
+2,AD23521,Data Science Laboratory,Artificial Intelligence and Data Science,2,0,4,0,2023,Laboratory
+3,AD23531,Architecture for Management of Large Data Sets,Artificial Intelligence and Data Science,4,3,2,0,2023,LOT
+4,AD23532,Framework for Data and Visual Analytics,Artificial Intelligence and Data Science,4,3,2,0,2023,LOT
+5,AD23631,Data Privacy and Security,Artificial Intelligence and Data Science,4,3,2,0,2023,LOT
+6,AD23632,Deep Neural Networks,Artificial Intelligence and Data Science,4,3,2,0,2023,LOT
+7,AD23633,Design Thinking for Innovation in Data Science,Artificial Intelligence and Data Science,2,1,2,0,2023,LOT
+8,AD23722,Project Work (Phase - I),Artificial Intelligence and Data Science,4,0,8,0,2023,Laboratory
+9,AD23821,Project Work (Phase - II),Artificial Intelligence and Data Science,6,0,12,0,2023,Laboratory
+10,AE23211,Fundamentals of Aerospace Engineering ,Aeronautical Engineering,3,3,0,0,2023,Theory
+11,AE23321,Computer Aided Modelling Laboratory,Aeronautical Engineering,2,0,4,0,2023,Laboratory
+12,AE23331,Solid Mechanics,Aeronautical Engineering,4,2,2,1,2023,LOT
+13,AE23332,Fluid Mechanics and Fluid Machinery,Aeronautical Engineering,4,2,2,1,2023,LOT
+14,AE23333,Aero Engineering Thermodynamics,Aeronautical Engineering,4,2,2,1,2023,LOT
+15,AE23411,Aircraft Structures - I,Aeronautical Engineering,3,2,0,1,2023,Theory
+16,AE23412,Control Engineering,Aeronautical Engineering,3,3,0,0,2023,Theory
+17,AE23431,Incompressible Aerodynamics,Aeronautical Engineering,4,2,2,1,2023,LOT
+18,AE23432,Aircraft Materials and Processes,Aeronautical Engineering,4,3,2,0,2023,LOT
+19,AE23433,Aircraft Systems and Instruments,Aeronautical Engineering,3,2,2,0,2023,LOT
+20,AE23511,Aircraft Propulsion,Aeronautical Engineering,3,2,0,1,2023,Theory
+21,AE23512,Compressible Aerodynamics,Aeronautical Engineering,3,2,0,1,2023,Theory
+22,AE23513,Flight Dynamics,Aeronautical Engineering,3,2,0,1,2023,Theory
+23,AE23521,Airframe and Aero Engine Laboratory,Aeronautical Engineering,2,0,4,0,2023,Laboratory
+24,AE23531,Aircraft Structures - II,Aeronautical Engineering,4,2,2,1,2023,LOT
+25,AE23611,Rocket Propulsion,Aeronautical Engineering,3,2,0,1,2023,Theory
+26,AE23612,Composite Materials and Structures,Aeronautical Engineering,3,3,0,0,2023,Theory
+27,AE23621,Artificial Intelligence and Machine Learning for Aeronautical Engineering,Aeronautical Engineering,2,0,4,0,2023,Laboratory
+28,AE23622,Jet propulsion Laboratory,Aeronautical Engineering,2,0,4,0,2023,Laboratory
+29,AE23623,Computational Simulation Laboratory,Aeronautical Engineering,2,0,4,0,2023,Laboratory
+30,AE23631,Flight Vehicle Design,Aeronautical Engineering,4,3,2,0,2023,LOT
+31,AE23632,Innovation and Design Thinking for Engineers,Aeronautical Engineering,2,0,2,0,2023,Laboratory
+32,AE23721,Project Work (Phase - I),Aeronautical Engineering,2,0,4,0,2023,Laboratory
+33,AE23731,Avionics,Aeronautical Engineering,4,3,2,0,2023,LOT
+34,AE23821,Project Work (Phase - II),Aeronautical Engineering,8,0,16,0,2023,Laboratory
+35,AI23231,Principles of Artificial Intelligence,Artificial Intelligence and Machine Learning,4,3,2,0,2023,LOT
+36,AI23331,Fundamentals of Machine Learning,Artificial Intelligence and Machine Learning,4,3,2,0,2023,LOT
+37,AI23431,Web Technology and Mobile Application,Artificial Intelligence and Machine Learning,3,1,4,0,2023,LOT
+38,AI23521,Build and Deploy Machine Learning Applications,Artificial Intelligence and Machine Learning,1,0,2,0,2023,Laboratory
+39,AI23531,Deep Learning,Artificial Intelligence and Machine Learning,4,3,2,0,2023,LOT
+40,AI23611,Secure Systems Engineering,Artificial Intelligence and Machine Learning,3,3,0,0,2023,Theory
+41,AI23631,Predictive and Prescriptive Analytics,Artificial Intelligence and Machine Learning,4,3,2,0,2023,LOT
+42,AI23632,Foundations of Natural Language Processing,Artificial Intelligence and Machine Learning,4,3,2,0,2023,LOT
+43,AI23633,Design Thinking for Innovation in Machine Learning,Artificial Intelligence and Machine Learning,2,1,2,0,2023,LOT
+44,AI23711,Social and Ethical Issues in AI,Artificial Intelligence and Machine Learning,1,1,0,0,2023,Theory
+45,AI23712,Reinforcement Learning,Artificial Intelligence and Machine Learning,3,3,0,0,2023,Theory
+46,AI23721,Project Work (Phase - I),Artificial Intelligence and Machine Learning,4,0,8,0,2023,Laboratory
+47,AI23821,Project Work (Phase - II),Artificial Intelligence and Machine Learning,6,0,12,0,2023,Laboratory
+48,AT23111,Production Technology - I,Automobile Engineering,3,3,0,0,2023,Theory
+49,AT23321,Computer Aided Machine Drawing Laboratory,Automobile Engineering,2,0,4,0,2023,Laboratory
+50,AT23331,Automotive Engines,Automobile Engineering,4,3,2,0,2023,LOT
+51,AT23332,Applied Thermodynamics,Automobile Engineering,4,2,2,1,2023,LOT
+52,AT23333,Strength of Materials for Automobile Engineers,Automobile Engineering,4,2,2,1,2023,LOT
+53,AT23334,Production Technology - II,Automobile Engineering,4,3,2,0,2023,LOT
+54,AT23411,Electric and Hybrid Vehicles - I,Automobile Engineering,3,3,0,0,2023,Theory
+55,AT23412,Engineering Materials and Metallurgy,Automobile Engineering,3,3,0,0,2023,Theory
+56,AT23431,Automotive Drive Line and Chassis,Automobile Engineering,4,3,2,0,2023,LOT
+57,AT23432,Fluid Mechanics and Machinery for Automobile Engineers,Automobile Engineering,4,2,2,1,2023,LOT
+58,AT23433,Theory of Machines,Automobile Engineering,4,2,2,1,2023,LOT
+59,AT23511,Machine Design,Automobile Engineering,3,2,0,1,2023,Theory
+60,AT23521,Two and Three wheelers Laboratory,Automobile Engineering,1,0,2,0,2023,Laboratory
+61,AT23522,Computer Aided Vehicle Design Data Characteristics Laboratory,Automobile Engineering,1,0,2,0,2023,Laboratory
+62,AT23531,Automotive Electrical and Electronics,Automobile Engineering,4,3,2,0,2023,LOT
+63,AT23532,Electric and Hybrid Vehicles - II,Automobile Engineering,4,3,2,0,2023,LOT
+64,AT23621,Design Thinking and Innovation for Automobile Engineers,Automobile Engineering,2,0,4,0,2023,Laboratory
+65,AT23631,Automotive System Design,Automobile Engineering,4,2,2,1,2023,LOT
+66,AT23632,Vehicle Dynamics,Automobile Engineering,4,2,2,1,2023,LOT
+67,AT23633,Automotive Fuels and Lubricants,Automobile Engineering,4,3,2,0,2023,LOT
+68,AT23711,Automotive Pollution and Control,Automobile Engineering,3,3,0,0,2023,Theory
+69,AT23712,Intelligent Vehicle System,Automobile Engineering,3,3,0,0,2023,Theory
+70,AT23713,Automotive Safety,Automobile Engineering,3,3,0,0,2023,Theory
+71,AT23721,AI and ML for Automobile Engineers,Automobile Engineering,2,0,4,0,2023,LOT
+72,AT23722,Vehicle Maintenance Laboratory,Automobile Engineering,1,0,2,0,2023,Laboratory
+73,AT23723,Computer Aided Analysis laboratory,Automobile Engineering,1,0,2,0,2023,Laboratory
+74,AT23821,Project Work,Automobile Engineering,10,0,20,0,2023,Laboratory
+75,BA23212,Fundamentals of Economics,Computer Science and Business Systems,2,2,0,0,2023,Theory
+76,BA23412,Fundamentals of Management,Computer Science and Business Systems,2,2,0,0,2023,Theory
+77,BA23511,Principles of Financial Management,Computer Science and Business Systems,2,2,0,0,2023,Theory
+78,BA23512,Fundamentals of Accounting,Computer Science and Business Systems,3,3,0,0,2023,Theory
+79,BA23611,Financial and Cost Accounting,Computer Science and Business Systems,2,2,0,0,2023,Theory
+80,BA23612,Business Strategy,Computer Science and Business Systems,2,2,0,0,2023,Theory
+81,BM23231,Electric Circuits and Machines,Biomedical Engineering,4,3,2,0,2023,LOT
+82,BM23311,Human Anatomy and Physiology,Biomedical Engineering,3,3,0,0,2023,Theory
+83,BM23312,Biomedical Instrumentation,Biomedical Engineering,3,3,0,0,2023,Theory
+84,BM23313,Biochemical Science,Biomedical Engineering,3,3,0,0,2023,Theory
+85,BM23321,Biochemistry and Physiology Laboratory,Biomedical Engineering,2,0,4,0,2023,Laboratory
+86,BM23322,Biomedical Instrumentation Laboratory,Biomedical Engineering,2,0,4,0,2023,Laboratory
+87,BM23331,Electronic Devices & Circuits,Biomedical Engineering,4,3,2,0,2023,LOT
+88,BM23332,Sensors and Measurements,Biomedical Engineering,3,2,2,0,2023,LOT
+89,BM23411,Analog and Digital Integrated Circuits,Biomedical Engineering,3,3,0,0,2023,Theory
+90,BM23412,Principles of Communication Systems,Biomedical Engineering,3,3,0,0,2023,Theory
+91,BM23421,Analog and Digital Integrated Circuits Laboratory,Biomedical Engineering,2,0,4,0,2023,Laboratory
+92,BM23422,PCB Design Laboratory,Biomedical Engineering,1,0,2,0,2023,Laboratory
+93,BM23431,Pathology and Microbiology,Biomedical Engineering,3,2,2,0,2023,LOT
+94,BM23511,Biocontrol systems,Biomedical Engineering,3,3,0,0,2023,Theory
+95,BM23512,Diagnostic and Therapeutic Equipment,Biomedical Engineering,3,3,0,0,2023,Theory
+96,BM23521,Diagnostic and Therapeutic Equipment Laboratory,Biomedical Engineering,2,0,4,0,2023,Laboratory
+97,BM23531,Signals and Systems Analysis,Biomedical Engineering,3,1,2,1,2023,LOT
+98,BM23532,Microcontroller and Embedded System Design,Biomedical Engineering,4,3,2,0,2023,LOT
+99,BM23611,Radiological Equipment,Biomedical Engineering,3,3,0,0,2023,Theory
+100,BM23612,Biomechanics,Biomedical Engineering,4,3,0,1,2023,Theory
+101,BM23621,Medical Industrial Training,Biomedical Engineering,1,0,2,0,2023,Laboratory
+102,BM23631,Biosignal Processing,Biomedical Engineering,3,1,2,1,2023,LOT
+103,BM23632,Physiological Modeling Laboratory,Biomedical Engineering,2,1,2,0,2023,LOT
+104,BM23633,Design thinking for Innovation in Biomedical Engineering,Biomedical Engineering,2,1,2,0,2023,LOT
+105,BM23711,Comprehension In Biomedical Engineering,Biomedical Engineering,1,1,0,0,2023,Theory
+106,BM23721,Artificial Intelligence and Machine learning for Biomedical Engineering,Biomedical Engineering,2,0,4,0,2023,LOT
+107,BM23722,Project Work (Phase - I),Biomedical Engineering,3,0,6,0,2023,Laboratory
+108,BM23723,Hospital Training,Biomedical Engineering,1,0,2,0,2023,Laboratory
+109,BM23731,Medical Image Processing,Biomedical Engineering,4,2,2,1,2023,LOT
+110,BM23821,Project Work (Phase - II),Biomedical Engineering,8,0,16,0,2023,Laboratory
+111,BT23131,Microbiology,Biotechnology,4,2,4,0,2023,LOT
+112,BT23211,Biochemistry,Biotechnology,3,3,0,0,2023,Theory
+113,BT23221,Biochemistry Laboratory,Biotechnology,2,0,4,0,2023,Laboratory
+114,BT23311,Enzyme Technology and Biotransformations,Biotechnology,3,3,0,0,2023,Theory
+115,BT23312,Stoichiometry and Fluid Mechanics,Biotechnology,3,3,0,1,2023,Theory
+116,BT23313,Molecular Biology,Biotechnology,3,3,3,0,2023,Theory
+117,BT23314,Cell Biology,Biotechnology,3,3,0,0,2023,Theory
+118,BT23321,Basic Food and Enzyme Technology Laboratory,Biotechnology,1,0,2,0,2023,Laboratory
+119,BT23331,Analytical Techniques in Biotechnology,Biotechnology,3,2,2,0,2023,LOT
+120,BT23411,Food Biotechnology,Biotechnology,3,3,0,0,2023,Theory
+121,BT23412,Genetic Engineering,Biotechnology,3,3,0,0,2023,Theory
+122,BT23413,Thermodynamics and Heat transfer,Biotechnology,3,3,0,1,2023,Theory
+123,BT23414,Basic Industrial Biotechnology,Biotechnology,3,3,0,0,2023,Theory
+124,BT23421,Chemical Engineering Laboratory for Biotechnologists,Biotechnology,2,0,4,0,2023,Laboratory
+125,BT23422,Molecular Biology and Genetic Engineering Laboratory,Biotechnology,2,0,4,0,2023,Laboratory
+126,BT23511,Bioprocess Principles,Biotechnology,3,3,0,0,2023,Theory
+127,BT23512,Bioinformatics,Biotechnology,3,3,0,0,2023,Theory
+128,BT23513,Separation Process Principles,Biotechnology,3,3,0,1,2023,Theory
+129,BT23521,Bioprocess Laboratory- I,Biotechnology,2,0,4,0,2023,Laboratory
+130,BT23522,Bioinformatics Laboratory,Biotechnology,2,0,4,0,2023,Laboratory
+131,BT23611,Bioprocess Technology,Biotechnology,3,3,0,0,2023,Theory
+132,BT23612,Chemical Reaction Engineering,Biotechnology,3,3,0,0,2023,Theory
+133,BT23621,Bioprocess Laboratory II,Biotechnology,2,0,4,0,2023,Laboratory
+134,BT23622,Innovation and Design Thinking for Biotechnologists,Biotechnology,2,0,4,0,2023,Laboratory
+135,BT23623,Numerical Programming for Biotechnologists,Biotechnology,1,0,2,0,2023,Laboratory
+136,BT23711,Downstream Processing,Biotechnology,3,3,0,0,2023,Theory
+137,BT23712,Immunology,Biotechnology,3,3,0,0,2023,Theory
+138,BT23713,Protein Engineering,Biotechnology,3,3,0,0,2023,Theory
+139,BT23714,Comprehensive Course for Biotechnologists,Biotechnology,2,2,0,0,2023,Theory
+140,BT23721,Downstream Processing Lab,Biotechnology,2,0,4,0,2023,Laboratory
+141,BT23722,Immunology lab,Biotechnology,2,0,4,0,2023,Laboratory
+142,BT23723,Artificial Intelligence and Machine Learning for Biotechnologist,Biotechnology,2,0,4,0,2023,Laboratory
+143,BT23724,Industry Training (2 weeks Training during vacation),Biotechnology,1,0,0,0,2023,Others
+144,BT23821,Project Work,Biotechnology,12,0,24,0,2023,Laboratory
+145,CB23131,Fundamentals of Computer Science,Computer Science and Business Systems,4,2,4,0,2023,LOT
+146,CB23231,Data Structures &Algorithms,Computer Science and Business Systems,5,2,4,1,2023,LOT
+147,CB23311,Formal Language and Automata Theory,Computer Science and Business Systems,3,3,0,0,2023,Theory
+148,CB23312,Computer Organization and Architecture,Computer Science and Business Systems,3,3,0,0,2023,Theory
+149,CB23331,Computational Statistics,Computer Science and Business Systems,4,3,2,0,2023,LOT
+150,CB23332,Software Engineering,Computer Science and Business Systems,4,3,2,0,2023,LOT
+151,CB23333,Database Technology,Computer Science and Business Systems,4,3,2,0,2023,LOT
+152,CB23411,"Introduction to Innovation, IP Management and Entrepreneurship",Computer Science and Business Systems,3,3,0,0,2023,Theory
+153,CB23431,Operating System Concepts,Computer Science and Business Systems,4,3,2,0,2023,LOT
+154,CB23432,Software Design with UML,Computer Science and Business Systems,3,2,2,0,2023,LOT
+155,CB23433,Analysis of Algorithms and Design,Computer Science and Business Systems,4,2,2,1,2023,LOT
+156,CB23521,Design Thinking for Innovation in Computer Science and Business Systems,Computer Science and Business Systems,2,1,2,0,2023,LOT
+157,CB23531,Computer Network Technology,Computer Science and Business Systems,4,3,2,0,2023,LOT
+158,CB23532,Artificial Intelligence,Computer Science and Business Systems,4,3,2,0,2023,LOT
+159,CB23631,Machine Learning,Computer Science and Business Systems,4,2,2,1,2023,LOT
+160,CB23632,"Cloud, Micro services and Application",Computer Science and Business Systems,4,2,2,1,2023,LOT
+161,CB23633,Usability Design of Software Applications,Computer Science and Business Systems,3,2,2,0,2023,LOT
+162,CB23721,Project Evaluation I,Computer Science and Business Systems,2,0,4,0,2023,Laboratory
+163,CB23731,Data Visualization Techniques,Computer Science and Business Systems,3,2,2,0,2023,LOT
+164,CB23732,IT Project Management,Computer Science and Business Systems,3,2,2,0,2023,LOT
+165,CB23821,Project Evaluation II,Computer Science and Business Systems,8,0,16,0,2023,Laboratory
+166,CD23111,Design Drawing and Sketching,Computer Science and Design,3,2,0,1,2023,Theory
+167,CD23211,Foundation in Digital StoryTelling,Computer Science and Design,3,3,0,0,2023,Theory
+168,CD23231,Visual Communication Foundations,Computer Science and Design,4,2,4,0,2023,LOT
+169,CD23321,Python Programming for Design,Computer Science and Design,3,0,6,0,2023,Laboratory
+170,CD23331,Design Processes and Perspectives,Computer Science and Design,4,3,2,0,2023,LOT
+171,CD23332,UI and UX design,Computer Science and Design,4,2,4,0,2023,LOT
+172,CD23421,Industry Internship (2/4 weeks),Computer Science and Design,1,0,0,0,2023,Others
+173,CD23531,Animation and Graphics,Computer Science and Design,5,2,6,0,2023,LOT
+174,CD23532,Design Thinking for Innovation in Product Development,Computer Science and Design,2,1,2,0,2023,Laboratory
+175,CD23621,"Mobile Application Design and Development
+Laboratory ",Computer Science and Design,2,0,4,0,2023,Laboratory
+176,CD23622,Animated Educational Content/YouTube videos ,Computer Science and Design,3,0,6,0,2023,Laboratory
+177,CD23631,Game Design and Development,Computer Science and Design,4,2,4,0,2023,LOT
+178,CD23721,Visual Effects,Computer Science and Design,3,0,6,0,2023,Laboratory
+179,CD23722,Capstone Project Phase 1*,Computer Science and Design,4,0,8,0,2023,Laboratory
+180,CD23731,Film Making and Radio Podcasting,Computer Science and Design,3,2,2,0,2023,LOT
+181,CD23821,Capstone Project Phase 2*,Computer Science and Design,6,0,12,0,2023,Laboratory
+182,CE23111,Building Materials,Civil Engineering,3,3,0,0,2023,Theory
+183,CE23112,Engineering Drawing for Civil Engineers,Civil Engineering,4,2,4,0,2023,Theory
+184,CE23221,Computer Aided Building Drawing for Civil Engineers,Civil Engineering,2,0,4,0,2023,Laboratory
+185,CE23311,Strength of Materials I,Civil Engineering,3,3,0,0,2023,Theory
+186,CE23312,Fluid Mechanics,Civil Engineering,3,3,0,0,2023,Theory
+187,CE23313,"Construction Techniques, Equipment and Practice",Civil Engineering,3,3,0,0,2023,Theory
+188,CE23321,Construction Materials Laboratory,Civil Engineering,2,0,4,0,2023,Laboratory
+189,CE23331,Surveying,Civil Engineering,4,3,2,0,2023,LOT
+190,CE23411,Strength of Materials II,Civil Engineering,3,3,0,0,2023,Theory
+191,CE23412,Hydraulics and Irrigation Structures,Civil Engineering,3,3,0,0,2023,Theory
+192,CE23413,Water Supply Engineering,Civil Engineering,3,3,0,0,2023,Theory
+193,CE23414,Highway and Railway Engineering,Civil Engineering,3,3,0,0,2023,Theory
+194,CE23421,Strength of Materials and Hydraulic Engineering Laboratory,Civil Engineering,2,0,4,0,2023,Laboratory
+195,CE23431,Soil Mechanics,Civil Engineering,4,3,2,0,2023,LOT
+196,CE23511,Design of Reinforced Concrete Elements,Civil Engineering,4,3,0,1,2023,Theory
+197,CE23512,Foundation Engineering,Civil Engineering,3,3,0,0,2023,Theory
+198,CE23513,Waste Water Engineering,Civil Engineering,3,3,0,0,2023,Theory
+199,CE23521,Water and Waste Water Analysis Laboratory,Civil Engineering,2,0,4,0,2023,Laboratory
+200,CE23531,Structural Analysis,Civil Engineering,4,3,2,0,2023,LOT
+201,CE23611,Design of Steel Structures,Civil Engineering,4,3,0,1,2023,Theory
+202,CE23612,"Construction, Planning,Scheduling and Management",Civil Engineering,3,3,0,0,2023,Theory
+203,CE23613,Structural Dynamics and Earthquake Engineering,Civil Engineering,3,3,0,0,2023,Theory
+204,CE23631,Structural Design and Drawing,Civil Engineering,4,3,2,0,2023,LOT
+205,CE23632,Design Thinking for innovation in Civil Engineering,Civil Engineering,2,1,2,0,2023,Laboratory
+206,CE23711,"Estimation, Costing and Valuation Engineering",Civil Engineering,3,3,0,0,2023,Theory
+207,CE23712,Hydrology,Civil Engineering,3,3,0,0,2023,Theory
+208,CE23721,Building Information Modelling,Civil Engineering,2,0,4,0,2023,Laboratory
+209,CE23723,Artificial Intelligence and Machine Learning for Civil Engineers,Civil Engineering,2,0,4,0,2023,Others
+210,CE23821,Project Work,Civil Engineering,6,0,12,0,2023,Laboratory
+211,CH23211,Introduction to Chemical Engineering,Chemical Engineering,3,3,0,0,2023,Theory
+212,CH23311,Solid Mechanics,Chemical Engineering,3,2,0,1,2023,Theory
+213,CH23312,Chemical Process Calculations,Chemical Engineering,3,2,0,1,2023,Theory
+214,CH23313,Chemical Process Industries,Chemical Engineering,3,3,0,0,2023,Theory
+215,CH23331,Fluid Mechanics for Chemical Engineers,Chemical Engineering,4,3,2,1,2023,LOT
+216,CH23411,Thermodynamics,Chemical Engineering,3,3,0,0,2023,Theory
+217,CH23412,Heat Transfer,Chemical Engineering,3,3,0,0,2023,Theory
+218,CH23421,Technical Analysis Lab,Chemical Engineering,2,0,4,0,2023,Laboratory
+219,CH23431,Particle science and Technology,Chemical Engineering,4,3,2,0,2023,LOT
+220,CH23511,Process Engineering Economics,Chemical Engineering,3,3,0,0,2023,Theory
+221,CH23512,Chemical Engineering Thermodynamics,Chemical Engineering,3,3,0,0,2023,Theory
+222,CH23513,Mass Transfer I,Chemical Engineering,3,3,0,0,2023,Theory
+223,CH23514,Chemical Reaction Engineering I,Chemical Engineering,3,3,0,0,2023,Theory
+224,CH23521,Heat Transfer Lab,Chemical Engineering,2,0,4,0,2023,Laboratory
+225,CH23611,Mass Transfer II,Chemical Engineering,3,3,0,0,2023,Theory
+226,CH23612,Chemical Reaction Engineering II,Chemical Engineering,3,3,0,0,2023,Theory
+227,CH23613,Process Control,Chemical Engineering,3,3,0,0,2023,Theory
+228,CH23614,Process Equipment Design,Chemical Engineering,3,3,0,0,2023,Theory
+229,CH23621,Mass Transfer Lab,Chemical Engineering,2,0,4,0,2023,Laboratory
+230,CH23622,Innovation and Design thinking for Chemical Engineers,Chemical Engineering,2,0,4,0,2023,Laboratory
+231,CH23711,Transport Phenomena,Chemical Engineering,3,3,0,0,2023,Theory
+232,CH23712,Comprehensive Chemical Engineering,Chemical Engineering,3,3,0,0,2023,Theory
+233,CH23713,Computer Applications in Chemical Engineering,Chemical Engineering,3,3,0,0,2023,Theory
+234,CH23714,Process Plant Utilities,Chemical Engineering,3,3,0,0,2023,Theory
+235,CH23721,Chemical Reaction Engineering lab,Chemical Engineering,2,0,4,0,2023,Laboratory
+236,CH23722,Process Control Lab,Chemical Engineering,2,0,4,0,2023,Laboratory
+237,CH23723,Artificial Intelligence and Machine Learning for Chemical Engineers,Chemical Engineering,2,0,4,0,2023,Laboratory
+238,CH23811,Project Work,Chemical Engineering,12,0,24,0,2023,Laboratory
+239,CR19P62,Microfluidics Laboratory,Computer Science & Engineering (Cyber Security),2,0,4,0,2023,Laboratory
+240,CR23331,Cryptography,Computer Science & Engineering (Cyber Security),4,3,2,0,2023,LOT
+241,CR23431,Network Security,Computer Science & Engineering (Cyber Security),4,3,2,0,2023,LOT
+242,CR23432,Design Thinking for Innovation in Computer Science,Computer Science & Engineering (Cyber Security),2,1,2,0,2023,LOT
+243,CR23531,Ethical Hacking,Computer Science & Engineering (Cyber Security),4,3,2,0,2023,LOT
+244,CR23532,Cyber and Digital Forensics,Computer Science & Engineering (Cyber Security),4,3,2,0,2023,LOT
+245,CR23611,Cyber Laws and Security Policies,Computer Science & Engineering (Cyber Security),3,3,0,0,2023,Theory
+246,CR23631,Malware Analysis,Computer Science & Engineering (Cyber Security),4,3,2,0,2023,LOT
+247,CR23632,Blockchain Technologies,Computer Science & Engineering (Cyber Security),4,3,2,0,2023,LOT
+248,CR23721,Project Work (Phase - I),Computer Science & Engineering (Cyber Security),3,0,6,0,2023,Laboratory
+249,CR23731,Blockchain Development in Hyper ledger Fabric,Computer Science & Engineering (Cyber Security),3,2,2,0,2023,LOT
+250,CR23821,Project Work (Phase - II),Computer Science & Engineering (Cyber Security),6,0,12,0,2023,Laboratory
+251,CR23P51,Microfluidics Laboratory,Computer Science & Engineering (Cyber Security),1,0,2,0,2023,Laboratory
+252,CR23P62,Microfluidics Laboratory,Computer Science & Engineering (Cyber Security),1,0,2,0,2023,Laboratory
+253,CS23221,Python Programming Lab,Computer Science & Engineering,2,0,4,0,2023,Laboratory
+254,CS23231,Data Structures,Computer Science & Engineering,5,3,4,0,2023,LOT
+255,CS23232,Fundamentals of Data Structures using C,Computer Science & Engineering,5,3,4,0,2023,LOT
+256,CS23311,Computer Architecture,Computer Science & Engineering,3,3,0,0,2023,Theory
+257,CS23331,Design and Analysis of Algorithms,Computer Science & Engineering,4,3,2,0,2023,LOT
+258,CS23332,Database Management Systems,Computer Science & Engineering,5,3,4,0,2023,LOT
+259,CS23333,Object Oriented Programming Using JAVA,Computer Science & Engineering,4,1,6,0,2023,LOT
+260,CS23334,Fundamentals of Data Science,Computer Science & Engineering,4,3,2,0,2023,LOT
+261,CS23336,Introduction to Python Programming,Computer Science & Engineering,3,1,4,0,2023,LOT
+262,CS23411,Python Programming for Machine Learning,Computer Science & Engineering,3,1,4,0,2023,LOT
+263,CS23422,Python Programming for Machine Learning,Computer Science & Engineering,2,0,4,0,2023,Laboratory
+264,CS23431,Operating Systems,Computer Science & Engineering,5,3,4,0,2023,LOT
+265,CS23432,Software Construction,Computer Science & Engineering,4,3,2,0,2023,Laboratory
+266,CS23433,Design Thinking for Innovation in Computer Science,Computer Science & Engineering,2,1,2,0,2023,LOT
+267,CS23511,Theory of Computation,Computer Science & Engineering,4,3,0,1,2023,Theory
+268,CS23512,Fundamentals of Mobile Computing,Computer Science & Engineering,3,3,0,0,2023,Theory
+269,CS23531,Web Programming,Computer Science & Engineering,3,1,4,0,2023,LOT
+270,CS23532,Computer Networks,Computer Science & Engineering,5,3,4,0,2023,LOT
+271,CS23621,Mobile Application Development Laboratory,Computer Science & Engineering,2,0,4,0,2023,Laboratory
+272,CS23631,Compiler Design,Computer Science & Engineering,4,3,2,0,2023,LOT
+273,CS23632,Cryptography and Network Security,Computer Science & Engineering,3,2,2,0,2023,LOT
+274,CS23633,Cloud Computing,Computer Science & Engineering,3,2,2,0,2023,LOT
+275,CS23721,Project Work (Phase - I),Computer Science & Engineering,3,0,6,0,2023,Laboratory
+276,CS23821,Project Work (Phase - II),Computer Science & Engineering,6,0,12,0,2023,Laboratory
+277,CY23131,Chemistry For Electronics Engineering,Chemistry,4,3,2,0,2023,LOT
+278,CY23132,Chemistry for Technologists,Chemistry,4,3,2,0,2023,LOT
+279,CY23223,Engineering Chemistry ,Chemistry,4,3,2,0,2023,LOT
+280,CY23312,Chemistry for Electronics Engineering,Chemistry,4,3,2,0,2023,LOT
+281,CY23312,Chemistry for Technologists,Chemistry,4,3,2,0,2023,LOT
+282,CY23334,Physical and Organic Chemistry,Chemistry,4,3,2,0,2023,LOT
+283,EC23111,Basic Electronics Engineering,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+284,EC23131,Electron Devices,Electronics and Communication Engineering,4,3,2,0,2023,LOT
+285,EC23232,Digital Logic and Microprocessor,Electronics and Communication Engineering,4,3,2,0,2023,LOT
+286,EC23242,Principles of Electronics,Electronics and Communication Engineering,3,2,2,0,2023,LOT
+287,EC23311,Analog Circuits –I,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+288,EC23312,Electromagnetic Fields,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+289,EC23313,Digital Principles and System Design,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+290,EC23314,Analog and Digital Communication,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+291,EC23321,Analog and Digital Circuits Laboratory,Electronics and Communication Engineering,2,0,4,0,2023,Laboratory
+292,EC23331,Microprocessors and Microcontrollers,Electronics and Communication Engineering,4,3,2,0,2023,LOT
+293,EC23411,Signals and Systems,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+294,EC23412,Transmission Lines and Waveguides,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+295,EC23413,Communication Theory,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+296,EC23431,Analog Circuits-II,Electronics and Communication Engineering,4,3,2,0,2023,LOT
+297,EC23511,Control System Engineering,Electronics and Communication Engineering,3,2,0,1,2023,Theory
+298,EC23512,Modern Digital Communication,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+299,EC23521,Communication Systems Laboratory,Electronics and Communication Engineering,2,0,4,0,2023,Laboratory
+300,EC23522,Industrial Internship,Electronics and Communication Engineering,1,0,2,0,2023,Laboratory
+301,EC23531,Digital Signal Processing,Electronics and Communication Engineering,4,2,2,1,2023,LOT
+302,EC23611,Antenna Theory and Wave Propagation,Electronics and Communication Engineering,3,3,0,0,2023,Theory
+303,EC23621,Design Thinking for Innovation in ECE,Electronics and Communication Engineering,2,0,4,0,2023,Laboratory
+304,EC23631,VLSI and Chip Design,Electronics and Communication Engineering,4,3,2,0,2023,LOT
+305,EC23632,Communication Networks,Electronics and Communication Engineering,4,3,2,0,2023,LOT
+306,EC23633,Wireless Communication,Electronics and Communication Engineering,3,2,2,0,2023,LOT
+307,EC23721,Artificial Intelligence and Machine Learning for Electronic Engineering,Electronics and Communication Engineering,2,0,4,0,2023,Laboratory
+308,EC23731,Optical Communication and Networks,Electronics and Communication Engineering,3,2,2,0,2023,LOT
+309,EC23732,RF and Microwave Engineering,Electronics and Communication Engineering,3,2,2,0,2023,LOT
+310,EC23733,Embedded and Real Time Systems,Electronics and Communication Engineering,4,3,2,0,2023,LOT
+311,EC23821,Project Work,Electronics and Communication Engineering,10,0,20,0,2023,Laboratory
+312,EE23131,Principles of Electrical Engineering,Electrical and Electronics Engineering,3,2,2,0,2023,LOT
+313,EE23132,Basic Electrical Engineering,Electrical and Electronics Engineering,4,3,2,0,2023,LOT
+314,EE23133,Basic Electrical and Electronics Engineering,Electrical and Electronics Engineering,4,3,2,0,2023,LOT
+315,EE23212,Electric Circuits,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+316,EE23221,Electric Circuits Laboratory,Electrical and Electronics Engineering,1,0,2,0,2023,Laboratory
+317,EE23311,Electromagnetic Theory,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+318,EE23312,Electrical Machines – I,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+319,EE23313,Measurements and Instrumentation,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+320,EE23314,Electronic Devices and Circuits,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+321,EE23315,Power Plant Engineering,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+322,EE23321,Electronic Devices and Circuits Laboratory,Electrical and Electronics Engineering,1,0,2,0,2023,Laboratory
+323,EE23411,Electrical Machines – II,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+324,EE23412,Transmission and Distribution,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+325,EE23421,Electrical Machines Laboratory,Electrical and Electronics Engineering,2,0,4,0,2023,Laboratory
+326,EE23431,Digital Logic Circuits,Electrical and Electronics Engineering,4,3,2,0,2023,LOT
+327,EE23432,Linear Integrated Circuits and Applications,Electrical and Electronics Engineering,4,3,2,0,2023,LOT
+328,EE23511,Power System Analysis,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+329,EE23512,Power Electronics,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+330,EE23513,Control Systems,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+331,EE23521,Control and Instrumentation Laboratory,Electrical and Electronics Engineering,1,0,2,0,2023,Laboratory
+332,EE23522,Innovation and Design Thinking for Electrical Engineers,Electrical and Electronics Engineering,2,0,4,0,2023,Laboratory
+333,EE23531,"Microprocessors, Microcontrollers and Applications",Electrical and Electronics Engineering,4,3,2,0,2023,LOT
+334,EE23611,Protection and Switchgear,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+335,EE23612,Solid State Drives,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+336,EE23613,Electric Energy Utilization and Conservation,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+337,EE23621,Power Electronics and Drives Laboratory,Electrical and Electronics Engineering,1,0,2,0,2023,Laboratory
+338,EE23622,Applications of AI and ML in Electrical Engineering,Electrical and Electronics Engineering,2,0,4,0,2023,Laboratory
+339,EE23631,Applications of IoT in Electrical Engineering,Electrical and Electronics Engineering,3,2,2,0,2023,LOT
+340,EE23711,Smart Grid,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+341,EE23712,Power System Operation and Control,Electrical and Electronics Engineering,3,3,0,0,2023,Theory
+342,EE23721,Power System Simulation Laboratory,Electrical and Electronics Engineering,2,0,4,0,2023,Laboratory
+343,EE23722,Project ( Phase-I ),Electrical and Electronics Engineering,4,0,8,0,2023,Laboratory
+344,EE23731,Renewable Energy Systems,Electrical and Electronics Engineering,4,3,2,0,2023,LOT
+345,EE23821,Project Work (Phase - II),Electrical and Electronics Engineering,6,0,12,0,2023,Laboratory
+346,FT23201,Food chemistry,Food Technology,3,3,0,0,2023,Theory
+347,FT23211,Food Chemistry Laboratory,Food Technology,2,0,4,0,2023,Laboratory
+348,FT23301,Food Microbiology,Food Technology,3,3,0,0,2023,Theory
+349,FT23302,Biochemistry & Nutrition,Food Technology,3,3,0,0,2023,Theory
+350,FT23303,Food Process Calculations,Food Technology,3,3,0,0,2023,Theory
+351,FT23304,"Fluid Mechanics in Food
+Processes",Food Technology,3,3,0,0,2023,Theory
+352,FT23305,Food Additives,Food Technology,3,3,0,0,2023,Theory
+353,FT23311,Food Microbiology Laboratory,Food Technology,2,0,4,0,2023,Laboratory
+354,FT23312,"Biochemistry & Nutrition
+Laboratory",Food Technology,2,0,4,0,2023,Laboratory
+355,FT23401,"Unit operations in Food
+Industries",Food Technology,3,3,0,0,2023,Theory
+356,FT23402,"Food Processing and
+Preservation Technology",Food Technology,3,3,0,0,2023,Theory
+357,FT23403,"Thermodynamics for Food
+Technologists",Food Technology,3,3,0,0,2023,Theory
+358,FT23411,Unit operations in Food Industries Laboratory,Food Technology,2,0,4,0,2023,Laboratory
+359,FT23412,Food Processing and Preservation Laboratory,Food Technology,2,0,4,0,2023,Laboratory
+360,FT23501,Food Analysis,Food Technology,3,3,0,0,2023,Theory
+361,FT23502,Food Product Technology,Food Technology,3,3,0,0,2023,Theory
+362,FT23503,"Heat and Mass Transfer in
+Food Processing",Food Technology,3,3,0,0,2023,Theory
+363,FT23511,Food Analysis Lab,Food Technology,2,0,4,0,2023,Laboratory
+364,FT23512,"Food Product Technology
+Laboratory",Food Technology,2,0,4,0,2023,Laboratory
+365,FT23601,Professional Ethics,Food Technology,3,3,0,0,2023,Theory
+366,FT23602,"Refrigeration and Cold Chain
+Management",Food Technology,3,3,0,0,2023,Theory
+367,FT23611,"Innovation and Design thinking
+for Food Technologists",Food Technology,2,0,4,0,2023,Laboratory
+368,FT23701,"Food Quality, Safety Standards
+and Certification",Food Technology,3,3,0,0,2023,Theory
+369,FT23702,"Comprehensive course for
+Food Technologists.",Food Technology,3,3,0,0,2023,Theory
+370,FT23703,"Functional Foods and
+Nutraceuticals",Food Technology,3,3,0,0,2023,Theory
+371,FT23704,Sensory evaluation in foods,Food Technology,2,3,0,0,2023,Theory
+372,FT23711,"Problem solving using AI-ML
+for Food Technologists.",Food Technology,2,0,4,0,2023,LOT
+373,FT23801,Internship/ Project Work,Food Technology,10,0,20,0,2023,Laboratory
+374,GE19304,Fundamentals of Management for Engineers,Mechanical Engineering,3,3,0,0,2023,Theory
+375,GE23111,Engineering Graphics,Mechanical Engineering,4,4,0,2,2023,Theory
+376,GE23117,தமிழர் மரபு /Heritage of Tamils,Mechanical Engineering,1,1,0,0,2023,Theory
+377,GE23121,Engineering Practices – Civil and Mechanical,Mechanical Engineering,1,0,2,0,2023,Laboratory
+378,GE23122,Engineering Practices – Electrical and Electronics,Electrical and Electronics Engineering,1,0,2,0,2023,Laboratory
+379,GE23131,Programming using C,Computer Science & Engineering,4,1,6,0,2023,LOT
+380,GE23211,Engineering Mechanics,Mechanical Engineering,3,2,0,1,2023,Theory
+381,GE23212,Basic Civil and Mechanical Engineering,Mechanical Engineering,3,3,0,0,2023,Theory
+382,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Mechanical Engineering,1,1,0,0,2023,Theory
+383,GE23231,Programming Using Python,Computer Science & Engineering,3,1,4,0,2023,LOT
+384,GE23233,Problem Solving and Python Programming,Computer Science & Engineering,4,2,4,0,2023,LOT
+385,GE23311,Fundamentals of Management for Engineers,Mechanical Engineering,3,3,0,0,2023,Theory
+386,GE23327,Soft Skills – I,Placement,1,0,2,0,2023,Laboratory
+387,GE23421,Soft Skills – I,Placement,1,0,2,0,2023,Laboratory
+388,GE23427,Soft Skills – II,Placement,1,0,2,0,2023,Laboratory
+389,GE23511,Economics for Engineers,Mechanical Engineering,3,3,0,0,2023,Theory
+390,GE23521,Soft Skills – II,Placement,1,0,2,0,2023,Laboratory
+391,GE23621,Problem Solving Techniques,Placement,1,0,2,0,2023,Laboratory
+392,GE23622,Problem Solving Techniques,Placement,1,0,2,0,2023,Others
+393,GE23627,Problem Solving Techniques,Placement,1,0,2,0,2023,Laboratory
+394,GE23711,Fundamentals of Management for Engineers,Mechanical Engineering,3,3,0,0,2023,Theory
+395,HS23111,Technical Communication -I,English,2,2,0,0,2023,Theory
+396,HS23112,Business Communication and Value Science – I,English,2,2,0,0,2023,Theory
+397,HS23221,Technical Communication II,English,1,0,2,0,2023,Laboratory
+398,HS23221/HS23222,Technical Communication II/ English for Professional Competence,English,1,2,0,0,2023,Theory
+399,HS23222/HS23223,Technical Communication II / English for Professional Competence,English,1,0,2,0,2023,Theory
+400,HS23223,Business Communication & Value Science – II,English,2,0,4,0,2023,Laboratory
+401,HS23421,Business Communication and Value Science – III,English,2,0,4,0,2023,Laboratory
+402,HS23621,Business Communication & Value Science – IV,English,2,0,4,0,2023,Laboratory
+403,IT23231,Digital Logic and Computer Architecture,Information Technology,4,3,2,0,2023,LOT
+404,IT23431,Software Testing,Information Technology,3,2,2,0,2023,LOT
+405,IT23511,Automata Theory & Compiler Design,Information Technology,3,3,0,0,2023,Theory
+406,IT23531,Computer Vision,Information Technology,4,3,2,0,2023,LOT
+407,IT23631,"Design Thinking for Innovation in Information
+ Technology",Information Technology,2,1,2,0,2023,LOT
+408,IT23721,Data Science using R,Information Technology,2,0,4,0,2023,Laboratory
+409,IT23722,Project Work (Phase - I),Information Technology,3,0,6,0,2023,Laboratory
+410,IT23731,Cloud and Big data Architecture,Information Technology,4,3,2,0,2023,LOT
+411,IT23821,Project Work (Phase - II),Information Technology,6,0,12,0,2023,Laboratory
+412,MA23111,Linear Algebra and Calculus,Mathematics,4,3,0,1,2023,Theory
+413,MA23112,Algebra and Calculus,Mathematics,4,3,0,1,2023,Theory
+414,MA23113,Mathematics for Design,Mathematics,4,3,0,1,2023,Theory
+415,MA23114,Probability and Calculus,Mathematics,4,3,0,1,2023,Theory
+416,MA23115,Discrete Mathematics,Mathematics,4,3,0,1,2023,Theory
+417,MA23116,Mathematical Foundations for AI,Mathematics,4,3,0,1,2023,Theory
+418,MA23211,Linear Algebra,Mathematics,4,3,0,1,2023,Theory
+419,MA23212,"Differential Equation and Analytical 
+Complex Functions",Mathematics,4,3,0,1,2023,Theory
+420,MA23212,Differential Equation and Analytical Functions,Mathematics,4,3,0,1,2023,Theory
+421,MA23212,Differential Equations and Complex Variables,Mathematics,4,3,0,1,2023,Theory
+422,MA23213,Discrete Mathematical Structures ,Mathematics,4,3,0,1,2023,Theory
+423,MA23214,Probability and Inferential Statistics,Mathematics,4,3,0,1,2023,Theory
+424,MA23231,Statistical Modeling,Mathematics,4,3,2,0,2023,LOT
+425,MA23311,Transforms and Applied Partial Differential Equations,Mathematics,4,3,0,1,2023,Theory
+426,MA23312,Fourier series and Number theory,Mathematics,4,3,0,1,2023,Theory
+427,MA23313,Discrete Mathematics for AI,Mathematics,4,3,0,1,2023,Theory
+428,MA23331,Transforms and Statistics,Mathematics,4,3,2,0,2023,LOT
+429,MA23416,Probability and Random Process,Mathematics,4,3,0,1,2023,Theory
+430,MA23431,"Probability, Statistics and Reliability",Mathematics,4,3,2,0,2023,LOT
+431,MA23432,Statistics and Numerical Methods,Mathematics,4,3,2,0,2023,LOT
+432,MA23433,Mathematical Modelling and Simulation,Mathematics,4,3,2,0,2023,LOT
+433,MA23434,Optimization Techniques for AI,Mathematics,4,3,2,0,2023,LOT
+434,MA23435,"Probability, Statistics and Simulation ",Mathematics,4,3,2,0,2023,LOT
+435,MA23436,Probability and Random Processes,Mathematics,4,3,2,0,2023,LOT
+436,MA23437,Optimization Techniques,Mathematics,4,3,2,0,2023,LOT
+437,MC23111,Indian Constitution and Freedom Movement,English,0,3,0,0,2023,Theory
+438,MC23112,Environmental Science and Engineering,Chemistry,0,3,0,0,2023,Theory
+439,MC23301,"Essence of Indian Traditional Knowledge
+(Non-Credit course)",English,0,2,0,0,2023,Theory
+440,MC23313,Environmental Sciences,Chemistry,0,3,0,0,2023,Theory
+441,ME23211,Engineering Mechanics for Biomedical Engineers,Mechanical Engineering,4,3,0,1,2023,Theory
+442,ME23311,Engineering Thermodynamics,Mechanical Engineering,4,3,0,1,2023,Theory
+443,ME23312,Manufacturing Technology I,Mechanical Engineering,3,3,0,0,2023,Theory
+444,ME23313,Kinematics of Machinery,Mechanical Engineering,3,3,0,0,2023,Theory
+445,ME23321,Manufacturing Technology Laboratory I,Mechanical Engineering,1,0,2,0,2023,Laboratory
+446,ME23331,Strength of Materials,Mechanical Engineering,4,3,2,0,2023,LOT
+447,ME23411,Engineering Materials and Metallurgy,Mechanical Engineering,3,3,0,0,2023,Theory
+448,ME23412,Manufacturing Technology II,Mechanical Engineering,3,3,0,0,2023,Theory
+449,ME23421,Computer Aided Machine Drawing Laboratory,Mechanical Engineering,2,0,4,0,2023,Laboratory
+450,ME23422,"Manufacturing Technology
+ Laboratory II",Mechanical Engineering,2,0,4,0,2023,Laboratory
+451,ME23431,Dynamics of Machines,Mechanical Engineering,4,3,3,0,2023,LOT
+452,ME23432,Fluid Mechanics and Machinery,Mechanical Engineering,4,3,3,0,2023,LOT
+453,ME23433,Thermal Engineering,Mechanical Engineering,4,3,3,0,2023,LOT
+454,ME23511,Machine Design,Mechanical Engineering,3,3,0,0,2023,Theory
+455,ME23521,Component Modeling Laboratory,Mechanical Engineering,2,0,4,0,2023,Laboratory
+456,ME23531,Heat and Mass Transfer,Mechanical Engineering,4,3,2,0,2023,LOT
+457,ME23532,Metrology and Measurements,Mechanical Engineering,4,3,2,0,2023,LOT
+458,ME23611,Additive Manufacturing,Mechanical Engineering,3,3,0,0,2023,Theory
+459,ME23612,Design of Transmission systems,Mechanical Engineering,3,3,0,0,2023,Theory
+460,ME23613,Finite Element Analysis,Mechanical Engineering,3,3,0,0,2023,Theory
+461,ME23614,Total Quality Management,Mechanical Engineering,3,3,0,0,2023,Theory
+462,ME23622,"Simulation and Analysis
+ Laboratory",Mechanical Engineering,2,0,3,0,2023,Laboratory
+463,ME23623,"Innovation and Design thinking for
+ Mechanical Engineer",Mechanical Engineering,2,0,3,0,2023,Laboratory
+464,ME23631,Robotics Laboratory,Mechanical Engineering,2,1,2,0,2023,Laboratory
+465,ME23711,"Process Planning and Cost
+ Estimation",Mechanical Engineering,3,3,0,0,2023,Theory
+466,ME23721,Comprehension,Mechanical Engineering,1,0,2,0,2023,Laboratory
+467,ME23723,Project Work (Phase - I),Mechanical Engineering,1,0,2,0,2023,Laboratory
+468,ME23731,"Artificial Intelligence for
+ Mechanical Engineers",Mechanical Engineering,4,2,4,0,2023,LOT
+469,ME23732,Mechatronics,Mechanical Engineering,4,3,2,0,2023,LOT
+470,ME23821,Project Work,Mechanical Engineering,9,0,18,0,2023,Laboratory
+471,MT23121,Computer Aided Drawing Lab,Mechatronics Engineering,1,0,2,0,2023,Laboratory
+472,MT23131,Elements of Mechatronics,Mechatronics Engineering,3,2,2,0,2023,LOT
+473,MT23311,Analog Circuits and Drives,Mechatronics Engineering,3,2,2,0,2023,LOT
+474,MT23312,Fluid mechanics and Thermal Sciences,Mechatronics Engineering,3,3,0,0,2023,Theory
+475,MT23313,Mechanics of Solids,Mechatronics Engineering,4,3,2,0,2023,LOT
+476,MT23332,Digital System Design,Mechatronics Engineering,3,2,2,0,2023,LOT
+477,MT23421,Fluid mechanics and Thermal Sciences Laboratory,Mechatronics Engineering,2,0,4,0,2023,Laboratory
+478,MT23431,Manufacturing Technology,Mechatronics Engineering,4,3,2,0,2023,LOT
+479,MT23432,Microcontrollers and Embedded Systems,Mechatronics Engineering,4,3,2,0,2023,LOT
+480,MT23433,Sensors and Instrumentation,Mechatronics Engineering,4,3,2,0,2023,LOT
+481,MT23434,System Dynamics and Control,Mechatronics Engineering,3,2,2,0,2023,LOT
+482,MT23511,Design of Mechatronics System,Mechatronics Engineering,3,3,0,0,2023,Theory
+483,MT23521,Industry Internship,Mechatronics Engineering,1,0,2,0,2023,Laboratory
+484,MT23521,Theory of Machines Laboratory,Mechatronics Engineering,1,0,2,0,2023,Laboratory
+485,MT23531,Industrial Electronics,Mechatronics Engineering,4,3,2,0,2023,LOT
+486,MT23532,Theory of Machines And Mechanisms,Mechatronics Engineering,4,3,0,1,2023,Theory
+487,MT23533,Python Programming for Machine Learning,Mechatronics Engineering,3,1,4,0,2023,LOT
+488,MT23611,Fundamentals of Machine Design,Mechatronics Engineering,3,2,0,1,2023,Theory
+489,MT23621,Design Thinking For Innovation In Mechatronics Engineering,Mechatronics Engineering,1,0,2,0,2023,Laboratory
+490,MT23631,Industrial Robotics,Mechatronics Engineering,4,2,4,0,2023,LOT
+491,MT23632,Applied Hydraulics and Pneumatics,Mechatronics Engineering,4,2,4,0,2023,LOT
+492,MT23721,Computer Aided Engineering Laboratory,Mechatronics Engineering,1,0,2,0,2023,Laboratory
+493,MT23721,"Mechatronics Engineering Problem Solving using AI, ML and DL",Mechatronics Engineering,2,0,4,0,2023,Laboratory
+494,MT23722,Project Work (Phase - I),Mechatronics Engineering,2,0,4,0,2023,Laboratory
+495,MT23731,Industrial Automation,Mechatronics Engineering,4,2,4,0,2023,LOT
+496,MT23732,Machine Vision,Mechatronics Engineering,4,2,4,0,2023,LOT
+497,MT23821,Project Work (Phase - II),Mechatronics Engineering,8,0,16,0,2023,Laboratory
+498,PH23111,Physics for Chemical Engineering,Physics,3,3,0,0,2023,Theory
+499,PH23131,Physics of Materials,Physics,4,3,2,0,2023,LOT
+500,PH23132,Physics for Information Science,Physics,4,3,2,0,2023,LOT
+501,PH23133,Physics for Computing Science,Physics,4,3,2,0,2023,LOT
+502,PH23141,Physics of Materials,Physics,4,3,2,0,2023,LOT
+503,PH23231,Physics for Bioscience,Physics,4,3,2,0,2023,LOT
+504,PH23232,Physics for Electronics Engineering,Physics,4,3,2,0,2023,LOT
+505,PH23233,Material Science,Physics,4,3,2,0,2023,LOT
+506,RO23111,Introduction To Mechanical Systems,Robotics & Automation,3,2,0,1,2023,Theory
+507,RO23221,Computer Aided Modeling Laboratory,Robotics & Automation,2,0,4,0,2023,Laboratory
+508,RO23311,Analog and Digital Electronics,Robotics & Automation,3,3,0,0,2023,Theory
+509,RO23312,Theory of Mechanisms and Machines-I,Robotics & Automation,4,3,0,1,2023,Theory
+510,RO23313,Sensors in Automation,Robotics & Automation,3,3,0,0,2023,Theory
+511,RO23331,Elements of Manufacturing Process,Robotics & Automation,3,2,2,0,2023,LOT
+512,RO23332,Mechanics of Materials,Robotics & Automation,4,3,2,0,2023,LOT
+513,RO23411,Fluid Power Systems,Robotics & Automation,3,3,0,0,2023,Theory
+514,RO23412,Industrial Automation and Control,Robotics & Automation,4,3,0,1,2023,Theory
+515,RO23413,Microcontrollers and Real Time Embedded Systems,Robotics & Automation,3,3,0,0,2023,Theory
+516,RO23414,Robot Kinematics and Dynamics,Robotics & Automation,4,3,0,1,2023,Theory
+517,RO23421,Mechanisms and  Robotics laboratory,Robotics & Automation,2,0,4,0,2023,Laboratory
+518,RO23422,"Industrial Automation 
+ Laboratory-I",Robotics & Automation,2,0,4,0,2023,Laboratory
+519,RO23511,AI for Robotics,Robotics & Automation,3,3,0,0,2023,Theory
+520,RO23512,Theory of Mechanisms and Machines-II,Robotics & Automation,4,3,0,1,2023,Theory
+521,RO23521,Mobile Robotics laboratory,Robotics & Automation,2,0,4,0,2023,Laboratory
+522,RO23522,"Industrial Automation 
+ Laboratory-II",Robotics & Automation,2,0,4,0,2023,Laboratory
+523,RO23523,Internship,Robotics & Automation,1,0,2,0,2023,Laboratory
+524,RO23611,Resource Management Techniques,Robotics & Automation,4,3,0,1,2023,Theory
+525,RO23621,"Innovation and Design
+ thinking for Robotics and
+ Automation",Robotics & Automation,2,0,2,1,2023,LOT
+526,RO23631,Robotic operating System,Robotics & Automation,3,2,2,0,2023,LOT
+527,RO23632,Robotic Vision and Intelligence,Robotics & Automation,4,3,2,0,2023,LOT
+528,RO23711,Aerial Robotics,Robotics & Automation,3,3,0,0,2023,Theory
+529,RO23712,Humanoid Robotics,Robotics & Automation,3,3,0,0,2023,Theory
+530,RO23721,"Robotics & Automation Problem Solving using AI, ML and DL",Robotics & Automation,2,0,4,0,2023,Laboratory
+531,RO23722,Project Work (Phase - I),Robotics & Automation,2,0,4,0,2023,Laboratory
+532,RO23731,"Robot Path Planning and 
+ Programming",Robotics & Automation,4,3,2,0,2023,LOT
+533,RO23821,Project Work (Phase - II),Robotics & Automation,8,0,16,0,2023,Laboratory

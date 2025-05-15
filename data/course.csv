@@ -1,0 +1,1092 @@
+id,course_id,course_name,course_dept_id,credits,lecture_hours,practical_hours,tutorial_hours,regulation,course_type
+1,HS23111,Technical Communication -I,Aeronautical Engineering,2,2,0,0,2023.0,Theory
+2,MA23112,Algebra and Calculus,Aeronautical Engineering,4,3,0,1,2023.0,Theory
+3,PH23131,Physics of Materials,Aeronautical Engineering,4,3,2,0,2023.0,LOT
+4,GE23111,Engineering Graphics,Aeronautical Engineering,4,4,0,2,2023.0,Theory
+5,GE23117,தமிழர் மரபு /Heritage of Tamils,Aeronautical Engineering,1,1,0,0,2023.0,Theory
+6,EE23133,Basic Electrical and Electronics Engineering,Aeronautical Engineering,4,3,2,0,2023.0,LOT
+7,MC23112,Environmental Science and Engineering,Aeronautical Engineering,0,3,0,0,2023.0,Theory
+8,GE23121,Engineering Practices – Civil and Mechanical,Aeronautical Engineering,1,0,2,0,2023.0,Laboratory
+9,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Aeronautical Engineering,1,2,0,0,2023.0,Theory
+10,MA23212,"Differential Equation and Analytical 
+Complex Functions",Aeronautical Engineering,4,3,0,1,2023.0,Theory
+11,CY23223,Engineering Chemistry ,Aeronautical Engineering,4,3,2,0,2023.0,LOT
+12,GE23211,Engineering Mechanics,Aeronautical Engineering,3,2,0,1,2023.0,Theory
+13,AE23211,Fundamentals of Aerospace Engineering ,Aeronautical Engineering,3,3,0,0,2023.0,Theory
+14,GE23233,Problem Solving and Python Programming,Aeronautical Engineering,4,2,4,0,2023.0,LOT
+15,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Aeronautical Engineering,1,1,0,0,2023.0,Theory
+16,MC23111,Indian Constitution and Freedom Movement,Aeronautical Engineering,0,3,0,0,2023.0,Theory
+17,GE23122,Engineering Practices – Electrical and Electronics,Aeronautical Engineering,1,0,2,0,2023.0,Laboratory
+18,MA23311,Transforms and Applied Partial Differential Equations,Aeronautical Engineering,4,3,0,1,2023.0,Theory
+19,AE23331,Solid Mechanics,Aeronautical Engineering,4,2,2,1,2023.0,LOT
+20,AE23332,Fluid Mechanics and Fluid Machinery,Aeronautical Engineering,4,2,2,1,2023.0,LOT
+21,AE23333,Aero Engineering Thermodynamics,Aeronautical Engineering,4,2,2,1,2023.0,LOT
+22,CS23422,Python Programming for Machine Learning,Aeronautical Engineering,2,0,4,0,2023.0,Laboratory
+23,OE - 1,Open Elective - I,Aeronautical Engineering,3,3,0,0,2023.0,Open Elective
+24,AE23321,Computer Aided Modelling Laboratory,Aeronautical Engineering,2,0,4,0,2023.0,Laboratory
+25,MA23432,Statistics and Numerical Methods,Aeronautical Engineering,4,3,2,0,2023.0,LOT
+26,AE23411,Aircraft Structures - I,Aeronautical Engineering,3,2,0,1,2023.0,Theory
+27,AE23412,Control Engineering,Aeronautical Engineering,3,3,0,0,2023.0,Theory
+28,AE23431,Incompressible Aerodynamics,Aeronautical Engineering,4,2,2,1,2023.0,LOT
+29,AE23432,Aircraft Materials and Processes,Aeronautical Engineering,4,3,2,0,2023.0,LOT
+30,AE23433,Aircraft Systems and Instruments,Aeronautical Engineering,3,2,2,0,2023.0,LOT
+31,GE23327,Soft Skills – I,Aeronautical Engineering,1,0,2,0,2023.0,Laboratory
+32,AE23511,Aircraft Propulsion,Aeronautical Engineering,3,2,0,1,2023.0,Theory
+33,AE23512,Compressible Aerodynamics,Aeronautical Engineering,3,2,0,1,2023.0,Theory
+34,AE23513,Flight Dynamics,Aeronautical Engineering,3,2,0,1,2023.0,Theory
+35,AE23531,Aircraft Structures - II,Aeronautical Engineering,4,2,2,1,2023.0,LOT
+36,AEPE1,Professional Elective – I,Aeronautical Engineering,3,3,0,0,2023.0,Professional Elective
+37,OE - 2,Open Elective - II,Aeronautical Engineering,3,3,0,0,2023.0,Open Elective
+38,GE23427,Soft Skills – II,Aeronautical Engineering,1,0,2,0,2023.0,Laboratory
+39,AE23521,Airframe and Aero Engine Laboratory,Aeronautical Engineering,2,0,4,0,2023.0,Laboratory
+40,AE23611,Rocket Propulsion,Aeronautical Engineering,3,2,0,1,2023.0,Theory
+41,AE23612,Composite Materials and Structures,Aeronautical Engineering,3,3,0,0,2023.0,Theory
+42,AE23631,Flight Vehicle Design,Aeronautical Engineering,4,3,2,0,2023.0,LOT
+43,AE23632,Innovation and Design Thinking for Engineers,Aeronautical Engineering,2,0,2,0,2023.0,Laboratory
+44,AEPE2,Professional Elective – II,Aeronautical Engineering,3,3,0,0,2023.0,Professional Elective
+45,AE23621,Artificial Intelligence and Machine Learning for Aeronautical Engineering,Aeronautical Engineering,2,0,4,0,2023.0,Laboratory
+46,AE23622,Jet propulsion Laboratory,Aeronautical Engineering,2,0,4,0,2023.0,Laboratory
+47,AE23623,Computational Simulation Laboratory,Aeronautical Engineering,2,0,4,0,2023.0,Laboratory
+48,GE23627,Problem Solving Techniques,Aeronautical Engineering,1,0,2,0,2023.0,Laboratory
+49,AE23731,Avionics,Aeronautical Engineering,4,3,2,0,2023.0,LOT
+50,GE23711,Fundamentals of Management for Engineers,Aeronautical Engineering,3,3,0,0,2023.0,Theory
+51,AEPE3,Professional Elective – III,Aeronautical Engineering,3,3,0,0,2023.0,Professional Elective
+52,AEPE4,Professional Elective – IV,Aeronautical Engineering,3,3,0,0,2023.0,Professional Elective
+53,AEPE5,Professional Elective – V,Aeronautical Engineering,3,3,0,0,2023.0,Professional Elective
+54,AE23721,Project Work (Phase - I),Aeronautical Engineering,2,0,4,0,2023.0,Laboratory
+55,AEPE6,Professional Elective – VI,Aeronautical Engineering,3,3,0,0,2023.0,Professional Elective
+56,AE23821,Project Work (Phase - II),Aeronautical Engineering,8,0,16,0,2023.0,Laboratory
+57,HS23111,Technical Communication -I,Artificial Intelligence and Data Science,2,2,0,0,2023.0,Theory
+58,MA23116,Mathematical Foundations for AI,Artificial Intelligence and Data Science,4,3,0,1,2023.0,Theory
+59,GE23117,தமிழர் மரபு /Heritage of Tamils,Artificial Intelligence and Data Science,1,1,0,0,2023.0,Theory
+60,PH23132,Physics for Information Science,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+61,GE23131,Programming using C,Artificial Intelligence and Data Science,4,1,6,0,2023.0,LOT
+62,EE23133,Basic Electrical and Electronics Engineering,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+63,GE23122,Engineering Practices – Electrical and Electronics,Artificial Intelligence and Data Science,1,0,2,0,2023.0,Laboratory
+64,MC23111,Indian Constitution and Freedom Movement,Artificial Intelligence and Data Science,0,3,0,0,2023.0,Others
+65,MA23214,Probability and Inferential Statistics,Artificial Intelligence and Data Science,4,3,0,1,2023.0,Theory
+66,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Artificial Intelligence and Data Science,1,1,0,0,2023.0,Theory
+67,GE23111,Engineering Graphics,Artificial Intelligence and Data Science,4,2,4,0,2023.0,Theory
+68,IT23231,Digital Logic and Computer Architecture,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+69,AI23231,Principles of Artificial Intelligence,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+70,CS23231,Data Structures,Artificial Intelligence and Data Science,5,3,4,0,2023.0,LOT
+71,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Artificial Intelligence and Data Science,1,0,2,0,2023.0,Laboratory
+72,GE23121,Engineering Practices – Civil and Mechanical,Artificial Intelligence and Data Science,1,0,2,0,2023.0,Laboratory
+73,CS23221,Python Programming Lab,Artificial Intelligence and Data Science,2,0,4,0,2023.0,Laboratory
+74,MA23313,Discrete Mathematics for AI,Artificial Intelligence and Data Science,4,3,0,1,2023.0,Theory
+75,AI23331,Fundamentals of Machine Learning,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+76,CS23331,Design and Analysis of Algorithms,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+77,CS23332,Database Management Systems,Artificial Intelligence and Data Science,5,3,4,0,2023.0,LOT
+78,CS23333,Object Oriented Programming Using JAVA,Artificial Intelligence and Data Science,4,1,6,0,2023.0,LOT
+79,MC23112,Environmental Science and Engineering,Artificial Intelligence and Data Science,0,3,0,0,2023.0,LOT
+80,OE - 1,Open Elective - I,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Open Elective
+81,MA23434,Optimization Techniques for AI,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+82,AI23431,Web Technology and Mobile Application,Artificial Intelligence and Data Science,3,1,4,0,2023.0,LOT
+83,AD23431,Statistical Analysis and Computing,Artificial Intelligence and Data Science,3,2,2,0,2023.0,LOT
+84,CS23431,Operating Systems,Artificial Intelligence and Data Science,5,3,4,0,2023.0,LOT
+85,CS23432,Software Construction,Artificial Intelligence and Data Science,4,3,2,0,2023.0,Laboratory
+86,GE23421,Soft Skills – I,Artificial Intelligence and Data Science,1,0,2,0,2023.0,Laboratory
+87,ADPE1,Professional Elective – I,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Professional Elective
+88,ADPE2,Professional Elective – II,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Professional Elective
+89,BA23512,Fundamentals of Accounting,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Theory
+90,AD23531,Architecture for Management of Large Data Sets,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+91,AD23532,Framework for Data and Visual Analytics,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+92,CS23532,Computer Networks,Artificial Intelligence and Data Science,5,3,4,0,2023.0,LOT
+93,AD23521,Data Science Laboratory,Artificial Intelligence and Data Science,2,0,4,0,2023.0,Laboratory
+94,GE23521,Soft Skills – II,Artificial Intelligence and Data Science,1,0,2,0,2023.0,Laboratory
+95,ADPE3,Professional Elective – III,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Professional Elective
+96,OE - 2,Open Elective - II,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Open Elective
+97,AD23631,Data Privacy and Security,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+98,AD23632,Deep Neural Networks,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+99,AD23633,Design Thinking for Innovation in Data Science,Artificial Intelligence and Data Science,2,1,2,0,2023.0,LOT
+100,GE23622,Problem Solving Techniques,Artificial Intelligence and Data Science,1,0,2,0,2023.0,Others
+101,ADPE4,Professional Elective – IV,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Professional Elective
+102,AI23712,Reinforcement Learning,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Theory
+103,IT23731,Cloud and Big data Architecture,Artificial Intelligence and Data Science,4,3,2,0,2023.0,LOT
+104,AD23521,Toolkit for Data Science,Artificial Intelligence and Data Science,1,0,2,0,2023.0,Laboratory
+105,AD23722,Project Work (Phase - I),Artificial Intelligence and Data Science,4,0,8,0,2023.0,Laboratory
+106,ADPE5,Professional Elective – V,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Professional Elective
+107,ADPE6,Professional Elective – VI,Artificial Intelligence and Data Science,3,3,0,0,2023.0,Professional Elective
+108,AD23821,Project Work (Phase - II),Artificial Intelligence and Data Science,6,0,12,0,2023.0,Laboratory
+109,HS23111,Technical Communication -I,Artificial Intelligence and Machine Learning,2,2,0,0,2023.0,Theory
+110,MA23116,Mathematical Foundations for AI,Artificial Intelligence and Machine Learning,4,3,0,1,2023.0,Theory
+111,GE23117,தமிழர் மரபு /Heritage of Tamils,Artificial Intelligence and Machine Learning,1,1,0,0,2023.0,Theory
+112,PH23132,Physics for Information Science,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+113,GE23131,Programming using C,Artificial Intelligence and Machine Learning,4,1,6,0,2023.0,LOT
+114,EE23133,Basic Electrical and Electronics Engineering,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+115,GE23122,Engineering Practices – Electrical and Electronics,Artificial Intelligence and Machine Learning,1,0,2,0,2023.0,Laboratory
+116,MC23111,Indian Constitution and Freedom Movement,Artificial Intelligence and Machine Learning,0,3,0,0,2023.0,Theory
+117,MA23214,Probability and Inferential Statistics,Artificial Intelligence and Machine Learning,4,3,0,1,2023.0,Theory
+118,GE23111,Engineering Graphics,Artificial Intelligence and Machine Learning,4,2,0,2,2023.0,Theory
+119,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Artificial Intelligence and Machine Learning,1,1,0,0,2023.0,Theory
+120,IT23231,Digital Logic and Computer Architecture,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+121,AI23231,Principles of Artificial Intelligence,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+122,CS23231,Data Structures,Artificial Intelligence and Machine Learning,5,3,4,0,2023.0,LOT
+123,HS23222/HS23223,Technical Communication II / English for Professional Competence,Artificial Intelligence and Machine Learning,1,0,2,0,2023.0,Theory
+124,GE23121,Engineering Practices – Civil and Mechanical,Artificial Intelligence and Machine Learning,1,0,2,0,2023.0,Laboratory
+125,CS23221,Python Programming Lab,Artificial Intelligence and Machine Learning,2,0,4,0,2023.0,Laboratory
+126,MA23313,Discrete Mathematics for AI,Artificial Intelligence and Machine Learning,4,3,0,1,2023.0,Theory
+127,BA23512,Fundamentals of Accounting,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Theory
+128,AI23331,Fundamentals of Machine Learning,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+129,CS23331,Design and Analysis of Algorithms,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+130,CS23332,Database Management Systems,Artificial Intelligence and Machine Learning,5,3,4,0,2023.0,LOT
+131,CS23333,Object Oriented Programming Using JAVA,Artificial Intelligence and Machine Learning,4,1,6,0,2023.0,LOT
+132,MC23112,Environmental Science and Engineering,Artificial Intelligence and Machine Learning,0,3,0,0,2023.0,Theory
+133,OE - 1,Open Elective - I,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Open Elective
+134,MA23434,Optimization Techniques for AI,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+135,AI23431,Web Technology and Mobile Application,Artificial Intelligence and Machine Learning,3,1,4,0,2023.0,LOT
+136,CS23431,Operating Systems,Artificial Intelligence and Machine Learning,5,3,4,0,2023.0,LOT
+137,CS23432,Software Construction,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+138,GE23421,Soft Skills – I,Artificial Intelligence and Machine Learning,1,0,2,0,2023.0,Laboratory
+139,AIPE1,Professional Elective – I,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Professional Elective
+140,AIPE2,Professional Elective – II,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Professional Elective
+141,AI23531,Deep Learning,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+142,AD23532,Framework for Data and Visual Analytics,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+143,CS23532,Computer Networks,Artificial Intelligence and Machine Learning,5,3,4,0,2023.0,LOT
+144,AI23521,Build and Deploy Machine Learning Applications,Artificial Intelligence and Machine Learning,1,0,2,0,2023.0,Laboratory
+145,AD23521,Data Science Laboratory,Artificial Intelligence and Machine Learning,2,0,4,0,2023.0,Laboratory
+146,GE23521,Soft Skills – II,Artificial Intelligence and Machine Learning,1,0,2,0,2023.0,Laboratory
+147,AIPE3,Professional Elective – III,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Professional Elective
+148,OE - 2,Open Elective - II,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Open Elective
+149,AI23611,Secure Systems Engineering,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Theory
+150,AI23631,Predictive and Prescriptive Analytics,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+151,AI23632,Foundations of Natural Language Processing,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+152,AI23633,Design Thinking for Innovation in Machine Learning,Artificial Intelligence and Machine Learning,2,1,2,0,2023.0,LOT
+153,GE23622,Problem Solving Techniques,Artificial Intelligence and Machine Learning,1,0,2,0,2023.0,Laboratory
+154,AIPE4,Professional Elective – IV,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Professional Elective
+155,AI23711,Social and Ethical Issues in AI,Artificial Intelligence and Machine Learning,1,1,0,0,2023.0,Theory
+156,AI23712,Reinforcement Learning,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Theory
+157,IT23731,Cloud and Big data Architecture,Artificial Intelligence and Machine Learning,4,3,2,0,2023.0,LOT
+158,AI23721,Project Work (Phase - I),Artificial Intelligence and Machine Learning,4,0,8,0,2023.0,Laboratory
+159,AIPE5,Professional Elective – V,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Professional Elective
+160,AIPE6,Professional Elective – VI,Artificial Intelligence and Machine Learning,3,3,0,0,2023.0,Professional Elective
+161,AI23821,Project Work (Phase - II),Artificial Intelligence and Machine Learning,6,0,12,0,2023.0,Laboratory
+162,HS23111,Technical Communication -I,Automobile Engineering,2,2,0,0,2023.0,Theory
+163,MA23112,Algebra and Calculus,Automobile Engineering,4,3,0,1,2023.0,Theory
+164,GE23111,Engineering Graphics,Automobile Engineering,4,2,4,0,2023.0,Theory
+165,AT23111,Production Technology - I,Automobile Engineering,3,3,0,0,2023.0,Theory
+166,GE23117,தமிழர் மரபு /Heritage of Tamils,Automobile Engineering,1,1,0,0,2023.0,Theory
+167,PH23131,Physics of Materials,Automobile Engineering,4,3,2,0,2023.0,LOT
+168,GE23121,Engineering Practices – Civil and Mechanical,Automobile Engineering,1,0,2,0,2023.0,Laboratory
+169,MC23112,Environmental Science and Engineering,Automobile Engineering,0,3,0,0,2023.0,Theory
+170,MA23212,Differential Equations and Complex Variables,Automobile Engineering,4,3,0,1,2023.0,Theory
+171,GE23211,Engineering Mechanics,Automobile Engineering,3,2,0,1,2023.0,Theory
+172,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Automobile Engineering,1,1,0,0,2023.0,Theory
+173,CY23223,Engineering Chemistry ,Automobile Engineering,4,3,2,0,2023.0,LOT
+174,EE23133,Basic Electrical and Electronics Engineering,Automobile Engineering,4,3,2,0,2023.0,LOT
+175,GE23231,Programming Using Python,Automobile Engineering,3,1,4,0,2023.0,LOT
+176,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Automobile Engineering,1,0,2,0,2023.0,Laboratory
+177,GE23122,Engineering Practices – Electrical and Electronics,Automobile Engineering,1,0,2,0,2023.0,Laboratory
+178,MC23111,Indian Constitution and Freedom Movement,Automobile Engineering,0,3,0,0,2023.0,Theory
+179,MA23331,Transforms and Statistics,Automobile Engineering,4,3,2,0,2023.0,LOT
+180,AT23331,Automotive Engines,Automobile Engineering,4,3,2,0,2023.0,LOT
+181,AT23332,Applied Thermodynamics,Automobile Engineering,4,2,2,1,2023.0,LOT
+182,AT23333,Strength of Materials for Automobile Engineers,Automobile Engineering,4,2,2,1,2023.0,LOT
+183,AT23334,Production Technology - II,Automobile Engineering,4,3,2,0,2023.0,LOT
+184,AT23321,Computer Aided Machine Drawing Laboratory,Automobile Engineering,2,0,4,0,2023.0,Laboratory
+185,AT23411,Electric and Hybrid Vehicles - I,Automobile Engineering,3,3,0,0,2023.0,Theory
+186,AT23412,Engineering Materials and Metallurgy,Automobile Engineering,3,3,0,0,2023.0,Theory
+187,AT23431,Automotive Drive Line and Chassis,Automobile Engineering,4,3,2,0,2023.0,LOT
+188,AT23432,Fluid Mechanics and Machinery for Automobile Engineers,Automobile Engineering,4,2,2,1,2023.0,LOT
+189,AT23433,Theory of Machines,Automobile Engineering,4,2,2,1,2023.0,LOT
+190,CS23422,Python Programming for Machine Learning,Automobile Engineering,2,0,4,0,2023.0,LOT
+191,GE23327,Soft Skills – I,Automobile Engineering,1,0,2,0,2023.0,Laboratory
+192,AT23511,Machine Design,Automobile Engineering,3,2,0,1,2023.0,Theory
+193,GE23311,Fundamentals of Management for Engineers,Automobile Engineering,3,3,0,0,2023.0,Theory
+194,ATPE1,Professional Elective – I,Automobile Engineering,3,3,0,0,2023.0,Professional Elective
+195,OE - 1,Open Elective - I,Automobile Engineering,3,3,0,0,2023.0,Open Elective
+196,AT23531,Automotive Electrical and Electronics,Automobile Engineering,4,3,2,0,2023.0,LOT
+197,AT23532,Electric and Hybrid Vehicles - II,Automobile Engineering,4,3,2,0,2023.0,LOT
+198,AT23521,Two and Three wheelers Laboratory,Automobile Engineering,1,0,2,0,2023.0,Laboratory
+199,AT23522,Computer Aided Vehicle Design Data Characteristics Laboratory,Automobile Engineering,1,0,2,0,2023.0,Laboratory
+200,GE23427,Soft Skills – II,Automobile Engineering,1,0,2,0,2023.0,Laboratory
+201,ATPE2,Professional Elective – II,Automobile Engineering,3,3,0,0,2023.0,Professional Elective
+202,OE - 2,Open Elective - II,Automobile Engineering,3,3,0,0,2023.0,Open Elective
+203,AT23631,Automotive System Design,Automobile Engineering,4,2,2,1,2023.0,LOT
+204,AT23632,Vehicle Dynamics,Automobile Engineering,4,2,2,1,2023.0,LOT
+205,AT23633,Automotive Fuels and Lubricants,Automobile Engineering,4,3,2,0,2023.0,LOT
+206,GE23627,Problem Solving Techniques,Automobile Engineering,1,0,2,0,2023.0,Others
+207,AT23621,Design Thinking and Innovation for Automobile Engineers,Automobile Engineering,2,0,4,0,2023.0,Laboratory
+208,AT23711,Automotive Pollution and Control,Automobile Engineering,3,3,0,0,2023.0,Theory
+209,AT23712,Intelligent Vehicle System,Automobile Engineering,3,3,0,0,2023.0,Theory
+210,AT23713,Automotive Safety,Automobile Engineering,3,3,0,0,2023.0,Theory
+211,ATPE4,Professional Elective – IV,Automobile Engineering,3,3,0,0,2023.0,Professional Elective
+212,AT23721,AI and ML for Automobile Engineers,Automobile Engineering,2,0,4,0,2023.0,LOT
+213,AT23722,Vehicle Maintenance Laboratory,Automobile Engineering,1,0,2,0,2023.0,Laboratory
+214,AT23723,Computer Aided Analysis laboratory,Automobile Engineering,1,0,2,0,2023.0,Laboratory
+215,AT237X,Industrial Training,Automobile Engineering,1,0,2,0,2023.0,Others
+216,ATPE4,Professional Elective – IV,Automobile Engineering,3,3,0,0,2023.0,Professional Elective
+217,ATPE5,Professional Elective – V,Automobile Engineering,3,3,0,0,2023.0,Professional Elective
+218,AT23821,Project Work,Automobile Engineering,10,0,20,0,2023.0,Laboratory
+219,HS23111,Technical Communication -I,Biomedical Engineering,2,2,0,0,2023.0,Theory
+220,MA23111,Linear Algebra and Calculus,Biomedical Engineering,4,3,0,1,2023.0,Theory
+221,GE23111,Engineering Graphics,Biomedical Engineering,4,2,0,2,2023.0,Theory
+222,GE23117,தமிழர் மரபு /Heritage of Tamils,Biomedical Engineering,1,1,0,0,2023.0,Theory
+223,MC23112,Environmental Science and Engineering,Biomedical Engineering,0,3,0,0,2023.0,Theory
+224,CY23131,Chemistry For Electronics Engineering,Biomedical Engineering,4,3,2,0,2023.0,LOT
+225,GE23121,Engineering Practices – Civil and Mechanical,Biomedical Engineering,1,0,2,0,2023.0,Laboratory
+226,MA23212,Differential Equations and Complex Variables,Biomedical Engineering,4,3,0,1,2023.0,Theory
+227,ME23211,Engineering Mechanics for Biomedical Engineers,Biomedical Engineering,4,3,0,1,2023.0,Theory
+228,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Biomedical Engineering,1,1,0,0,2023.0,Theory
+229,CS23232,Fundamentals of Data Structures using C,Biomedical Engineering,5,3,4,0,2023.0,LOT
+230,PH23231,Physics for Bioscience,Biomedical Engineering,4,3,2,0,2023.0,LOT
+231,BM23231,Electric Circuits and Machines,Biomedical Engineering,4,3,2,0,2023.0,LOT
+232,HS23222/HS23223,Technical Communication II / English for Professional Competence,Biomedical Engineering,1,0,2,0,2023.0,Laboratory
+233,GE23122,Engineering Practices – Electrical and Electronics,Biomedical Engineering,1,0,2,0,2023.0,Laboratory
+234,MA23312,Fourier series and Number theory,Biomedical Engineering,4,3,0,1,2023.0,Theory
+235,BM23311,Human Anatomy and Physiology,Biomedical Engineering,3,3,0,0,2023.0,Theory
+236,BM23312,Biomedical Instrumentation,Biomedical Engineering,3,3,0,0,2023.0,Theory
+237,BM23313,Biochemical Science,Biomedical Engineering,3,3,0,0,2023.0,Theory
+238,BM23331,Electronic Devices & Circuits,Biomedical Engineering,4,3,2,0,2023.0,LOT
+239,BM23332,Sensors and Measurements,Biomedical Engineering,3,2,2,0,2023.0,LOT
+240,BM23321,Biochemistry and Physiology Laboratory,Biomedical Engineering,2,0,4,0,2023.0,Laboratory
+241,BM23322,Biomedical Instrumentation Laboratory,Biomedical Engineering,2,0,4,0,2023.0,Laboratory
+242,BM23411,Analog and Digital Integrated Circuits,Biomedical Engineering,3,3,0,0,2023.0,Theory
+243,BM23412,Principles of Communication Systems,Biomedical Engineering,3,3,0,0,2023.0,Theory
+244,MC23111,Indian Constitution and Freedom Movement,Biomedical Engineering,0,3,0,0,2023.0,Theory
+245,OE - 1,Open Elective - I,Biomedical Engineering,3,3,0,0,2023.0,Open Elective
+246,MA23416,Probability and Random Process,Biomedical Engineering,4,3,0,1,2023.0,Theory
+247,BM23431,Pathology and Microbiology,Biomedical Engineering,3,2,2,0,2023.0,LOT
+248,CS23336,Introduction to Python Programming,Biomedical Engineering,3,1,4,0,2023.0,LOT
+249,BM23421,Analog and Digital Integrated Circuits Laboratory,Biomedical Engineering,2,0,4,0,2023.0,Laboratory
+250,BM23422,PCB Design Laboratory,Biomedical Engineering,1,0,2,0,2023.0,Laboratory
+251,GE23421,Soft Skills – I,Biomedical Engineering,1,0,2,0,2023.0,Laboratory
+252,BM23511,Biocontrol systems,Biomedical Engineering,3,3,0,0,2023.0,Theory
+253,BM23512,Diagnostic and Therapeutic Equipment,Biomedical Engineering,3,3,0,0,2023.0,Theory
+254,OE - 2,Open Elective - II,Biomedical Engineering,3,3,0,0,2023.0,Open Elective
+255,BMPE1,Professional Elective – I,Biomedical Engineering,3,3,0,0,2023.0,Professional Elective
+256,BM23531,Signals and Systems Analysis,Biomedical Engineering,3,1,2,1,2023.0,LOT
+257,BM23532,Microcontroller and Embedded System Design,Biomedical Engineering,4,3,2,0,2023.0,LOT
+258,CS23422,Python Programming for Machine Learning,Biomedical Engineering,3,1,4,0,2023.0,LOT
+259,BM23521,Diagnostic and Therapeutic Equipment Laboratory,Biomedical Engineering,2,0,4,0,2023.0,Laboratory
+260,GE23521,Soft Skills – II,Biomedical Engineering,1,0,2,0,2023.0,Laboratory
+261,BM23611,Radiological Equipment,Biomedical Engineering,3,3,0,0,2023.0,Theory
+262,BM23612,Biomechanics,Biomedical Engineering,4,3,0,1,2023.0,Theory
+263,BMPE2,Professional Elective – II,Biomedical Engineering,3,3,0,0,2023.0,Professional Elective
+264,BMPE3,Professional Elective – III,Biomedical Engineering,3,3,0,0,2023.0,Professional Elective
+265,BM23631,Biosignal Processing,Biomedical Engineering,3,1,2,1,2023.0,LOT
+266,BM23632,Physiological Modeling Laboratory,Biomedical Engineering,2,1,2,0,2023.0,LOT
+267,BM23633,Design thinking for Innovation in Biomedical Engineering,Biomedical Engineering,2,1,2,0,2023.0,LOT
+268,BM23621,Medical Industrial Training,Biomedical Engineering,1,0,2,0,2023.0,Laboratory
+269,GE23621,Problem Solving Techniques,Biomedical Engineering,1,0,2,0,2023.0,Laboratory
+270,BM23711,Comprehension In Biomedical Engineering,Biomedical Engineering,1,1,0,0,2023.0,Theory
+271,BMPE4,Professional Elective – IV,Biomedical Engineering,3,3,0,0,2023.0,Professional Elective
+272,BMPE5,Professional Elective – V,Biomedical Engineering,3,3,0,0,2023.0,Professional Elective
+273,BMPE6,Professional Elective – VI,Biomedical Engineering,3,3,0,0,2023.0,Professional Elective
+274,BM23731,Medical Image Processing,Biomedical Engineering,4,2,2,1,2023.0,LOT
+275,BM23721,Artificial Intelligence and Machine learning for Biomedical Engineering,Biomedical Engineering,2,0,4,0,2023.0,LOT
+276,BM23722,Project Work (Phase - I),Biomedical Engineering,3,0,6,0,2023.0,Laboratory
+277,BM23723,Hospital Training,Biomedical Engineering,1,0,2,0,2023.0,Laboratory
+278,VAP,Value Added Lab ,Biomedical Engineering,0,0,3,0,2023.0,Laboratory
+279,BM23821,Project Work (Phase - II),Biomedical Engineering,8,0,16,0,2023.0,Laboratory
+280,HS23111,Technical Communication -I,Biotechnology,2,2,0,0,2023.0,Theory
+281,MA23112,Algebra and Calculus,Biotechnology,4,3,0,1,2023.0,Theory
+282,CY23132,Chemistry for Technologists,Biotechnology,4,3,2,0,2023.0,LOT
+283,GE23111,Engineering Graphics,Biotechnology,4,2,4,0,2023.0,Theory
+284,GE23121,Engineering Practices – Civil and Mechanical,Biotechnology,1,0,2,0,2023.0,Laboratory
+285,BT23131,Microbiology,Biotechnology,4,2,4,0,2023.0,LOT
+286,MC23112,Environmental Science and Engineering,Biotechnology,0,3,0,0,2023.0,Theory
+287,GE23117,தமிழர் மரபு /Heritage of Tamils,Biotechnology,1,1,0,0,2023.0,Theory
+288,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Biotechnology,1,0,2,0,2023.0,Theory
+289,MA23212,Differential Equations and Complex Variables,Biotechnology,4,3,0,1,2023.0,Theory
+290,PH23231,Physics for Bioscience,Biotechnology,4,3,2,0,2023.0,LOT
+291,GE23231,Programming Using Python,Biotechnology,3,1,4,0,2023.0,LOT
+292,GE23212,Basic Civil and Mechanical Engineering,Biotechnology,3,3,0,0,2023.0,Theory
+293,BT23211,Biochemistry,Biotechnology,3,3,0,0,2023.0,Theory
+294,MC23111,Indian Constitution and Freedom Movement,Biotechnology,0,3,0,0,2023.0,Theory
+295,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Biotechnology,1,1,0,0,2023.0,Theory
+296,BT23221,Biochemistry Laboratory,Biotechnology,2,0,4,0,2023.0,Laboratory
+297,MA23311,Transforms and Applied Partial Differential Equations,Biotechnology,4,3,0,1,2023.0,Theory
+298,BT23311,Enzyme Technology and Biotransformations,Biotechnology,3,3,0,0,2023.0,Theory
+299,BT23312,Stoichiometry and Fluid Mechanics,Biotechnology,3,3,0,1,2023.0,Theory
+300,BT23313,Molecular Biology,Biotechnology,3,3,3,0,2023.0,Theory
+301,BT23314,Cell Biology,Biotechnology,3,3,0,0,2023.0,Theory
+302,BT23321,Basic Food and Enzyme Technology Laboratory,Biotechnology,1,0,2,0,2023.0,Laboratory
+303,BT23331,Analytical Techniques in Biotechnology,Biotechnology,3,2,2,0,2023.0,LOT
+304,MA23431,"Probability, Statistics and Reliability",Biotechnology,4,3,2,0,2023.0,LOT
+305,BT23411,Food Biotechnology,Biotechnology,3,3,0,0,2023.0,Theory
+306,BT23412,Genetic Engineering,Biotechnology,3,3,0,0,2023.0,Theory
+307,BT23413,Thermodynamics and Heat transfer,Biotechnology,3,3,0,1,2023.0,Theory
+308,BT23414,Basic Industrial Biotechnology,Biotechnology,3,3,0,0,2023.0,Theory
+309,CS23422,Python Programming for Machine Learning,Biotechnology,2,0,4,0,2023.0,Laboratory
+310,BT23421,Chemical Engineering Laboratory for Biotechnologists,Biotechnology,2,0,4,0,2023.0,Laboratory
+311,BT23422,Molecular Biology and Genetic Engineering Laboratory,Biotechnology,2,0,4,0,2023.0,Laboratory
+312,GE23421,Soft Skills – I,Biotechnology,1,0,2,0,2023.0,Laboratory
+313,BT23511,Bioprocess Principles,Biotechnology,3,3,0,0,2023.0,Theory
+314,BT23512,Bioinformatics,Biotechnology,3,3,0,0,2023.0,Theory
+315,BT23513,Separation Process Principles,Biotechnology,3,3,0,1,2023.0,Theory
+316,BTPE1,Professional Elective – I,Biotechnology,3,3,0,0,2023.0,Professional Elective
+317,BTPE2,Professional Elective – II,Biotechnology,3,3,0,0,2023.0,Professional Elective
+318,BTPE3,Professional Elective – III,Biotechnology,3,3,0,0,2023.0,Professional Elective
+319,BT23521,Bioprocess Laboratory- I,Biotechnology,2,0,4,0,2023.0,Laboratory
+320,BT23522,Bioinformatics Laboratory,Biotechnology,2,0,4,0,2023.0,Laboratory
+321,GE23521,Soft Skills – II,Biotechnology,1,0,2,0,2023.0,Laboratory
+322,BT23611,Bioprocess Technology,Biotechnology,3,3,0,0,2023.0,Theory
+323,BT23612,Chemical Reaction Engineering,Biotechnology,3,3,0,0,2023.0,Theory
+324,BTPE4,Professional Elective – IV,Biotechnology,3,3,0,0,2023.0,Professional Elective
+325,BMPE5,Professional Elective – V,Biotechnology,3,3,0,0,2023.0,Professional Elective
+326,BMPE6,Professional Elective – VI,Biotechnology,3,3,0,0,2023.0,Professional Elective
+327,OE - 1,Open Elective - I,Biotechnology,3,3,0,0,2023.0,Open Elective
+328,BT23621,Bioprocess Laboratory II,Biotechnology,2,0,4,0,2023.0,Laboratory
+329,BT23622,Innovation and Design Thinking for Biotechnologists,Biotechnology,2,0,4,0,2023.0,Laboratory
+330,BT23623,Numerical Programming for Biotechnologists,Biotechnology,1,0,2,0,2023.0,Laboratory
+331,GE23622,Problem Solving Techniques,Biotechnology,1,0,2,0,2023.0,Others
+332,BT23711,Downstream Processing,Biotechnology,3,3,0,0,2023.0,Theory
+333,BT23712,Immunology,Biotechnology,3,3,0,0,2023.0,Theory
+334,BT23713,Protein Engineering,Biotechnology,3,3,0,0,2023.0,Theory
+335,BT23714,Comprehensive Course for Biotechnologists,Biotechnology,2,2,0,0,2023.0,Theory
+336,OE - 2,Open Elective - II,Biotechnology,3,3,0,0,2023.0,Open Elective
+337,BT23721,Downstream Processing Lab,Biotechnology,2,0,4,0,2023.0,Laboratory
+338,BT23722,Immunology lab,Biotechnology,2,0,4,0,2023.0,Laboratory
+339,BT23723,Artificial Intelligence and Machine Learning for Biotechnologist,Biotechnology,2,0,4,0,2023.0,Laboratory
+340,BT23724,Industry Training (2 weeks Training during vacation),Biotechnology,1,0,0,0,2023.0,Others
+341,CR23P62,Microfluidics Laboratory,Biotechnology,1,0,2,0,2023.0,Laboratory
+342,BT23821,Project Work,Biotechnology,12,0,24,0,2023.0,Laboratory
+343,HS23111,Technical Communication -I,Chemical Engineering,2,2,0,0,2023.0,Theory
+344,MA23112,Algebra and Calculus,Chemical Engineering,4,3,0,1,2023.0,Theory
+345,PH23111,Physics for Chemical Engineering,Chemical Engineering,3,3,0,0,2023.0,Theory
+346,CY23312,Chemistry for Technologists,Chemical Engineering,4,3,2,0,2023.0,LOT
+347,GE23111,Engineering Graphics,Chemical Engineering,4,2,0,2,2023.0,Theory
+348,GE23121,Engineering Practices – Civil and Mechanical,Chemical Engineering,1,0,2,0,2023.0,Laboratory
+349,MC23112,Environmental Science and Engineering,Chemical Engineering,0,3,0,0,2023.0,Theory
+350,GE23117,தமிழர் மரபு /Heritage of Tamils,Chemical Engineering,1,1,0,0,2023.0,Theory
+351,HS23222/HS23223,Technical Communication II / English for Professional Competence,Chemical Engineering,1,0,2,0,2023.0,Theory
+352,MA23212,Differential Equations and Complex Variables,Chemical Engineering,4,3,0,1,2023.0,Theory
+353,CH23211,Introduction to Chemical Engineering,Chemical Engineering,3,3,0,0,2023.0,Theory
+354,GE23233,Problem Solving and Python Programming,Chemical Engineering,4,2,4,0,2023.0,LOT
+355,PH23233,Material Science,Chemical Engineering,4,3,2,0,2023.0,LOT
+356,EE23133,Basic Electrical and Electronics Engineering,Chemical Engineering,4,3,2,0,2023.0,LOT
+357,GE23122,Engineering Practices – Electrical and Electronics,Chemical Engineering,1,0,2,0,2023.0,Laboratory
+358,MC23111,Indian Constitution and Freedom Movement,Chemical Engineering,0,3,0,0,2023.0,Theory
+359,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Chemical Engineering,1,1,0,0,2023.0,Theory
+360,MA23311,Transforms and Applied Partial Differential Equations,Chemical Engineering,4,3,0,1,2023.0,Theory
+361,CY23334,Physical and Organic Chemistry,Chemical Engineering,4,3,2,0,2023.0,LOT
+362,CH23311,Solid Mechanics,Chemical Engineering,3,2,0,1,2023.0,Theory
+363,CH23312,Chemical Process Calculations,Chemical Engineering,3,2,0,1,2023.0,Theory
+364,CH23313,Chemical Process Industries,Chemical Engineering,3,3,0,0,2023.0,Theory
+365,CH23331,Fluid Mechanics for Chemical Engineers,Chemical Engineering,4,3,2,1,2023.0,LOT
+366,MA23431,"Probability, Statistics and Reliability",Chemical Engineering,4,3,2,0,2023.0,Theory
+367,CH23411,Thermodynamics,Chemical Engineering,3,3,0,0,2023.0,Theory
+368,CH23412,Heat Transfer,Chemical Engineering,3,3,0,0,2023.0,Theory
+369,CH23431,Particle science and Technology,Chemical Engineering,4,3,2,0,2023.0,LOT
+370,OE - 1,Open Elective - I,Chemical Engineering,3,3,0,0,2023.0,Open Elective
+371,CS23411,Python Programming for Machine Learning,Chemical Engineering,3,1,4,0,2023.0,LOT
+372,GE23327,Soft Skills – I,Chemical Engineering,1,0,2,0,2023.0,Laboratory
+373,CH23421,Technical Analysis Lab,Chemical Engineering,2,0,4,0,2023.0,Laboratory
+374,CH23511,Process Engineering Economics,Chemical Engineering,3,3,0,0,2023.0,Theory
+375,CH23512,Chemical Engineering Thermodynamics,Chemical Engineering,3,3,0,0,2023.0,Theory
+376,CH23513,Mass Transfer I,Chemical Engineering,3,3,0,0,2023.0,Theory
+377,CH23514,Chemical Reaction Engineering I,Chemical Engineering,3,3,0,0,2023.0,Theory
+378,CHPE1,Professional Elective – I,Chemical Engineering,3,3,0,0,2023.0,Professional Elective
+379,OE - 2,Open Elective - II,Chemical Engineering,3,3,0,0,2023.0,Open Elective
+380,GE23427,Soft Skills – II,Chemical Engineering,1,0,2,0,2023.0,Laboratory
+381,CH23521,Heat Transfer Lab,Chemical Engineering,2,0,4,0,2023.0,Laboratory
+382,CR23P51,Microfluidics Laboratory,Chemical Engineering,1,0,2,0,2023.0,Laboratory
+383,CH23611,Mass Transfer II,Chemical Engineering,3,3,0,0,2023.0,Theory
+384,CH23612,Chemical Reaction Engineering II,Chemical Engineering,3,3,0,0,2023.0,Theory
+385,CH23613,Process Control,Chemical Engineering,3,3,0,0,2023.0,Theory
+386,CH23614,Process Equipment Design,Chemical Engineering,3,3,0,0,2023.0,Theory
+387,CHPE2,Professional Elective – II,Chemical Engineering,3,3,0,0,2023.0,Professional Elective
+388,GE23627,Problem Solving Techniques,Chemical Engineering,1,0,2,0,2023.0,Others
+389,CH23621,Mass Transfer Lab,Chemical Engineering,2,0,4,0,2023.0,Laboratory
+390,CH23622,Innovation and Design thinking for Chemical Engineers,Chemical Engineering,2,0,4,0,2023.0,Laboratory
+391,VAP,Value Added Program,Chemical Engineering,0,0,0,0,2023.0,Others
+392,CH23711,Transport Phenomena,Chemical Engineering,3,3,0,0,2023.0,Theory
+393,CH23712,Comprehensive Chemical Engineering,Chemical Engineering,3,3,0,0,2023.0,Theory
+394,CH23713,Computer Applications in Chemical Engineering,Chemical Engineering,3,3,0,0,2023.0,Theory
+395,CH23714,Process Plant Utilities,Chemical Engineering,3,3,0,0,2023.0,Theory
+396,CHPE3,Professional Elective – III,Chemical Engineering,3,3,0,0,2023.0,Professional Elective
+397,CHPE4,Professional Elective – IV,Chemical Engineering,3,3,0,0,2023.0,Professional Elective
+398,CH23721,Chemical Reaction Engineering lab,Chemical Engineering,2,0,4,0,2023.0,Laboratory
+399,CH23722,Process Control Lab,Chemical Engineering,2,0,4,0,2023.0,Laboratory
+400,CH23723,Artificial Intelligence and Machine Learning for Chemical Engineers,Chemical Engineering,2,0,4,0,2023.0,Laboratory
+401,CHPE5,Professional Elective – V,Chemical Engineering,3,3,0,0,2023.0,Professional Elective
+402,CH23811,Project Work,Chemical Engineering,12,0,24,0,2023.0,Laboratory
+403,GE23117,தமிழர் மரபு /Heritage of Tamils,Civil Engineering,1,1,0,0,2023.0,Theory
+404,HS23111,Technical Communication -I,Civil Engineering,2,2,0,0,2023.0,Theory
+405,MA23112,Algebra and Calculus,Civil Engineering,4,3,0,1,2023.0,Theory
+406,CE23111,Building Materials,Civil Engineering,3,3,0,0,2023.0,Theory
+407,CE23112,Engineering Drawing for Civil Engineers,Civil Engineering,4,2,4,0,2023.0,Theory
+408,PH23131,Physics of Materials,Civil Engineering,4,3,2,0,2023.0,LOT
+409,GE23121,Engineering Practices – Civil and Mechanical,Civil Engineering,1,0,2,0,2023.0,Laboratory
+410,MC23112,Environmental Science and Engineering,Civil Engineering,0,3,0,0,2023.0,Theory
+411,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Civil Engineering,1,1,0,0,2023.0,Theory
+412,MA23212,Differential Equations and Complex Variables,Civil Engineering,4,3,0,1,2023.0,Theory
+413,GE23211,Engineering Mechanics,Civil Engineering,3,2,0,1,2023.0,Theory
+414,CY23223,Engineering Chemistry ,Civil Engineering,4,3,2,0,2023.0,LOT
+415,EE23133,Basic Electrical and Electronics Engineering,Civil Engineering,4,3,2,0,2023.0,LOT
+416,GE23231,Programming Using Python,Civil Engineering,3,1,4,0,2023.0,LOT
+417,CE23221,Computer Aided Building Drawing for Civil Engineers,Civil Engineering,2,0,4,0,2023.0,Laboratory
+418,HS23221,Technical Communication II,Civil Engineering,1,0,2,0,2023.0,Laboratory
+419,GE23122,Engineering Practices – Electrical and Electronics,Civil Engineering,1,0,2,0,2023.0,Laboratory
+420,MC23111,Indian Constitution and Freedom Movement,Civil Engineering,0,3,0,0,2023.0,Theory
+421,CE23311,Strength of Materials I,Civil Engineering,3,3,0,0,2023.0,Theory
+422,CE23312,Fluid Mechanics,Civil Engineering,3,3,0,0,2023.0,Theory
+423,CE23313,"Construction Techniques, Equipment and Practice",Civil Engineering,3,3,0,0,2023.0,Theory
+424,CE23331,Surveying,Civil Engineering,4,3,2,0,2023.0,LOT
+425,MA23331,Transforms and Statistics,Civil Engineering,4,3,2,0,2023.0,LOT
+426,CE23321,Construction Materials Laboratory,Civil Engineering,2,0,4,0,2023.0,Laboratory
+427,CS23422,Python Programming for Machine Learning,Civil Engineering,2,0,4,0,2023.0,Laboratory
+428,CE23411,Strength of Materials II,Civil Engineering,3,3,0,0,2023.0,Theory
+429,CE23412,Hydraulics and Irrigation Structures,Civil Engineering,3,3,0,0,2023.0,Theory
+430,CE23413,Water Supply Engineering,Civil Engineering,3,3,0,0,2023.0,Theory
+431,CE23414,Highway and Railway Engineering,Civil Engineering,3,3,0,0,2023.0,Theory
+432,CE23431,Soil Mechanics,Civil Engineering,4,3,2,0,2023.0,LOT
+433,OE - 1,Open Elective - I,Civil Engineering,3,3,0,0,2023.0,Open Elective
+434,CE23421,Strength of Materials and Hydraulic Engineering Laboratory,Civil Engineering,2,0,4,0,2023.0,Laboratory
+435,GE23327,Soft Skills – I,Civil Engineering,1,0,2,0,2023.0,Laboratory
+436,CE23511,Design of Reinforced Concrete Elements,Civil Engineering,4,3,0,1,2023.0,Theory
+437,CE23512,Foundation Engineering,Civil Engineering,3,3,0,0,2023.0,Theory
+438,CE23513,Waste Water Engineering,Civil Engineering,3,3,0,0,2023.0,Theory
+439,CE23531,Structural Analysis,Civil Engineering,4,3,2,0,2023.0,LOT
+440,CEPE1,Professional Elective – I,Civil Engineering,3,3,0,0,2023.0,Professional Elective
+441,OE - 2,Open Elective - II,Civil Engineering,3,3,0,0,2023.0,Open Elective
+442,CE23521,Water and Waste Water Analysis Laboratory,Civil Engineering,2,0,4,0,2023.0,Laboratory
+443,GE23427,Soft Skills – II,Civil Engineering,1,0,2,0,2023.0,Laboratory
+444,CE23611,Design of Steel Structures,Civil Engineering,4,3,0,1,2023.0,Theory
+445,CE23612,"Construction, Planning,Scheduling and Management",Civil Engineering,3,3,0,0,2023.0,Theory
+446,CE23613,Structural Dynamics and Earthquake Engineering,Civil Engineering,3,3,0,0,2023.0,Theory
+447,CEPE2,Professional Elective – II,Civil Engineering,3,3,0,0,2023.0,Professional Elective
+448,CE23631,Structural Design and Drawing,Civil Engineering,4,3,2,0,2023.0,LOT
+449,CE23632,Design Thinking for innovation in Civil Engineering,Civil Engineering,2,1,2,0,2023.0,Laboratory
+450,CE23711,"Estimation, Costing and Valuation Engineering",Civil Engineering,3,3,0,0,2023.0,Theory
+451,CE23712,Hydrology,Civil Engineering,3,3,0,0,2023.0,Theory
+452,CEPE3,Professional Elective – III,Civil Engineering,3,3,0,0,2023.0,Professional Elective
+453,CEPE4,Professional Elective – IV,Civil Engineering,3,3,0,0,2023.0,Professional Elective
+454,CE23721,Building Information Modelling,Civil Engineering,2,0,4,0,2023.0,Laboratory
+455,CE23723,Artificial Intelligence and Machine Learning for Civil Engineers,Civil Engineering,2,0,4,0,2023.0,Others
+456,CE237X,Seminar/ Others,Civil Engineering,0,0,0,0,2023.0,Others
+457,CEPE5,Professional Elective – V,Civil Engineering,3,3,0,0,2023.0,Professional Elective
+458,CEPE6,Professional Elective – VI,Civil Engineering,3,3,0,0,2023.0,Professional Elective
+459,CE23821,Project Work,Civil Engineering,6,0,12,0,2023.0,Laboratory
+460,HS23111,Technical Communication -I,Computer Science and Design,2,2,0,0,2023.0,Theory
+461,MA23113,Mathematics for Design,Computer Science and Design,4,3,0,1,2023.0,Theory
+462,CD23111,Design Drawing and Sketching,Computer Science and Design,3,2,0,1,2023.0,Theory
+463,GE23117,தமிழர் மரபு /Heritage of Tamils,Computer Science and Design,1,1,0,0,2023.0,Theory
+464,GE23131,Programming using C,Computer Science and Design,4,1,6,0,2023.0,LOT
+465,PH23132,Physics for Information Science,Computer Science and Design,4,3,2,0,2023.0,LOT
+466,GE23122,Engineering Practices – Electrical and Electronics,Computer Science and Design,1,0,2,0,2023.0,Laboratory
+467,MC23111,Indian Constitution and Freedom Movement,Computer Science and Design,0,3,0,0,2023.0,Theory
+468,MA23214,Probability and Inferential Statistics,Computer Science and Design,4,3,0,1,2023.0,Theory
+469,CD23211,Foundation in Digital StoryTelling,Computer Science and Design,3,3,0,0,2023.0,Theory
+470,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Computer Science and Design,1,1,0,0,2023.0,Theory
+471,CD23231,Visual Communication Foundations,Computer Science and Design,4,2,4,0,2023.0,LOT
+472,IT23231,Digital Logic and Computer Architecture,Computer Science and Design,4,3,2,0,2023.0,LOT
+473,CS23231,Data Structures,Computer Science and Design,5,3,4,0,2023.0,LOT
+474,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Computer Science and Design,1,0,2,0,2023.0,Laboratory
+475,GE23121,Engineering Practices – Civil and Mechanical,Computer Science and Design,1,0,2,0,2023.0,Laboratory
+476,MC23112,Environmental Science and Engineering,Computer Science and Design,0,3,0,0,2023.0,Theory
+477,MA23313,Discrete Mathematics for AI,Computer Science and Design,4,3,0,1,2023.0,Theory
+478,CD23331,Design Processes and Perspectives,Computer Science and Design,4,3,2,0,2023.0,LOT
+479,CS23331,Design and Analysis of Algorithms,Computer Science and Design,4,3,2,0,2023.0,LOT
+480,CD23332,UI and UX design,Computer Science and Design,4,2,4,0,2023.0,LOT
+481,CS23332,Database Management Systems,Computer Science and Design,5,3,4,0,2023.0,LOT
+482,CD23321,Python Programming for Design,Computer Science and Design,3,0,6,0,2023.0,Laboratory
+483,OE - 1,Open Elective - I,Computer Science and Design,3,3,0,0,2023.0,Open Elective
+484,MA23433,Mathematical Modelling and Simulation,Computer Science and Design,4,3,2,0,2023.0,LOT
+485,AI23231,Principles of Artificial Intelligence,Computer Science and Design,4,3,2,0,2023.0,LOT
+486,CS23432,Software Construction,Computer Science and Design,4,3,2,0,2023.0,LOT
+487,CS23532,Computer Networks,Computer Science and Design,4,3,2,0,2023.0,LOT
+488,CS23333,Object Oriented Programming Using JAVA,Computer Science and Design,4,1,6,0,2023.0,LOT
+489,GE23421,Soft Skills – I,Computer Science and Design,1,0,2,0,2023.0,Laboratory
+490,CD23421,Industry Internship (2/4 weeks),Computer Science and Design,1,0,0,0,2023.0,Others
+491,CDPE1,Professional Elective – I,Computer Science and Design,3,3,0,0,2023.0,Professional Elective
+492,CD23531,Animation and Graphics,Computer Science and Design,5,2,6,0,2023.0,LOT
+493,CS23431,Operating Systems,Computer Science and Design,5,3,4,0,2023.0,LOT
+494,CS23531,Web Programming,Computer Science and Design,3,1,4,0,2023.0,LOT
+495,CD23532,Design Thinking for Innovation in Product Development,Computer Science and Design,2,1,2,0,2023.0,Laboratory
+496,GE23521,Soft Skills – II,Computer Science and Design,1,0,2,0,2023.0,Laboratory
+497,OE - 2,Open Elective - II,Computer Science and Design,3,3,0,0,2023.0,Open Elective
+498,CDPE2,Professional Elective – II,Computer Science and Design,4,3,2,0,2023.0,Professional Elective
+499,CD23631,Game Design and Development,Computer Science and Design,4,2,4,0,2023.0,LOT
+500,AI23331,Fundamentals of Machine Learning,Computer Science and Design,4,3,2,0,2023.0,LOT
+501,CD23621,"Mobile Application Design and Development
+Laboratory ",Computer Science and Design,2,0,4,0,2023.0,Laboratory
+502,CD23622,Animated Educational Content/YouTube videos ,Computer Science and Design,3,0,6,0,2023.0,Laboratory
+503,CDPE3,Professional Elective – III,Computer Science and Design,3,3,0,0,2023.0,Professional Elective
+504,CDPE4,Professional Elective – IV,Computer Science and Design,4,3,2,0,2023.0,Professional Elective
+505,CD23731,Film Making and Radio Podcasting,Computer Science and Design,3,2,2,0,2023.0,LOT
+506,CD23721,Visual Effects,Computer Science and Design,3,0,6,0,2023.0,Laboratory
+507,CD23722,Capstone Project Phase 1*,Computer Science and Design,4,0,8,0,2023.0,Laboratory
+508,CDPE5,Professional Elective – V,Computer Science and Design,3,3,0,0,2023.0,Professional Elective
+509,CDPE6,Professional Elective – VI,Computer Science and Design,3,3,0,0,2023.0,Professional Elective
+510,CD23821,Capstone Project Phase 2*,Computer Science and Design,6,0,12,0,2023.0,Laboratory
+511,HS23111,Technical Communication -I,Computer Science and Engineering,2,2,0,0,2023.0,Theory
+512,MA23111,Linear Algebra and Calculus,Computer Science and Engineering,4,3,0,1,2023.0,Theory
+513,GE23117,தமிழர் மரபு /Heritage of Tamils,Computer Science and Engineering,1,1,0,0,2023.0,Theory
+514,GE23131,Programming using C,Computer Science and Engineering,4,1,6,0,2023.0,LOT
+515,EE23133,Basic Electrical and Electronics Engineering,Computer Science and Engineering,4,3,2,0,2023.0,LOT
+516,PH23132,Physics for Information Science,Computer Science and Engineering,4,3,2,0,2023.0,LOT
+517,GE23121,Engineering Practices – Civil and Mechanical,Computer Science and Engineering,1,0,2,0,2023.0,Laboratory
+518,MC23111,Indian Constitution and Freedom Movement,Computer Science and Engineering,0,3,0,0,2023.0,Theory
+519,MA23213,Discrete Mathematical Structures ,Computer Science and Engineering,4,3,0,1,2023.0,Theory
+520,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Computer Science and Engineering,1,1,0,0,2023.0,Theory
+521,EC23232,Digital Logic and Microprocessor,Computer Science and Engineering,4,3,2,0,2023.0,LOT
+522,GE23111,Engineering Graphics,Computer Science and Engineering,4,2,4,0,2023.0,Theory
+523,CS23231,Data Structures,Computer Science and Engineering,5,3,4,0,2023.0,LOT
+524,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Computer Science and Engineering,1,0,2,0,2023.0,Laboratory
+525,GE23122,Engineering Practices – Electrical and Electronics,Computer Science and Engineering,1,0,2,0,2023.0,Laboratory
+526,CS23221,Python Programming Lab,Computer Science and Engineering,2,0,4,0,2023.0,Laboratory
+527,MC23112,Environmental Science and Engineering,Computer Science and Engineering,0,3,0,0,2023.0,Theory
+528,MA23312,Fourier series and Number theory,Computer Science and Engineering,4,3,0,1,2023.0,Theory
+529,CS23311,Computer Architecture,Computer Science and Engineering,3,3,0,0,2023.0,Theory
+530,CS23331,Design and Analysis of Algorithms,Computer Science and Engineering,4,3,2,0,2023.0,LOT
+531,CS23332,Database Management Systems,Computer Science and Engineering,5,3,4,0,2023.0,LOT
+532,CS23333,Object Oriented Programming Using JAVA,Computer Science and Engineering,4,1,6,0,2023.0,Lab and Theory
+533,CS23334,Fundamentals of Data Science,Computer Science and Engineering,4,3,2,0,2023.0,LOT
+534,OE - 1,Open Elective - I,Computer Science and Engineering,3,3,0,0,2023.0,Open Elective
+535,BA23512,Fundamentals of Accounting,Computer Science and Engineering,3,3,0,0,2023.0,Theory
+536,MA23435,"Probability, Statistics and Simulation ",Computer Science and Engineering,4,3,2,0,2023.0,LOT
+537,CS23431,Operating Systems,Computer Science and Engineering,5,3,4,0,2023.0,LOT
+538,CS23432,Software Construction,Computer Science and Engineering,4,3,2,0,2023.0,LOT
+539,CS23433,Design Thinking for Innovation in Computer Science,Computer Science and Engineering,2,1,2,0,2023.0,LOT
+540,GE23421,Soft Skills – I,Computer Science and Engineering,1,0,2,0,2023.0,Laboratory
+541,CS23511,Theory of Computation,Computer Science and Engineering,4,3,0,1,2023.0,Theory
+542,CS23512,Fundamentals of Mobile Computing,Computer Science and Engineering,3,3,0,0,2023.0,Theory
+543,CSPE1,Professional Elective – I,Computer Science and Engineering,3,3,0,0,2023.0,Professional Elective
+544,CS23531,Web Programming,Computer Science and Engineering,4,1,6,0,2023.0,LOT
+545,CS23532,Computer Networks,Computer Science and Engineering,5,3,4,0,2023.0,LOT
+546,AI23231,Principles of Artificial Intelligence,Computer Science and Engineering,4,3,2,0,2023.0,LOT
+547,GE23521,Soft Skills – II,Computer Science and Engineering,1,0,2,0,2023.0,Laboratory
+548,CSPE2,Professional Elective – II,Computer Science and Engineering,3,3,0,0,2023.0,Professional Elective
+549,CS23631,Compiler Design,Computer Science and Engineering,4,3,2,0,2023.0,LOT
+550,CS23632,Cryptography and Network Security,Computer Science and Engineering,3,2,2,0,2023.0,LOT
+551,CS23633,Cloud Computing,Computer Science and Engineering,3,2,2,0,2023.0,LOT
+552,AI23331,Fundamentals of Machine Learning,Computer Science and Engineering,4,3,2,0,2023.0,LOT
+553,CS23621,Mobile Application Development Laboratory,Computer Science and Engineering,2,0,4,0,2023.0,Laboratory
+554,CSPE3,Professional Elective – III,Computer Science and Engineering,3,3,0,0,2023.0,Professional Elective
+555,CSPE4,Professional Elective – IV,Computer Science and Engineering,3,3,0,0,2023.0,Professional Elective
+556,CSPE5,Professional Elective – V,Computer Science and Engineering,3,3,0,0,2023.0,Professional Elective
+557,OE - 2,Open Elective - II,Computer Science and Engineering,3,3,0,0,2023.0,Open Elective
+558,CS23721,Project Work (Phase - I),Computer Science and Engineering,3,0,6,0,2023.0,Laboratory
+559,CSPE7,Professional Elective – VII,Computer Science and Engineering,3,3,0,0,2023.0,Professional Elective
+560,CS23821,Project Work (Phase - II),Computer Science and Engineering,6,0,12,0,2023.0,Laboratory
+561,HS23111,Technical Communication -I,Computer Science and Engineering (Cyber Security),2,2,0,0,2023.0,Theory
+562,MA23111,Linear Algebra and Calculus,Computer Science and Engineering (Cyber Security),4,3,0,1,2023.0,Theory
+563,GE23117,தமிழர் மரபு /Heritage of Tamils,Computer Science and Engineering (Cyber Security),1,1,0,0,2023.0,Theory
+564,GE23131,Programming using C,Computer Science and Engineering (Cyber Security),4,1,6,0,2023.0,LOT
+565,EE23133,Basic Electrical and Electronics Engineering,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+566,PH23132,Physics for Information Science,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+567,GE23121,Engineering Practices – Civil and Mechanical,Computer Science and Engineering (Cyber Security),1,0,2,0,2023.0,Laboratory
+568,MA23213,Discrete Mathematical Structures ,Computer Science and Engineering (Cyber Security),4,3,0,1,2023.0,Theory
+569,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Computer Science and Engineering (Cyber Security),1,1,0,0,2023.0,Theory
+570,EC23232,Digital Logic and Microprocessor,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+571,GE23111,Engineering Graphics,Computer Science and Engineering (Cyber Security),4,2,4,0,2023.0,Theory
+572,CS23231,Data Structures,Computer Science and Engineering (Cyber Security),5,3,4,0,2023.0,LOT
+573,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Computer Science and Engineering (Cyber Security),1,0,2,0,2023.0,Laboratory
+574,GE23122,Engineering Practices – Electrical and Electronics,Computer Science and Engineering (Cyber Security),1,0,2,0,2023.0,Laboratory
+575,CS23221,Python Programming Lab,Computer Science and Engineering (Cyber Security),2,0,4,0,2023.0,Laboratory
+576,MC23112,Environmental Science and Engineering,Computer Science and Engineering (Cyber Security),0,3,0,0,2023.0,Theory
+577,MA23312,Fourier series and Number theory,Computer Science and Engineering (Cyber Security),4,3,0,1,2023.0,Theory
+578,CS23332,Database Management Systems,Computer Science and Engineering (Cyber Security),5,3,4,0,2023.0,LOT
+579,CS23333,Object Oriented Programming Using JAVA,Computer Science and Engineering (Cyber Security),4,1,6,0,2023.0,LOT
+580,CS23532,Computer Networks,Computer Science and Engineering (Cyber Security),5,3,4,0,2023.0,LOT
+581,CR23331,Cryptography,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+582,OE - 1,Open Elective - I,Computer Science and Engineering (Cyber Security),3,3,0,0,2023.0,Open Elective
+583,MA23435,"Probability, Statistics and Simulation ",Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+584,CS23431,Operating Systems,Computer Science and Engineering (Cyber Security),5,3,4,0,2023.0,LOT
+585,CR23431,Network Security,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+586,CS23331,Design and Analysis of Algorithms,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+587,CR23432,Design Thinking for Innovation in Computer Science,Computer Science and Engineering (Cyber Security),2,1,2,0,2023.0,LOT
+588,GE23421,Soft Skills – I,Computer Science and Engineering (Cyber Security),1,0,2,0,2023.0,Laboratory
+589,CRPE1,Professional Elective – I,Computer Science and Engineering (Cyber Security),3,3,0,0,2023.0,Professional Elective
+590,CS23531,Web Programming,Computer Science and Engineering (Cyber Security),4,1,6,0,2023.0,LOT
+591,AI23231,Principles of Artificial Intelligence,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+592,CR23531,Ethical Hacking,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+593,CR23532,Cyber and Digital Forensics,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+594,CS23432,Software Construction,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+595,GE23521,Soft Skills – II,Computer Science and Engineering (Cyber Security),1,0,2,0,2023.0,Laboratory
+596,CR23611,Cyber Laws and Security Policies,Computer Science and Engineering (Cyber Security),3,3,0,0,2023.0,Theory
+597,CRPE2,Professional Elective – II,Computer Science and Engineering (Cyber Security),3,3,0,0,2023.0,Professional Elective
+598,CR23631,Malware Analysis,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+599,CR23632,Blockchain Technologies,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+600,AI23331,Fundamentals of Machine Learning,Computer Science and Engineering (Cyber Security),4,3,2,0,2023.0,LOT
+601,CS23621,Mobile Application Development Laboratory,Computer Science and Engineering (Cyber Security),2,0,4,0,2023.0,Laboratory
+602,CRPE3,Professional Elective – III,Computer Science and Engineering (Cyber Security),3,3,0,0,2023.0,Professional Elective
+603,CRPE4,Professional Elective – IV,Computer Science and Engineering (Cyber Security),3,3,0,0,2023.0,Professional Elective
+604,CRPE5,Professional Elective – V,Computer Science and Engineering (Cyber Security),3,3,0,0,2023.0,Professional Elective
+605,OE - 2,Open Elective - II,Computer Science and Engineering (Cyber Security),3,3,0,0,2023.0,Open Elective
+606,CR23731,Blockchain Development in Hyper ledger Fabric,Computer Science and Engineering (Cyber Security),3,2,2,0,2023.0,LOT
+607,CR23721,Project Work (Phase - I),Computer Science and Engineering (Cyber Security),3,0,6,0,2023.0,Laboratory
+608,CRPE6,Professional Elective – VI,Computer Science and Engineering (Cyber Security),3,3,0,0,2023.0,Professional Elective
+609,CR23821,Project Work (Phase - II),Computer Science and Business Systems,6,0,12,0,2023.0,Laboratory
+610,HS23112,Business Communication and Value Science – I,Computer Science and Business Systems,2,2,0,0,2023.0,Theory
+611,MA23115,Discrete Mathematics,Computer Science and Business Systems,4,3,0,1,2023.0,Theory
+612,MA23114,Probability and Calculus,Computer Science and Business Systems,4,3,0,1,2023.0,Theory
+613,GE23117,தமிழர் மரபு /Heritage of Tamils,Computer Science and Business Systems,1,1,0,0,2023.0,Theory
+614,CB23131,Fundamentals of Computer Science,Computer Science and Business Systems,4,2,4,0,2023.0,LOT
+615,EE23131,Principles of Electrical Engineering,Computer Science and Business Systems,3,2,2,0,2023.0,LOT
+616,PH23133,Physics for Computing Science,Computer Science and Business Systems,4,3,2,0,2023.0,LOT
+617,MA23211,Linear Algebra,Computer Science and Business Systems,4,3,0,1,2023.0,Theory
+618,BA23212,Fundamentals of Economics,Computer Science and Business Systems,2,2,0,0,2023.0,Theory
+619,MA23231,Statistical Modeling,Computer Science and Business Systems,4,3,2,0,2023.0,LOT
+620,CB23231,Data Structures &Algorithms,Computer Science and Business Systems,5,2,4,1,2023.0,LOT
+621,EC23242,Principles of Electronics,Computer Science and Business Systems,3,2,2,0,2023.0,LOT
+622,CS23221,Python Programming Lab,Computer Science and Business Systems,2,0,4,0,2023.0,Laboratory
+623,HS23223,Business Communication & Value Science – II,Computer Science and Business Systems,2,0,4,0,2023.0,Laboratory
+624,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Computer Science and Business Systems,1,1,0,0,2023.0,Theory
+625,CB23311,Formal Language and Automata Theory,Computer Science and Business Systems,3,3,0,0,2023.0,Theory
+626,CB23312,Computer Organization and Architecture,Computer Science and Business Systems,3,3,0,0,2023.0,Theory
+627,CB23331,Computational Statistics,Computer Science and Business Systems,4,3,2,0,2023.0,LOT
+628,CB23332,Software Engineering,Computer Science and Business Systems,4,3,2,0,2023.0,LOT
+629,CB23333,Database Technology,Computer Science and Business Systems,4,3,2,0,2023.0,LOT
+630,CS23333,Object Oriented Programming Using JAVA,Computer Science and Business Systems,4,1,6,0,2023.0,LOT
+631,MC23313,Environmental Sciences,Computer Science and Business Systems,0,3,0,0,2023.0,Theory
+632,CB23411,"Introduction to Innovation, IP Management and Entrepreneurship",Computer Science and Business Systems,3,3,0,0,2023.0,Theory
+633,BA23412,Fundamentals of Management,Computer Science and Business Systems,2,2,0,0,2023.0,Theory
+634,CB23431,Operating System Concepts,Computer Science and Business Systems,4,3,2,0,2023.0,LOT
+635,CB23432,Software Design with UML,Computer Science and Business Systems,3,2,2,0,2023.0,LOT
+636,CB23433,Analysis of Algorithms and Design,Computer Science and Business Systems,4,2,2,1,2023.0,LOT
+637,MA23437,Optimization Techniques,Computer Science and Business Systems,4,3,2,0,2023.0,LOT
+638,HS23421,Business Communication and Value Science – III,Computer Science and Business Systems,2,0,4,0,2023.0,Laboratory
+639,GE23421,Soft Skills – I,Computer Science and Business Systems,1,0,2,0,2023.0,Laboratory
+640,BA23511,Principles of Financial Management,Computer Science and Business Systems,2,2,0,0,2023.0,Theory
+641,OE - 1,Open Elective - I,Computer Science and Business Systems,3,3,0,0,2023.0,Open Elective
+642,CB23531,Computer Network Technology,Computer Science and Business Systems,4,3,2,0,2023.0,LOT
+643,CB23532,Artificial Intelligence,Computer Science and Business Systems,4,3,2,0,2023.0,LOT
+644,CBPE1,Professional Elective – I,Computer Science and Business Systems,4,2,2,1,2023.0,Professional Elective
+645,CB23521,Design Thinking for Innovation in Computer Science and Business Systems,Computer Science and Business Systems,2,1,2,0,2023.0,LOT
+646,GE23521,Soft Skills – II,Computer Science and Business Systems,1,0,2,0,2023.0,Laboratory
+647,BA23611,Financial and Cost Accounting,Computer Science and Business Systems,2,2,0,0,2023.0,Theory
+648,BA23612,Business Strategy,Computer Science and Business Systems,2,2,0,0,2023.0,Theory
+649,CB23631,Machine Learning,Computer Science and Business Systems,4,2,2,1,2023.0,LOT
+650,CB23632,"Cloud, Micro services and Application",Computer Science and Business Systems,4,2,2,1,2023.0,LOT
+651,CB23633,Usability Design of Software Applications,Computer Science and Business Systems,3,2,2,0,2023.0,LOT
+652,CBPE2,Professional Elective – II,Computer Science and Business Systems,4,3,2,0,2023.0,Professional Elective
+653,HS23621,Business Communication & Value Science – IV,Computer Science and Business Systems,2,0,4,0,2023.0,Laboratory
+654,OE - 2,Open Elective - II,Computer Science and Business Systems,3,3,0,0,2023.0,Open Elective
+655,CB23731,Data Visualization Techniques,Computer Science and Business Systems,3,2,2,0,2023.0,LOT
+656,CB23732,IT Project Management,Computer Science and Business Systems,3,2,2,0,2023.0,LOT
+657,CBPE3,Professional Elective – III,Computer Science and Business Systems,3,3,0,0,2023.0,Professional Elective
+658,CBPE4,Professional Elective – IV,Computer Science and Business Systems,4,2,2,1,2023.0,Professional Elective
+659,CB23721,Project Evaluation I,Computer Science and Business Systems,2,0,4,0,2023.0,Laboratory
+660,CBPE5,Professional Elective – V,Computer Science and Business Systems,3,3,0,0,2023.0,Professional Elective
+661,CBPE6,Professional Elective – VI,Computer Science and Business Systems,3,2,2,0,2023.0,Professional Elective
+662,CB23821,Project Evaluation II,Computer Science and Business Systems,8,0,16,0,2023.0,Laboratory
+663,HS23111,Technical Communication -I,Electrical and Electronics Engineering,2,2,0,0,2023.0,Theory
+664,MA23111,Linear Algebra and Calculus,Electrical and Electronics Engineering,4,3,0,1,2023.0,Theory
+665,CY23131,Chemistry For Electronics Engineering,Electrical and Electronics Engineering,4,3,2,0,2023.0,LOT
+666,GE23131,Programming using C,Electrical and Electronics Engineering,4,1,6,0,2023.0,LOT
+667,GE23111,Engineering Graphics,Electrical and Electronics Engineering,4,2,4,0,2023.0,Theory
+668,GE23122,Engineering Practices – Electrical and Electronics,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+669,MC23111,Indian Constitution and Freedom Movement,Electrical and Electronics Engineering,0,3,0,0,2023.0,Theory
+670,GE23117,தமிழர் மரபு /Heritage of Tamils,Electrical and Electronics Engineering,1,1,0,0,2023.0,Theory
+671,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+672,MA23212,Differential Equations and Complex Variables,Electrical and Electronics Engineering,4,3,0,1,2023.0,Theory
+673,PH23232,Physics for Electronics Engineering,Electrical and Electronics Engineering,4,3,2,0,2023.0,LOT
+674,CS23231,Data Structures,Electrical and Electronics Engineering,5,3,4,0,2023.0,LOT
+675,EE23212,Electric Circuits,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+676,EE23221,Electric Circuits Laboratory,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+677,GE23121,Engineering Practices – Civil and Mechanical,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+678,MC23112,Environmental Science and Engineering,Electrical and Electronics Engineering,0,3,0,0,2023.0,Theory
+679,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Electrical and Electronics Engineering,1,1,0,0,2023.0,Theory
+680,MA23312,Fourier series and Number theory,Electrical and Electronics Engineering,4,3,0,1,2023.0,Theory
+681,EE23311,Electromagnetic Theory,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+682,EE23312,Electrical Machines – I,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+683,EE23313,Measurements and Instrumentation,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+684,EE23314,Electronic Devices and Circuits,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+685,EE23315,Power Plant Engineering,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+686,EE23321,Electronic Devices and Circuits Laboratory,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+687,CS23336,Introduction to Python Programming,Electrical and Electronics Engineering,3,1,4,0,2023.0,LOT
+688,EE23411,Electrical Machines – II,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+689,EE23412,Transmission and Distribution,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+690,EE23431,Digital Logic Circuits,Electrical and Electronics Engineering,4,3,2,0,2023.0,LOT
+691,EE23432,Linear Integrated Circuits and Applications,Electrical and Electronics Engineering,4,3,2,0,2023.0,LOT
+692,OE - 1,Open Elective - I,Electrical and Electronics Engineering,3,3,0,0,2023.0,Open Elective
+693,EE23421,Electrical Machines Laboratory,Electrical and Electronics Engineering,2,0,4,0,2023.0,Laboratory
+694,GE23327,Soft Skills – I,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+695,CS23422,Python Programming for Machine Learning,Electrical and Electronics Engineering,2,0,4,0,2023.0,Laboratory
+696,EE23511,Power System Analysis,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+697,EE23512,Power Electronics,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+698,EE23513,Control Systems,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+699,EEPE1,Professional Elective – I,Electrical and Electronics Engineering,3,3,0,0,2023.0,Professional Elective
+700,EE23531,"Microprocessors, Microcontrollers and Applications",Electrical and Electronics Engineering,4,3,2,0,2023.0,LOT
+701,OE - 2,Open Elective - II,Electrical and Electronics Engineering,3,3,0,0,2023.0,Open Elective
+702,EE23521,Control and Instrumentation Laboratory,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+703,EE23522,Innovation and Design Thinking for Electrical Engineers,Electrical and Electronics Engineering,2,0,4,0,2023.0,Laboratory
+704,GE23427,Soft Skills – II,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+705,EE23611,Protection and Switchgear,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+706,EE23612,Solid State Drives,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+707,EE23613,Electric Energy Utilization and Conservation,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+708,EE23631,Applications of IoT in Electrical Engineering,Electrical and Electronics Engineering,3,2,2,0,2023.0,LOT
+709,EEPE2,Professional Elective – II,Electrical and Electronics Engineering,3,3,0,0,2023.0,Professional Elective
+710,EEPE3,Professional Elective – III,Electrical and Electronics Engineering,3,3,0,0,2023.0,Professional Elective
+711,EE23621,Power Electronics and Drives Laboratory,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+712,EE23622,Applications of AI and ML in Electrical Engineering,Electrical and Electronics Engineering,2,0,4,0,2023.0,Laboratory
+713,GE23627,Problem Solving Techniques,Electrical and Electronics Engineering,1,0,2,0,2023.0,Laboratory
+714,EE23711,Smart Grid,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+715,EE23712,Power System Operation and Control,Electrical and Electronics Engineering,3,3,0,0,2023.0,Theory
+716,EE23731,Renewable Energy Systems,Electrical and Electronics Engineering,4,3,2,0,2023.0,LOT
+717,EEPE4,Professional Elective – IV,Electrical and Electronics Engineering,3,3,0,0,2023.0,Professional Elective
+718,EE23721,Power System Simulation Laboratory,Electrical and Electronics Engineering,2,0,4,0,2023.0,Laboratory
+719,EE23722,Project ( Phase-I ),Electrical and Electronics Engineering,4,0,8,0,2023.0,Laboratory
+720,EEPE5,Professional Elective – V,Electrical and Electronics Engineering,3,3,0,0,2023.0,Professional Elective
+721,EEPE6,Professional Elective – VI,Electrical and Electronics Engineering,3,3,0,0,2023.0,Professional Elective
+722,EE23821,Project Work (Phase - II),Electrical and Electronics Engineering,6,0,12,0,2023.0,Laboratory
+723,HS23111,Technical Communication -I,Electronics and Communication Engineering,2,2,0,0,2023.0,Theory
+724,GE23117,தமிழர் மரபு /Heritage of Tamils,Electronics and Communication Engineering,1,1,0,0,2023.0,Theory
+725,MA23111,Linear Algebra and Calculus,Electronics and Communication Engineering,4,3,0,1,2023.0,Theory
+726,EC23131,Electron Devices,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+727,CY23131,Chemistry For Electronics Engineering,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+728,GE23131,Programming using C,Electronics and Communication Engineering,4,1,6,0,2023.0,LOT
+729,GE23122,Engineering Practices – Electrical and Electronics,Electronics and Communication Engineering,1,0,2,0,2023.0,Laboratory
+730,MC23111,Indian Constitution and Freedom Movement,Electronics and Communication Engineering,0,3,0,0,2023.0,Theory
+731,MA23212,Differential Equations and Complex Variables,Electronics and Communication Engineering,4,3,0,1,2023.0,Theory
+732,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Electronics and Communication Engineering,1,1,0,0,2023.0,Theory
+733,EE23132,Basic Electrical Engineering,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+734,PH23232,Physics for Electronics Engineering,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+735,CS23231,Data Structures,Electronics and Communication Engineering,5,3,4,0,2023.0,LOT
+736,GE23111,Engineering Graphics,Electronics and Communication Engineering,4,2,4,0,2023.0,Theory
+737,GE23121,Engineering Practices – Civil and Mechanical,Electronics and Communication Engineering,1,0,2,0,2023.0,Laboratory
+738,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Electronics and Communication Engineering,1,0,2,0,2023.0,Laboratory
+739,MC23112,Environmental Science and Engineering,Electronics and Communication Engineering,0,3,0,0,2023.0,Theory
+740,MA23312,Fourier series and Number theory,Electronics and Communication Engineering,4,3,0,1,2023.0,Theory
+741,EC23311,Analog Circuits –I,Electronics and Communication Engineering,3,3,0,0,2023.0,Theory
+742,EC23312,Electromagnetic Fields,Electronics and Communication Engineering,3,3,0,0,2023.0,Theory
+743,EC23313,Digital Principles and System Design,Electronics and Communication Engineering,3,3,0,0,2023.0,Theory
+744,EC23331,Microprocessors and Microcontrollers,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+745,CS23336,Introduction to Python Programming,Electronics and Communication Engineering,3,1,4,0,2023.0,LOT
+746,EC23321,Analog and Digital Circuits Laboratory,Electronics and Communication Engineering,2,0,4,0,2023.0,Laboratory
+747,EC23411,Signals and Systems,Electronics and Communication Engineering,3,3,0,0,2023.0,Theory
+748,EC23412,Transmission Lines and Waveguides,Electronics and Communication Engineering,3,3,0,0,2023.0,Theory
+749,EC23413,Communication Theory,Electronics and Communication Engineering,3,3,0,0,2023.0,Theory
+750,EC23431,Analog Circuits-II,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+751,MA23436,Probability and Random Processes,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+752,GE23327,Soft Skills – I,Electronics and Communication Engineering,1,0,2,0,2023.0,Laboratory
+753,CS23422,Python Programming for Machine Learning,Electronics and Communication Engineering,2,0,4,0,2023.0,Laboratory
+754,EC23511,Control System Engineering,Electronics and Communication Engineering,3,2,0,1,2023.0,Theory
+755,EC23512,Modern Digital Communication,Electronics and Communication Engineering,3,3,0,0,2023.0,Theory
+756,OE - 1,Open Elective - I,Electronics and Communication Engineering,3,3,0,0,2023.0,Open Elective
+757,ECPE1,Professional Elective – I,Electronics and Communication Engineering,3,3,0,0,2023.0,Professional Elective
+758,ECPE2,Professional Elective – II,Electronics and Communication Engineering,3,3,0,0,2023.0,Professional Elective
+759,EC23531,Digital Signal Processing,Electronics and Communication Engineering,4,2,2,1,2023.0,LOT
+760,EC23521,Communication Systems Laboratory,Electronics and Communication Engineering,2,0,4,0,2023.0,Laboratory
+761,EC23522,Industrial Internship,Electronics and Communication Engineering,1,0,2,0,2023.0,Laboratory
+762,GE23427,Soft Skills – II,Electronics and Communication Engineering,1,0,2,0,2023.0,Laboratory
+763,EC23611,Antenna Theory and Wave Propagation,Electronics and Communication Engineering,3,3,0,0,2023.0,Theory
+764,OE - 2,Open Elective - II,Electronics and Communication Engineering,3,0,6,0,2023.0,Open Elective
+765,EC23631,VLSI and Chip Design,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+766,EC23632,Communication Networks,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+767,EC23633,Wireless Communication,Electronics and Communication Engineering,3,2,2,0,2023.0,LOT
+768,GE23627,Problem Solving Techniques,Electronics and Communication Engineering,1,0,2,0,2023.0,Laboratory
+769,EC23621,Design Thinking for Innovation in ECE,Electronics and Communication Engineering,2,0,4,0,2023.0,Laboratory
+770,ECPE3,Professional Elective – III,Electronics and Communication Engineering,3,3,0,0,2023.0,Professional Elective
+771,ECPE4,Professional Elective – IV,Electronics and Communication Engineering,3,3,0,0,2023.0,Professional Elective
+772,EC23731,Optical Communication and Networks,Electronics and Communication Engineering,3,2,2,0,2023.0,LOT
+773,EC23732,RF and Microwave Engineering,Electronics and Communication Engineering,3,2,2,0,2023.0,LOT
+774,EC23733,Embedded and Real Time Systems,Electronics and Communication Engineering,4,3,2,0,2023.0,LOT
+775,EC23721,Artificial Intelligence and Machine Learning for Electronic Engineering,Electronics and Communication Engineering,2,0,4,0,2023.0,Laboratory
+776,ECPE5,Professional Elective – V,Electronics and Communication Engineering,3,3,0,0,2023.0,Professional Elective
+777,ECPE6,Professional Elective – VI,Electronics and Communication Engineering,3,3,0,0,2023.0,Professional Elective
+778,EC23821,Project Work,Electronics and Communication Engineering,10,0,20,0,2023.0,Laboratory
+779,HS23111,Technical Communication -I,Food Technology,2,2,0,0,2023.0,Theory
+780,MA23112,Algebra and Calculus,Food Technology,4,3,0,1,2023.0,Theory
+781,CY23132,Chemistry for Technologists,Food Technology,4,3,2,0,2023.0,LOT
+782,GE23111,Engineering graphics,Food Technology,4,2,4,0,2023.0,Laboratory
+783,GE23121,Engineering Practices – Civil and Mechanical,Food Technology,1,0,2,0,2023.0,Laboratory
+784,MC23112,Environmental Science and Engineering,Food Technology,0,3,0,0,2023.0,Theory
+785,GE23117,தமிழர் மரபு /Heritage of Tamils,Food Technology,1,1,0,0,2023.0,Theory
+786,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Food Technology,1,0,2,0,2023.0,Theory
+787,MA23212,Differential Equations and Complex Variables,Food Technology,4,3,0,1,2023.0,Theory
+788,EE23133,Basic Electrical and Electronics Engineering,Food Technology,4,3,2,0,2023.0,LOT
+789,PH23231,Physics for Bioscience,Food Technology,4,3,2,0,2023.0,LOT
+790,GE23233,Problem Solving and Python Programming,Food Technology,4,2,4,0,2023.0,LOT
+791,FT23201,Food chemistry,Food Technology,3,3,0,0,2023.0,Theory
+792,MC23111,Indian Constitution and Freedom Movement,Food Technology,0,3,0,0,2023.0,Theory
+793,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Food Technology,1,1,0,0,2023.0,Theory
+794,FT23211,Food Chemistry Laboratory,Food Technology,2,0,4,0,2023.0,Laboratory
+795,MA23311,Transforms and Applied Partial Differential Equations,Food Technology,4,3,0,1,2023.0,Theory
+796,FT23301,Food Microbiology,Food Technology,3,3,0,0,2023.0,Theory
+797,FT23302,Biochemistry & Nutrition,Food Technology,3,3,0,0,2023.0,Theory
+798,FT23303,Food Process Calculations,Food Technology,3,3,0,0,2023.0,Theory
+799,FT23304,"Fluid Mechanics in Food
+Processes",Food Technology,3,3,0,0,2023.0,Theory
+800,FT23305,Food Additives,Food Technology,3,3,0,0,2023.0,Theory
+801,FT23311,Food Microbiology Laboratory,Food Technology,2,0,4,0,2023.0,Laboratory
+802,FT23312,"Biochemistry & Nutrition
+Laboratory",Food Technology,2,0,4,0,2023.0,Laboratory
+803,MA23431,"Probability, Statistics and Reliability",Food Technology,4,3,0,1,2023.0,Theory
+804,FT23401,"Unit operations in Food
+Industries",Food Technology,3,3,0,0,2023.0,Theory
+805,FT23402,"Food Processing and
+Preservation Technology",Food Technology,3,3,0,0,2023.0,Theory
+806,FT23403,"Thermodynamics for Food
+Technologists",Food Technology,3,3,0,0,2023.0,Theory
+807,MC23301,"Essence of Indian Traditional Knowledge
+(Non-Credit course)",Food Technology,0,2,0,0,2023.0,Theory
+808,GE19304,"Fundamentals of
+Management for Engineers",Food Technology,3,3,0,0,2023.0,Theory
+809,CS23411,Python Programming for Machine Learning,Food Technology,3,1,4,0,2023.0,LOT
+810,FT23411,Unit operations in Food Industries Laboratory,Food Technology,2,0,4,0,2023.0,Laboratory
+811,FT23412,Food Processing and Preservation Laboratory,Food Technology,2,0,4,0,2023.0,Laboratory
+812,GE23327,Soft Skills – I,Food Technology,1,0,2,0,2023.0,Laboratory
+813,FT23501,Food Analysis,Food Technology,3,3,0,0,2023.0,Theory
+814,FT23502,Food Product Technology,Food Technology,3,3,0,0,2023.0,Theory
+815,FT23503,"Heat and Mass Transfer in
+Food Processing",Food Technology,3,3,0,0,2023.0,Theory
+816,FTPE1,Professional Elective – I,Food Technology,4,3,2,0,2023.0,Professional Elective
+817,FTPE2,Professional Elective – II,Food Technology,4,3,2,0,2023.0,Professional Elective
+818,OE - 1,Open Elective - I,Food Technology,3,3,0,0,2023.0,Open Elective
+819,FT23511,Food Analysis Lab,Food Technology,2,0,4,0,2023.0,Laboratory
+820,FT23512,"Food Product Technology
+Laboratory",Food Technology,2,0,4,0,2023.0,Laboratory
+821,GE23427,Soft Skills – II,Food Technology,1,0,2,0,2023.0,Laboratory
+822,FT23601,Professional Ethics,Food Technology,3,3,0,0,2023.0,Theory
+823,FT23602,"Refrigeration and Cold Chain
+Management",Food Technology,3,3,0,0,2023.0,Theory
+824,FTPE3,Professional Elective – III,Food Technology,4,3,2,0,2023.0,Professional Elective
+825,FTPE4,Professional Elective – IV,Food Technology,4,3,2,0,2023.0,Professional Elective
+826,OE - 2,Open Elective - II,Food Technology,3,3,0,0,2023.0,Open Elective
+827,CR19P62,Microfluidics Laboratory,Food Technology,2,0,4,0,2023.0,Laboratory
+828,FT23611,"Innovation and Design thinking
+for Food Technologists",Food Technology,2,0,4,0,2023.0,Laboratory
+829,FT23701,"Food Quality, Safety Standards
+and Certification",Food Technology,3,3,0,0,2023.0,Theory
+830,FT23702,"Comprehensive course for
+Food Technologists.",Food Technology,3,3,0,0,2023.0,Theory
+831,FT23703,"Functional Foods and
+Nutraceuticals",Food Technology,3,3,0,0,2023.0,Theory
+832,FT23704,Sensory evaluation in foods,Food Technology,2,3,0,0,2023.0,Theory
+833,FTPE5,Professional Elective – V,Food Technology,3,3,0,0,2023.0,Professional Elective
+834,FTPE6,Professional Elective – VI,Food Technology,3,3,0,0,2023.0,Professional Elective
+835,FT23711,"Problem solving using AI-ML
+for Food Technologists.",Food Technology,2,0,4,0,2023.0,LOT
+836,FT23801,Internship/ Project Work,Food Technology,10,0,20,0,2023.0,Laboratory
+837,HS23111,Technical Communication -I,Information Technology,2,2,0,0,2023.0,Theory
+838,MA23111,Linear Algebra and Calculus,Information Technology,4,3,0,1,2023.0,Theory
+839,GE23111,Engineering Graphics,Information Technology,4,2,0,2,2023.0,Theory
+840,GE23117,தமிழர் மரபு /Heritage of Tamils,Information Technology,1,1,0,0,2023.0,Theory
+841,EE23133,Basic Electrical and Electronics Engineering,Information Technology,4,3,2,0,2023.0,Laboratory
+842,GE23131,Programming using C,Information Technology,4,1,6,0,2023.0,LOT
+843,GE23122,Engineering Practices – Electrical and Electronics,Information Technology,1,0,2,0,2023.0,Laboratory
+844,MC23112,Environmental Science and Engineering,Information Technology,0,3,0,0,2023.0,Theory
+845,MA23213,Discrete Mathematical Structures ,Information Technology,4,3,0,1,2023.0,Theory
+846,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Information Technology,1,1,0,0,2023.0,Theory
+847,PH23132,Physics for Information Science,Information Technology,4,3,2,0,2023.0,LOT
+848,EC23331,Microprocessors and Microcontrollers,Information Technology,4,3,2,0,2023.0,LOT
+849,CS23231,Data Structures,Information Technology,5,3,4,0,2023.0,LOT
+850,GE23121,Engineering Practices – Civil and Mechanical,Information Technology,1,0,2,0,2023.0,Laboratory
+851,CS23221,Python Programming Lab,Information Technology,2,0,4,0,2023.0,Laboratory
+852,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Information Technology,1,0,2,0,2023.0,Laboratory
+853,MC23111,Indian Constitution and Freedom Movement,Information Technology,0,3,0,0,2023.0,Theory
+854,MA23312,Fourier series and Number theory,Information Technology,4,3,0,1,2023.0,Theory
+855,EC23314,Analog and Digital Communication,Information Technology,3,3,0,0,2023.0,Theory
+856,CS23331,Design and Analysis of Algorithms,Information Technology,4,3,2,0,2023.0,LOT
+857,CS23332,Database Management Systems,Information Technology,5,3,4,0,2023.0,LOT
+858,CS23333,Object Oriented Programming Using JAVA,Information Technology,4,1,6,0,2023.0,LOT
+859,IT23231,Digital Logic and Computer Architecture,Information Technology,4,3,2,0,2023.0,LOT
+860,MA23435,"Probability, Statistics and Simulation ",Information Technology,4,3,2,0,2023.0,Theory
+861,GE23311,Fundamentals of Management for Engineers,Information Technology,3,3,0,0,2023.0,Theory
+862,OE - 1,Open Elective - I,Information Technology,3,3,0,0,2023.0,Open Elective
+863,CS23431,Operating Systems,Information Technology,5,3,4,0,2023.0,LOT
+864,CS23432,Software Construction,Information Technology,4,3,2,0,2023.0,LOT
+865,IT23431,Software Testing,Information Technology,3,2,2,0,2023.0,LOT
+866,GE23421,Soft Skills – I,Information Technology,1,0,2,0,2023.0,Laboratory
+867,ITPE1,Professional Elective – I,Information Technology,3,3,0,0,2023.0,Professional Elective
+868,IT23511,Automata Theory & Compiler Design,Information Technology,3,3,0,0,2023.0,Theory
+869,IT23531,Computer Vision,Information Technology,4,3,2,0,2023.0,LOT
+870,CS23531,Web Programming,Information Technology,4,1,6,0,2023.0,LOT
+871,AI23231,Principles of Artificial Intelligence,Information Technology,4,3,2,0,2023.0,LOT
+872,CS23532,Computer Networks,Information Technology,5,3,4,0,2023.0,LOT
+873,GE23521,Soft Skills – II,Information Technology,1,0,2,0,2023.0,Laboratory
+874,ITPE2,Professional Elective – II,Information Technology,3,3,0,0,2023.0,Professional Elective
+875,OE - 2,Open Elective - II,Information Technology,3,3,0,0,2023.0,Open Elective
+876,CS23512,Fundamentals of Mobile Computing,Information Technology,3,3,0,0,2023.0,Theory
+877,CS23632,Cryptography and Network Security,Information Technology,3,2,2,0,2023.0,LOT
+878,AI23331,Fundamentals of Machine Learning,Information Technology,4,3,2,0,2023.0,LOT
+879,IT23631,"Design Thinking for Innovation in Information
+ Technology",Information Technology,2,1,2,0,2023.0,LOT
+880,CS23621,Mobile Application Development Laboratory,Information Technology,2,0,4,0,2023.0,Laboratory
+881,ITPE3,Professional Elective – III,Information Technology,3,3,0,0,2023.0,Professional Elective
+882,ITPE4,Professional Elective – IV,Information Technology,3,3,0,0,2023.0,Professional Elective
+883,IT23731,Cloud and Big data Architecture,Information Technology,4,3,2,0,2023.0,LOT
+884,IT23721,Data Science using R,Information Technology,2,0,4,0,2023.0,Laboratory
+885,IT23722,Project Work (Phase - I),Information Technology,3,0,6,0,2023.0,Laboratory
+886,ITPE5,Professional Elective – V,Information Technology,3,3,0,0,2023.0,Professional Elective
+887,ITPE6,Professional Elective – VI,Information Technology,3,3,0,0,2023.0,Professional Elective
+888,IT23821,Project Work (Phase - II),Information Technology,6,0,12,0,2023.0,Laboratory
+889,HS23111,Technical Communication -I,Mechanical Engineering,2,2,0,0,2023.0,Theory
+890,MA23112,Algebra and Calculus,Mechanical Engineering,4,3,0,1,2023.0,Theory
+891,GE23111,Engineering Graphics,Mechanical Engineering,4,2,4,0,2023.0,Theory
+892,EC23111,Basic Electronics Engineering,Mechanical Engineering,3,3,0,0,2023.0,Theory
+893,GE23117,தமிழர் மரபு /Heritage of Tamils,Mechanical Engineering,1,1,0,0,2023.0,Theory
+894,PH23131,Physics of Materials,Mechanical Engineering,4,3,2,0,2023.0,LOT
+895,GE23121,Engineering Practices – Civil and Mechanical,Mechanical Engineering,1,0,2,0,2023.0,Laboratory
+896,MC23112,Environmental Science and Engineering,Mechanical Engineering,0,3,0,0,2023.0,Theory
+897,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Mechanical Engineering,1,0,2,0,2023.0,Theory
+898,MA23212,Differential Equations and Complex Variables,Mechanical Engineering,4,3,0,1,2023.0,Theory
+899,GE23211,Engineering Mechanics,Mechanical Engineering,3,2,0,1,2023.0,Theory
+900,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Mechanical Engineering,1,1,0,0,2023.0,Theory
+901,CY23223,Engineering Chemistry ,Mechanical Engineering,4,3,2,0,2023.0,LOT
+902,EE23132,Basic Electrical Engineering,Mechanical Engineering,4,3,2,0,2023.0,LOT
+903,GE23233,Problem Solving and Python Programming,Mechanical Engineering,4,2,4,0,2023.0,LOT
+904,GE23122,Engineering Practices – Electrical and Electronics,Mechanical Engineering,1,0,2,0,2023.0,Laboratory
+905,ME23311,Engineering Thermodynamics,Mechanical Engineering,4,3,0,1,2023.0,Theory
+906,ME23312,Manufacturing Technology I,Mechanical Engineering,3,3,0,0,2023.0,Theory
+907,ME23313,Kinematics of Machinery,Mechanical Engineering,3,3,0,0,2023.0,Theory
+908,MA23331,Transforms and Statistics,Mechanical Engineering,4,3,2,0,2023.0,LOT
+909,ME23331,Strength of Materials,Mechanical Engineering,4,3,2,0,2023.0,LOT
+910,ME23321,Manufacturing Technology Laboratory I,Mechanical Engineering,1,0,2,0,2023.0,Laboratory
+911,CS23422,Python Programming for Machine Learning,Mechanical Engineering,2,0,4,0,2023.0,Laboratory
+912,ME23411,Engineering Materials and Metallurgy,Mechanical Engineering,3,3,0,0,2023.0,Theory
+913,ME23412,Manufacturing Technology II,Mechanical Engineering,3,3,0,0,2023.0,Theory
+914,ME23431,Dynamics of Machines,Mechanical Engineering,4,3,3,0,2023.0,LOT
+915,ME23432,Fluid Mechanics and Machinery,Mechanical Engineering,4,3,3,0,2023.0,LOT
+916,ME23433,Thermal Engineering,Mechanical Engineering,4,3,3,0,2023.0,LOT
+917,GE23421,Soft Skills – I,Mechanical Engineering,1,0,2,0,2023.0,Laboratory
+918,ME23421,Computer Aided Machine Drawing Laboratory,Mechanical Engineering,2,0,4,0,2023.0,Laboratory
+919,ME23422,"Manufacturing Technology
+ Laboratory II",Mechanical Engineering,2,0,4,0,2023.0,Laboratory
+920,GE23511,Economics for Engineers,Mechanical Engineering,3,3,0,0,2023.0,Theory
+921,ME23511,Machine Design,Mechanical Engineering,3,3,0,0,2023.0,Theory
+922,MEPE1,Professional Elective – I,Mechanical Engineering,3,3,0,0,2023.0,Professional Elective
+923,OE - 1,Open Elective - I,Mechanical Engineering,3,3,0,0,2023.0,Open Elective
+924,ME23531,Heat and Mass Transfer,Mechanical Engineering,4,3,2,0,2023.0,LOT
+925,ME23532,Metrology and Measurements,Mechanical Engineering,4,3,2,0,2023.0,LOT
+926,GE23521,Soft Skills – II,Mechanical Engineering,1,0,2,0,2023.0,Laboratory
+927,ME23521,Component Modeling Laboratory,Mechanical Engineering,2,0,4,0,2023.0,Laboratory
+928,ME23611,Additive Manufacturing,Mechanical Engineering,3,3,0,0,2023.0,Theory
+929,ME23612,Design of Transmission systems,Mechanical Engineering,3,3,0,0,2023.0,Theory
+930,ME23613,Finite Element Analysis,Mechanical Engineering,3,3,0,0,2023.0,Theory
+931,ME23614,Total Quality Management,Mechanical Engineering,3,3,0,0,2023.0,Theory
+932,MEPE2,Professional Elective – II,Mechanical Engineering,3,3,0,0,2023.0,Professional Elective
+933,OE - 2,Open Elective - II,Mechanical Engineering,3,3,0,0,2023.0,Open Elective
+934,ME23631,Robotics Laboratory,Mechanical Engineering,2,1,2,0,2023.0,Laboratory
+935,GE23621,Problem Solving Techniques,Mechanical Engineering,1,0,2,0,2023.0,Laboratory
+936,ME23622,"Simulation and Analysis
+ Laboratory",Mechanical Engineering,2,0,3,0,2023.0,Laboratory
+937,ME23623,"Innovation and Design thinking for
+ Mechanical Engineer",Mechanical Engineering,2,0,3,0,2023.0,Laboratory
+938,ME23711,"Process Planning and Cost
+ Estimation",Mechanical Engineering,3,3,0,0,2023.0,Theory
+939,MEPE3,Professional Elective – III,Mechanical Engineering,3,3,0,0,2023.0,Professional Elective
+940,MEPE4,Professional Elective – IV,Mechanical Engineering,3,3,0,0,2023.0,Professional Elective
+941,ME23731,"Artificial Intelligence for
+ Mechanical Engineers",Mechanical Engineering,4,2,4,0,2023.0,LOT
+942,ME23732,Mechatronics,Mechanical Engineering,4,3,2,0,2023.0,LOT
+943,ME23721,Comprehension,Mechanical Engineering,1,0,2,0,2023.0,Laboratory
+944,ME23723,Project Work (Phase - I),Mechanical Engineering,1,0,2,0,2023.0,Laboratory
+945,MEPE5,Professional Elective – V,Mechanical Engineering,3,3,0,0,2023.0,Professional Elective
+946,ME23821,Project Work,Mechanical Engineering,9,0,18,0,2023.0,Laboratory
+947,HS23111,Technical Communication -I,Mechatronics Engineering,2,2,0,0,2023.0,Theory
+948,MA23112,Algebra and Calculus,Mechatronics Engineering,4,3,0,1,2023.0,Theory
+949,GE23111,Engineering Graphics,Mechatronics Engineering,4,2,0,2,2023.0,Theory
+950,GE23211,Engineering Mechanics,Mechatronics Engineering,3,2,0,1,2023.0,Theory
+951,GE23117,தமிழர் மரபு /Heritage of Tamils,Mechatronics Engineering,1,1,0,0,2023.0,Theory
+952,EE23132,Basic Electrical Engineering,Mechatronics Engineering,4,3,2,0,2023.0,LOT
+953,GE23121,Engineering Practices – Civil and Mechanical,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+954,GE23122,Engineering Practices – Electrical and Electronics,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+955,MT23121,Computer Aided Drawing Lab,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+956,MC23112,Environmental Science and Engineering,Mechatronics Engineering,0,3,0,0,2023.0,Theory
+957,MA23212,Differential Equation and Analytical Functions,Mechatronics Engineering,4,3,0,1,2023.0,Theory
+958,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Mechatronics Engineering,1,1,0,0,2023.0,Theory
+959,CY23312,Chemistry for Electronics Engineering,Mechatronics Engineering,4,3,2,0,2023.0,LOT
+960,PH23141,Physics of Materials,Mechatronics Engineering,4,3,2,0,2023.0,LOT
+961,GE23131,Programming using C,Mechatronics Engineering,4,1,6,0,2023.0,LOT
+962,MT23131,Elements of Mechatronics,Mechatronics Engineering,3,2,2,0,2023.0,LOT
+963,HS23222/HS23223,Technical Communication II / English for Professional Competence,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+964,MC23111,Indian Constitution and Freedom Movement,Mechatronics Engineering,0,3,0,0,2023.0,Theory
+965,MA23311,Transforms and Applied Partial Differential Equations,Mechatronics Engineering,4,3,0,1,2023.0,Theory
+966,MT23311,Analog Circuits and Drives,Mechatronics Engineering,3,2,2,0,2023.0,LOT
+967,MT23313,Mechanics of Solids,Mechatronics Engineering,4,3,2,0,2023.0,LOT
+968,MT23332,Digital System Design,Mechatronics Engineering,3,2,2,0,2023.0,LOT
+969,MT23431,Manufacturing Technology,Mechatronics Engineering,4,3,2,0,2023.0,LOT
+970,GE23233,Problem Solving and Python Programming,Mechatronics Engineering,4,2,4,0,2023.0,LOT
+971,MA23432,Statistics and Numerical Methods,Mechatronics Engineering,4,3,2,0,2023.0,LOT
+972,MT23312,Fluid mechanics and Thermal Sciences,Mechatronics Engineering,3,3,0,0,2023.0,Theory
+973,OE - 1,Open Elective - I,Mechatronics Engineering,3,3,0,0,2023.0,Open Elective
+974,MT23432,Microcontrollers and Embedded Systems,Mechatronics Engineering,4,3,2,0,2023.0,LOT
+975,MT23433,Sensors and Instrumentation,Mechatronics Engineering,4,3,2,0,2023.0,LOT
+976,MT23434,System Dynamics and Control,Mechatronics Engineering,3,2,2,0,2023.0,LOT
+977,MT23421,Fluid mechanics and Thermal Sciences Laboratory,Mechatronics Engineering,2,0,4,0,2023.0,Laboratory
+978,GE23327,Soft Skills – I,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+979,MT23511,Design of Mechatronics System,Mechatronics Engineering,3,3,0,0,2023.0,Theory
+980,MT23532,Theory of Machines And Mechanisms,Mechatronics Engineering,4,3,0,1,2023.0,Theory
+981,OE - 2,Open Elective - II,Mechatronics Engineering,3,3,0,0,2023.0,Open Elective
+982,MTPE1,Professional Elective – I,Mechatronics Engineering,3,3,0,0,2023.0,Professional Elective
+983,MT23531,Industrial Electronics,Mechatronics Engineering,4,3,2,0,2023.0,LOT
+984,MT23533,Python Programming for Machine Learning,Mechatronics Engineering,3,1,4,0,2023.0,LOT
+985,MT23521,Theory of Machines Laboratory,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+986,MT23521,Industry Internship,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+987,GE23427,Soft Skills – II,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+988,GE23311,Fundamentals of Management for Engineers,Mechatronics Engineering,3,3,0,0,2023.0,Theory
+989,MT23611,Fundamentals of Machine Design,Mechatronics Engineering,3,2,0,1,2023.0,Theory
+990,MTPE2,Professional Elective – II,Mechatronics Engineering,3,3,0,0,2023.0,Professional Elective
+991,MT23631,Industrial Robotics,Mechatronics Engineering,4,2,4,0,2023.0,LOT
+992,MT23632,Applied Hydraulics and Pneumatics,Mechatronics Engineering,4,2,4,0,2023.0,LOT
+993,GE23621,Problem Solving Techniques,Mechatronics Engineering,2,1,2,0,2023.0,Laboratory
+994,MT23621,Design Thinking For Innovation In Mechatronics Engineering,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+995,MTPE3,Professional Elective – III,Mechatronics Engineering,3,3,0,0,2023.0,Professional Elective
+996,MTPE4,Professional Elective – IV,Mechatronics Engineering,3,3,0,0,2023.0,Professional Elective
+997,MT23731,Industrial Automation,Mechatronics Engineering,4,2,4,0,2023.0,LOT
+998,MT23732,Machine Vision,Mechatronics Engineering,4,2,4,0,2023.0,LOT
+999,MT23721,Computer Aided Engineering Laboratory,Mechatronics Engineering,1,0,2,0,2023.0,Laboratory
+1000,MT23721,"Mechatronics Engineering Problem Solving using AI, ML and DL",Mechatronics Engineering,2,0,4,0,2023.0,Laboratory
+1001,MT23722,Project Work (Phase - I),Mechatronics Engineering,2,0,4,0,2023.0,Laboratory
+1002,MTPE5,Professional Elective – V,Mechatronics Engineering,3,3,0,0,2023.0,Professional Elective
+1003,MTPE6,Professional Elective – VI,Mechatronics Engineering,3,3,0,0,2023.0,Professional Elective
+1004,MT23821,Project Work (Phase - II),Mechatronics Engineering,8,0,16,0,2023.0,Laboratory
+1005,HS23111,Technical Communication -I,Robotics and Automation,2,2,0,0,2023.0,Theory
+1006,MA23112,Algebra and Calculus,Robotics and Automation,4,3,0,1,2023.0,Theory
+1007,GE23111,Engineering Graphics,Robotics and Automation,4,2,0,2,2023.0,Theory
+1008,RO23111,Introduction To Mechanical Systems,Robotics and Automation,3,2,0,1,2023.0,Theory
+1009,EE23132,Basic Electrical Engineering,Robotics and Automation,4,3,2,0,2023.0,LOT
+1010,GE23121,Engineering Practices – Civil and Mechanical,Robotics and Automation,1,0,2,0,2023.0,Laboratory
+1011,GE23122,Engineering Practices – Electrical and Electronics,Robotics and Automation,1,0,2,0,2023.0,Laboratory
+1012,MC23112,Environmental Science and Engineering,Robotics and Automation,0,3,0,0,2023.0,Theory
+1013,GE23117,தமிழர் மரபு /Heritage of Tamils,Robotics and Automation,1,1,0,0,2023.0,Theory
+1014,MA23212,Differential Equations and Complex Variables,Robotics and Automation,4,3,0,1,2023.0,Theory
+1015,CY23131,Chemistry For Electronics Engineering,Robotics and Automation,4,3,2,0,2023.0,LOT
+1016,PH23131,Physics of Materials,Robotics and Automation,4,3,2,0,2023.0,LOT
+1017,GE23233,Problem Solving and Python Programming,Robotics and Automation,4,2,4,0,2023.0,LOT
+1018,HS23221/HS23222,Technical Communication II/ English for Professional Competence,Robotics and Automation,1,0,2,0,2023.0,Laboratory
+1019,RO23221,Computer Aided Modeling Laboratory,Robotics and Automation,2,0,4,0,2023.0,Laboratory
+1020,GE23217,தமிழரும் தொழில்நுட்பமும் / Tamils and Technology,Robotics and Automation,1,1,0,0,2023.0,Theory
+1021,MC23111,Indian Constitution and Freedom Movement,Robotics and Automation,0,3,0,0,2023.0,Theory
+1022,MA23311,Transforms and Applied Partial Differential Equations,Robotics and Automation,4,3,0,1,2023.0,Theory
+1023,RO23311,Analog and Digital Electronics,Robotics and Automation,3,3,0,0,2023.0,Theory
+1024,RO23312,Theory of Mechanisms and Machines-I,Robotics and Automation,4,3,0,1,2023.0,Theory
+1025,RO23313,Sensors in Automation,Robotics and Automation,3,3,0,0,2023.0,Theory
+1026,RO23331,Elements of Manufacturing Process,Robotics and Automation,3,2,2,0,2023.0,LOT
+1027,RO23332,Mechanics of Materials,Robotics and Automation,4,3,2,0,2023.0,LOT
+1028,CS23422,Python Programming for Machine Learning,Robotics and Automation,2,0,4,0,2023.0,Laboratory
+1029,RO23411,Fluid Power Systems,Robotics and Automation,3,3,0,0,2023.0,Theory
+1030,RO23412,Industrial Automation and Control,Robotics and Automation,4,3,0,1,2023.0,Theory
+1031,RO23413,Microcontrollers and Real Time Embedded Systems,Robotics and Automation,3,3,0,0,2023.0,Theory
+1032,RO23414,Robot Kinematics and Dynamics,Robotics and Automation,4,3,0,1,2023.0,Theory
+1033,MA23432,Statistics and Numerical Methods,Robotics and Automation,4,3,2,0,2023.0,LOT
+1034,RO23421,Mechanisms and  Robotics laboratory,Robotics and Automation,2,0,4,0,2023.0,Laboratory
+1035,RO23422,"Industrial Automation 
+ Laboratory-I",Robotics and Automation,2,0,4,0,2023.0,Laboratory
+1036,GE23427,Soft Skills – II,Robotics and Automation,1,0,2,0,2023.0,Laboratory
+1037,RO23511,AI for Robotics,Robotics and Automation,3,3,0,0,2023.0,Theory
+1038,RO23512,Theory of Mechanisms and Machines-II,Robotics and Automation,4,3,0,1,2023.0,Theory
+1039,ME23511,Machine Design,Robotics and Automation,3,3,0,0,2023.0,Theory
+1040,OE - 1,Open Elective - I,Robotics and Automation,3,3,0,0,2023.0,Open Elective
+1041,ROPE1,Professional Elective – I,Robotics and Automation,3,3,0,0,2023.0,Professional Elective
+1042,RO23521,Mobile Robotics laboratory,Robotics and Automation,2,0,4,0,2023.0,Laboratory
+1043,RO23522,"Industrial Automation 
+ Laboratory-II",Robotics and Automation,2,0,4,0,2023.0,Laboratory
+1044,RO23523,Internship,Robotics and Automation,1,0,2,0,2023.0,Laboratory
+1045,GE23521,Soft Skills – II,Robotics and Automation,1,0,2,0,2023.0,Laboratory
+1046,ME23612,Design of Transmission systems,Robotics and Automation,3,3,0,0,2023.0,Theory
+1047,RO23611,Resource Management Techniques,Robotics and Automation,4,3,0,1,2023.0,Theory
+1048,ROPE2,Professional Elective – II,Robotics and Automation,3,3,0,0,2023.0,Professional Elective
+1049,ROPE3,Professional Elective – III,Robotics and Automation,3,3,0,0,2023.0,Professional Elective
+1050,RO23631,Robotic operating System,Robotics and Automation,3,2,2,0,2023.0,LOT
+1051,RO23632,Robotic Vision and Intelligence,Robotics and Automation,4,3,2,0,2023.0,LOT
+1052,RO23621,"Innovation and Design
+ thinking for Robotics and
+ Automation",Robotics and Automation,2,0,2,1,2023.0,LOT
+1053,GE23627,Problem Solving Techniques,Robotics and Automation,1,0,2,0,2023.0,Laboratory
+1054,RO23711,Aerial Robotics,Robotics and Automation,3,3,0,0,2023.0,Theory
+1055,RO23712,Humanoid Robotics,Robotics and Automation,3,3,0,0,2023.0,Theory
+1056,ROPE4,Professional Elective – IV,Robotics and Automation,3,3,0,0,2023.0,Professional Elective
+1057,OE - 2,Open Elective - II,Robotics and Automation,3,3,0,0,2023.0,Open Elective
+1058,RO23731,"Robot Path Planning and 
+ Programming",Robotics and Automation,4,3,2,0,2023.0,LOT
+1059,RO23721,"Robotics and Automation Problem Solving using AI, ML and DL",Robotics and Automation,2,0,4,0,2023.0,Laboratory
+1060,RO23722,Project Work (Phase - I),Robotics and Automation,2,0,4,0,2023.0,Laboratory
+1061,ROPE5,Professional Elective – V,Robotics and Automation,3,3,0,0,2023.0,Professional Elective
+1062,ROPE6,Professional Elective – VI,Robotics and Automation,3,3,0,0,2023.0,Professional Elective
+1063,RO23821,Project Work (Phase - II),Robotics and Automation,8,0,16,0,2023.0,Laboratory

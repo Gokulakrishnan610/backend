@@ -1,0 +1,572 @@
+staff_code,teacher_role,specialization,working_hours,department_name,email,availability_type,teacher_working_hours,is_industry_professional
+AE05,Dean,,,Aeronautical Engineering,muthusamy.n@rajalakshmi.edu.in,regular,21,False
+AE23,HOD,,,Aeronautical Engineering,sureshchandrakhandai@rajalakshmi.edu.in,regular,21,False
+AE49,Associate Professor,,,Aeronautical Engineering,surendrabogadi@rajalakshmi.edu.in,regular,21,False
+AE60,Assistant Professor,,,Aeronautical Engineering,balaji.rajendran@rajalakshmi.edu.in,regular,21,False
+AE67,Assistant Professor,,,Aeronautical Engineering,shebazahamed.jp@rajalakshmi.edu.in,regular,21,False
+AE72,Assistant Professor,,,Aeronautical Engineering,vasthaduvasukannah.dl@rajalakshmi.edu.in,regular,21,False
+AE73,Assistant Professor,,,Aeronautical Engineering,premanand.tp@rajalakshmi.edu.in,regular,21,False
+AE75,Associate Professor,,,Aeronautical Engineering,nithiyanantham.kk@rajalakshmi.edu.in,regular,21,False
+AE76,Assistant Professor,,,Aeronautical Engineering,pradesh.s@rajalakshmi.edu.in,regular,21,False
+AE78,Professor,,,Aeronautical Engineering,kathiravan.b@rajalakshmi.edu.in,regular,21,False
+AE79,Assistant Professor,,,Aeronautical Engineering,harish.s.aero@rajalakshmi.edu.in,regular,21,False
+AE80,Assistant Professor,,,Aeronautical Engineering, harikrishnan.r@rajalakshmi.edu.in,regular,21,False
+AE81,POP,,,Aeronautical Engineering,nithiyaraj.m@rajalakshmi.edu.in,regular,21,False
+CS49,Professor,,,Artificial Intelligence & Data Science,sureshkumar.s@rajalakshmi.edu.in,regular,21,False
+CS66,Associate Professor,,,Artificial Intelligence & Data Science,sornashanthi.d@rajalakshmi.edu.in,regular,21,False
+IT213,Professor,,,Artificial Intelligence & Data Science,indirapriya.p@rajalakshmi.edu.in,regular,21,False
+IT216,Assistant Professor,,,Artificial Intelligence & Data Science,renukadevi.s@rajalakshmi.edu.in,regular,21,False
+IT217,Assistant Professor,,,Artificial Intelligence & Data Science,thiyagarajan.g@rajalakshmi.edu.in,regular,21,False
+IT224,Assistant Professor,,,Artificial Intelligence & Data Science,jayasriarchanadevi.p@rajalakshmi.edu.in,regular,21,False
+IT228,Assistant Professor,,,Artificial Intelligence & Data Science,nirmalaanandhi.y@rajalakshmi.edu.in,regular,21,False
+IT234,Associate Professor,,,Artificial Intelligence & Data Science,manoranjini.j@rajalakshmi.edu.in,regular,21,False
+IT237,Professor,,,Artificial Intelligence & Data Science,saravanakumar.v@rajalakshmi.edu.in,regular,21,False
+IT239,HOD,,,Artificial Intelligence & Data Science,gnanasekar.jm@rajalakshmi.edu.in,regular,21,False
+IT243,POP,,,Artificial Intelligence & Data Science,preejith.p@rajalakshmi.edu.in,regular,21,False
+IT245,Assistant Professor,,,Artificial Intelligence & Data Science,selvarani.k@rajalakshmi.edu.in,regular,21,False
+IT253,Assistant Professor,,,Artificial Intelligence & Data Science,ponnila.p@rajalakshmi.edu.in,regular,21,False
+IT254,POP,,,Artificial Intelligence & Data Science,srinivasan.thiagarajan@rajalakshmi.edu.in,regular,21,False
+IT255,Assistant Professor,,,Artificial Intelligence & Data Science,mariyamonicacelestina.a@rajalakshmi.edu.in,regular,21,False
+IT256,Professor,,,Artificial Intelligence & Data Science,sampathkumar.v@rajalakshmi.edu.in,regular,21,False
+IT257,Associate Professor,,,Artificial Intelligence & Data Science,beulah.a@rajalakshmi.edu.in,regular,21,False
+IT265,Assistant Professor,,,Artificial Intelligence & Data Science,aswinjabamahir@rajalakshmi.edu.in,regular,21,False
+CS09,Professor,,,Artificial Intelligence & Machine Learning,poonkuzhali.s@rajalakshmi.edu.in,regular,21,False
+CS175,Assistant Professor,,,Artificial Intelligence & Machine Learning,vijay.k@rajalakshmi.edu.in,regular,21,False
+IT178,Assistant Professor,,,Artificial Intelligence & Machine Learning,sowmia.kr@rajalakshmi.edu.in,regular,21,False
+IT195,Assistant Professor,,,Artificial Intelligence & Machine Learning,sangeetha.k@rajalakshmi.edu.in,regular,21,False
+CS266,Assistant Professor,,,Artificial Intelligence & Machine Learning,saranya.s@rajalakshmi.edu.in,regular,21,False
+IT209,Assistant Professor,,,Artificial Intelligence & Machine Learning,aloysieanisha.t@rajalakshmi.edu.in,regular,21,False
+IT211,Assistant Professor,,,Artificial Intelligence & Machine Learning,devendarrao.b@rajalakshmi.edu.in,regular,21,False
+IT212,Assistant Professor,,,Artificial Intelligence & Machine Learning,akshaya.v@rajalakshmi.edu.in,regular,21,False
+IT214,Assistant Professor,,,Artificial Intelligence & Machine Learning,manju.m@rajalakshmi.edu.in,regular,21,False
+IT215,Assistant Professor,,,Artificial Intelligence & Machine Learning,anitha.r@rajalakshmi.edu.in,regular,21,False
+CS295,HOD,,,Artificial Intelligence & Machine Learning,sekar.k@rajalakshmi.edu.in,regular,21,False
+IT225,Assistant Professor,,,Artificial Intelligence & Machine Learning,divya.s@rajalakshmi.edu.in,regular,21,False
+IT226,Associate Professor,,,Artificial Intelligence & Machine Learning,ramasubramanian.g@rajalakshmi.edu.in,regular,21,False
+IT227,Assistant Professor,,,Artificial Intelligence & Machine Learning,sreesubha.s@rajalakshmi.edu.in,regular,21,False
+IT232,Assistant Professor,,,Artificial Intelligence & Machine Learning,kumaran.u@rajalakshmi.edu.in,regular,21,False
+IT236,Professor,,,Artificial Intelligence & Machine Learning,balamurugan.mn@rajalakshmi.edu.in,regular,21,False
+IT242,Assistant Professor,,,Artificial Intelligence & Machine Learning,priya.m@rajalakshmi.edu.in,regular,21,False
+IT244,Associate Professor,,,Artificial Intelligence & Machine Learning, magesh.mp@rajalakshmi.edu.in,regular,21,False
+CS330,Professor,,,Artificial Intelligence & Machine Learning, gayathri.m@rajalakshmi.edu.in,regular,21,False
+IT246,Professor,,,Artificial Intelligence & Machine Learning,rajasekaran.a@rajalakshmi.edu.in,regular,21,False
+IT248,Professor,,,Artificial Intelligence & Machine Learning, karthikeyan.r3@rajalakshmi.edu.in,regular,21,False
+IT250,Associate Professor,,,Artificial Intelligence & Machine Learning,raju.k@rajalakshmi.edu.in,regular,21,False
+IT252,Assistant Professor,,,Artificial Intelligence & Machine Learning,jasminegabriel.j@rajalakshmi.edu.in,regular,21,False
+IT261,Assistant Professor,,,Artificial Intelligence & Machine Learning,soundarya.m@rajalakshmi.edu.in,regular,21,False
+IT262,Professor,,,Artificial Intelligence & Machine Learning,malathy.em@rajalakshmi.edu.in,regular,21,False
+IT264,Assistant Professor,,,Artificial Intelligence & Machine Learning,raja.r@rajalakshmi.edu.in,regular,21,False
+IT287,POP,,,Artificial Intelligence & Machine Learning,srinivasan.t@rajalakshmi.edu.in,regular,21,False
+AU11,Assistant Professor,,,Automobile Engineering,anbalagan.r@rajalakshmi.edu.in,regular,21,False
+AU20,Assistant Professor,,,Automobile Engineering,mohanraj.k@rajalakshmi.edu.in,regular,21,False
+AU35,Professor,,,Automobile Engineering,pavan.p@rajalakshmi.edu.in,regular,21,False
+AU37,HOD,,,Automobile Engineering,bhaskar.k@rajalakshmi.edu.in;hod.auto@rajalakshmi.edu.in,regular,21,False
+AU46,Assistant Professor,,,Automobile Engineering,zahirhussain.m@rajalakshmi.edu.in,regular,21,False
+AU49,Assistant Professor,,,Automobile Engineering,edwinjoseph.r@rajalakshmi.edu.in,regular,21,False
+ME232,Associate Professor,,,Automobile Engineering,mullaisudaroli.b@rajalakshmi.edu.in,regular,21,False
+AU50,Associate Professor,,,Automobile Engineering,selvaraju.pn@rajalakshmi.edu.in,regular,21,False
+AU51,Assistant Professor,,,Automobile Engineering,karthikeyan.r2@rajalakshmi.edu.in,regular,21,False
+BM23,Professor,,,Biomedical Engineering,premkumar.r@rajalakshmi.edu.in,regular,21,False
+BM22,Associate Professor,,,Biomedical Engineering,sudha.singaram@rajalakshmi.edu.in,regular,21,False
+BM26,Assistant Professor,,,Biomedical Engineering,muralidharan.c@rajalakshmi.edu.in,regular,21,False
+BM28,Dean,,,Biomedical Engineering,kalpana.r@rajalakshmi.edu.in,regular,21,False
+BM35,Associate Professor,,,Biomedical Engineering,padmasini.n@rajalakshmi.edu.in,regular,21,False
+BM59,Professor,,,Biomedical Engineering,jobinchrist.mc@rajalakshmi.edu.in,regular,21,False
+BM60,Assistant Professor,,,Biomedical Engineering,karuppathal.e@rajalakshmi.edu.in,regular,21,False
+BM61,HOD,,,Biomedical Engineering,rajkumar.s@rajalakshmi.edu.in,regular,21,False
+BM65,Professor,,,Biomedical Engineering,sapthagirishsrinivas.c.2014.mech@rajalakshmi.edu.in,regular,21,False
+BM66,Assistant Professor,,,Biomedical Engineering,krishnakumar.s@rajalakshmi.edu.in,regular,21,False
+BM71,Assistant Professor,,,Biomedical Engineering,sankar.k@rajalakshmi.edu.in,regular,21,False
+BM70,Assistant Professor,,,Biomedical Engineering,subathra.y@rajalakshmi.edu.in,regular,21,False
+BM72,Assistant Professor,,,Biomedical Engineering,prathisha.m@rajalakshmi.edu.in,regular,21,False
+BM73,Assistant Professor,,,Biomedical Engineering,abiramy.s@rajalakshmi.edu.in,regular,21,False
+BM74,Assistant Professor,,,Biomedical Engineering,rubeshkumar.t@rajalakshmi.edu.in,regular,21,False
+BM78,Associate Professor,,,Biomedical Engineering,Ramachandran R <ramachandran.r@rajalakshmi.edu.in>,regular,21,False
+BM79,Assistant Professor,,,Biomedical Engineering,senthilkumar.p@rajalakshmi.edu.in,regular,21,False
+BM80,Assistant Professor,,,Biomedical Engineering, jeminaasnothsylvia.j@rajalakshmi.edu.in,regular,21,False
+BM81,Assistant Professor,,,Biomedical Engineering,gloryprecious.j@rajalakshmi.edu.in,regular,21,False
+BM82,Assistant Professor,,,Biomedical Engineering,nithyakalyanikrishnan@rajalakshmi.edu.in,regular,21,False
+BM83,Assistant Professor,,,Biomedical Engineering,revathy.p.bme@rajalakshmi.edu.in,regular,21,False
+BM84,Associate Professor,,,Biomedical Engineering,vigneswaran.narayanamurthy@rajalakshmi.edu.in,regular,21,False
+BM86,Assistant Professor,,,Biomedical Engineering,shanthipriya.a@rajalakshmi.edu.in,regular,21,False
+BT01,Dean,,,Biotechnology,johannarajkumar@rajalakshmi.edu.in,regular,21,False
+BT30,Associate Professor,,,Biotechnology,sridhar.d@rajalakshmi.edu.in,regular,21,False
+BT33,HOD,,,Biotechnology,sankar.m@rajalakshmi.edu.in,regular,21,False
+BT119,Associate Professor,,,Biotechnology,selvakumar.ta@rajalakshmi.edu.in,regular,21,False
+BT103,Associate Professor,,,Biotechnology,rajasekar.p@rajalakshmi.edu.in,regular,21,False
+BT107,Associate Professor,,,Biotechnology,millicentmable.m@rajalakshmi.edu.in,regular,21,False
+BT85,Associate Professor,,,Biotechnology,anila.r@rajalakshmi.edu.in,regular,21,False
+BT109,Professor,,,Biotechnology,thiruvengadam.s@rajalakshmi.edu.in,regular,21,False
+BT114,Associate Professor,,,Biotechnology,vijayageetha.b@rajalakshmi.edu.in,regular,21,False
+BT118,Assistant Professor,,,Biotechnology,sujataroy@rajalakshmi.edu.in,regular,21,False
+BT122,Associate Professor,,,Biotechnology,anitha.t@rajalakshmi.edu.in,regular,21,False
+BT123,Associate Professor,,,Biotechnology,haripriya.d@rajalakshmi.edu.in,regular,21,False
+BT124,Professor,,,Biotechnology,sathya.k@rajalakshmi.edu.in,regular,21,False
+BT125,Assistant Professor,,,Biotechnology,arunkumar.s@rajalakshmi.edu.in,regular,21,False
+BT131,Associate Professor,,,Biotechnology,hemavathy.rv@rajalakshmi.edu.in,regular,21,False
+BT153,Associate Professor,,,Biotechnology,saravanan.p@rajalakshmi.edu.in,regular,21,False
+BT156,Assistant Professor,,,Biotechnology,carlingeormalar.g@rajalakshmi.edu.in,regular,21,False
+BT158,Assistant Professor,,,Biotechnology,shreenidhi.ks@rajalakshmi.edu.in,regular,21,False
+BT165,Assistant Professor,,,Biotechnology,kavitha.k@rajalakshmi.edu.in,regular,21,False
+BT166,Assistant Professor,,,Biotechnology,preethi.b@rajalakshmi.edu.in,regular,21,False
+BT168,Assistant Professor,,,Biotechnology,arun.a@rajalakshmi.edu.in,regular,21,False
+BT169,Assistant Professor,,,Biotechnology,premalatha.n@rajalakshmi.edu.in,regular,21,False
+BT170,Assistant Professor,,,Biotechnology,divyalakshmi.s@rajalakshmi.edu.in,regular,21,False
+BT171,Assistant Professor,,,Biotechnology,sangeethagandhi.s@rajalakshmi.edu.in,regular,21,False
+BT172,Assistant Professor,,,Biotechnology,pavithra.ks@rajalakshmi.edu.in,regular,21,False
+BT173,Assistant Professor,,,Biotechnology,saranya.sr@rajalakshmi.edu.in,regular,21,False
+BT176,Assistant Professor,,,Biotechnology,poorani.tr@rajalakshmi.edu.in,regular,21,False
+BT177,Assistant Professor,,,Biotechnology,rekha.ravendran@rajalakshmi.edu.in,regular,21,False
+BT178,Assistant Professor,,,Biotechnology,surya.s@rajalakshmi.edu.in,regular,21,False
+BT179,Assistant Professor,,,Biotechnology,vimaladevi.m@rajalakshmi.edu.in,regular,21,False
+BT180,Assistant Professor,,,Biotechnology,sinduja.me@rajalakshmi.edu.in,regular,21,False
+BT181,Assistant Professor,,,Biotechnology,preethy.kr@rajalakshmi.edu.in,regular,21,False
+BT182,Assistant Professor,,,Biotechnology,shanthi.m@rajalakshmi.edu.in,regular,21,False
+BT115,HOD,,,Chemical Engineering,sundararaman.tr@rajalakshmi.edu.in,regular,21,False
+CL02,Associate Professor,,,Chemical Engineering,vijayaraghavan.g@rajalakshmi.edu.in,regular,21,False
+CL03,Assistant Professor,,,Chemical Engineering,ambigadevi.j@rajalakshmi.edu.in,regular,21,False
+CL05,Associate Professor,,,Chemical Engineering,maryrosana.nt@rajalakshmi.edu.in,regular,21,False
+CL10,Assistant Professor,,,Chemical Engineering,Anithajegadeeshwari.l@rajalakshmi.edu.in,regular,21,False
+CL11,Assistant Professor,,,Chemical Engineering,kalaiarasi.n@rajalakshmi.edu.in,regular,21,False
+CL12,Assistant Professor,,,Chemical Engineering,narasimhareddy.s@rajalakshmi.edu.in,regular,21,False
+CL14,Professor,,,Chemical Engineering,vincentjoseph.kl@rajalakshmi.edu.in,regular,21,False
+CL15,Associate Professor,,,Chemical Engineering,sivamani.s@rajalakshmi.edu.in,regular,21,False
+CL16,Assistant Professor,,,Chemical Engineering,abhilasha.krishnamurthy@rajalakshmi.edu.in,regular,21,False
+CL17,Professor,,,Chemical Engineering,rameschandrapanda@rajalakshmi.edu.in,regular,21,False
+CL18,Assistant Professor,,,Chemical Engineering,mangaleswari.s@rajalakshmi.edu.in,regular,21,False
+CH02,Professor,,,Chemistry,vasumathi.v@rajalakshmi.edu.in,regular,21,False
+CH18,Professor,,,Chemistry,ramadevi.p@rajalakshmi.edu.in,regular,21,False
+CH22,Associate Professor,,,Chemistry,mohandoss.s@rajalakshmi.edu.in,regular,21,False
+CH37,Assistant Professor,,,Chemistry,seethalakshmi.k@rajalakshmi.edu.in,regular,21,False
+CH41,Assistant Professor,,,Chemistry,anu.s@rajalakshmi.edu.in,regular,21,False
+CH44,Assistant Professor,,,Chemistry,sureshbabu.k@rajalakshmi.edu.in,regular,21,False
+CH49,Assistant Professor,,,Chemistry,inbaraj.v@rajalakshmi.edu.in,regular,21,False
+CH48,Assistant Professor,,,Chemistry,jasminefrancis.s@rajalakshmi.edu.in,regular,21,False
+CH50,Assistant Professor,,,Chemistry,mohan.s@rajalakshmi.edu.in,regular,21,False
+CH51,Professor,,,Chemistry,jayakumar.s@rajalakshmi.edu.in,regular,21,False
+CH52,Assistant Professor,,,Chemistry,geetha.j@rajalakshmi.edu.in,regular,21,False
+CH53,Assistant Professor,,,Chemistry,udayakumari.d@rajalakshmi.edu.in,regular,21,False
+CH58,Assistant Professor,,,Chemistry,saraswathi.k@rajalakshmi.edu.in,regular,21,False
+CH59,Assistant Professor,,,Chemistry,arikrishnan.j@rajalakshmi.edu.in,regular,21,False
+CH60,Associate Professor,,,Chemistry,manigandan.r@rajalakshmi.edu.in,regular,21,False
+CH61,Assistant Professor,,,Chemistry,edwardjeyakumar.j@rajalakshmi.edu.in,regular,21,False
+CV19,Assistant Professor,,,Civil Engineering,mahamoodulhasan.n@rajalakshmi.edu.in,regular,21,False
+CV27,Dean,,,Civil Engineering,selvakumar.m@rajalakshmi.edu.in;,regular,21,False
+CV29,Assistant Professor,,,Civil Engineering,muthulakshmi.s@rajalakshmi.edu.in,regular,21,False
+CV30,HOD,,,Civil Engineering,geetha.s@rajalakshmi.edu.in,regular,21,False
+CV35,Assistant Professor,,,Civil Engineering,gouthampriya.m@rajalakshmi.edu.in,regular,21,False
+CV39,Assistant Professor,,,Civil Engineering,jeyaarthi.aj@rajalakshmi.edu.in,regular,21,False
+CV61,Assistant Professor,,,Civil Engineering,premkumar.s@rajalakshmi.edu.in,regular,21,False
+CV67,Assistant Professor,,,Civil Engineering,ammaiappan.m@rajalakshmi.edu.in,regular,21,False
+CV65,Assistant Professor,,,Civil Engineering,manoharan.m@rajalakshmi.edu.in,regular,21,False
+CV70,Assistant Professor,,,Civil Engineering,yugasini.s@rajalakshmi.edu.in,regular,21,False
+CV72,Assistant Professor,,,Civil Engineering,madhavaperumal.r@rajalakshmi.edu.in,regular,21,False
+CV81,Professor,,,Civil Engineering,umamaguesvari.m@rajalakshmi.edu.in,regular,21,False
+CV083,Assistant Professor,,,Civil Engineering,eswarydevi.t@rajalakshmi.edu.in,regular,21,False
+IT172,Assistant Professor,,,Computer Science & Business Systems,nisha.rs@rajalakshmi.edu.in,regular,21,False
+IT116,Assistant Professor,,,Computer Science & Business Systems,poornimathi.k@rajalakshmi.edu.in,regular,21,False
+CS195,HOD,,,Computer Science & Business Systems,devaki.k@rajalakshmi.edu.in,regular,21,False
+CS250,Assistant Professor,,,Computer Science & Business Systems,bakiyalakshmis@rajalakshmi.edu.in,regular,21,False
+CS263,Assistant Professor,,,Computer Science & Business Systems,maharasi.m@rajalakshmi.edu.in,regular,21,False
+CS270,Professor,,,Computer Science & Business Systems,tamilselvi.p@rajalakshmi.edu.in,regular,21,False
+IT208,Assistant Professor,,,Computer Science & Business Systems,gopinath.k@rajalakshmi.edu.in,regular,21,False
+CS278,Professor,,,Computer Science & Business Systems,shanmugapriya.prakasam@rajalakshmi.edu.in,regular,21,False
+CS287,Associate Professor,,,Computer Science & Business Systems,vishnukumar.a@rajalakshmi.edu.in,regular,21,False
+CS299,Assistant Professor,,,Computer Science & Business Systems,jayanthi.m@rajalakshmi.edu.in,regular,21,False
+CS300,Assistant Professor,,,Computer Science & Business Systems,praveen.ds@rajalakshmi.edu.in,regular,21,False
+CS316,Professor,,,Computer Science & Business Systems,manikandan.thirumalaisamy@rajalakshmi.edu.in,regular,21,False
+CS323,Professor,,,Computer Science & Business Systems,janani.u@rajalakshmi.edu.in,regular,21,False
+CS327,Assistant Professor,,,Computer Science & Business Systems,rajammal.k@rajalakshmi.edu.in,regular,21,False
+CS11,Professor,,,Computer Science & Design,revathy.p@rajalakshmi.edu.in,regular,21,False
+CS176,Assistant Professor,,,Computer Science & Design,vijayakumar.r@rajalakshmi.edu.in,regular,21,False
+CS289,HOD,,,Computer Science & Design,umamaheswararao.s@rajalakshmi.edu.in,regular,21,False
+CS290,Assistant Professor,,,Computer Science & Design,preethi.e@rajalakshmi.edu.in,regular,21,False
+CS296,Assistant Professor,,,Computer Science & Design,kalpana.d@rajalakshmi.edu.in,regular,21,False
+CS306,Assistant Professor,,,Computer Science & Design,thirumalairajan.g@rajalakshmi.edu.in,regular,21,False
+CS307,Assistant Professor,,,Computer Science & Design,gunasekar.s@rajalakshmi.edu.in,regular,21,False
+CS331,Assistant Professor,,,Computer Science & Design,pradeepkumar.s@rajalakshmi.edu.in,regular,21,False
+IT03,HOD,,,Computer Science & Engineering,kumar@rajalakshmi.edu.in,regular,21,False
+CSL21,Admin,,,Computer Science & Engineering,systemadmin@rajalakshmi.edu.in,regular,21,False
+CS69,Professor,,,Computer Science & Engineering,vinodkumar.s@rajalakshmi.edu.in,regular,21,False
+CS77,Assistant Professor,,,Computer Science & Engineering,bhuvaneswaran@rajalakshmi.edu.in,regular,21,False
+CS171,Assistant Professor,,,Computer Science & Engineering,ponmani.s@rajalakshmi.edu.in,regular,21,False
+CS178,Assistant Professor,,,Computer Science & Engineering,akiladevi.r@rajalakshmi.edu.in,regular,21,False
+CS182,Assistant Professor,,,Computer Science & Engineering,jananee.v@rajalakshmi.edu.in,regular,21,False
+CS208,Associate Professor,,,Computer Science & Engineering,duraimurugan.n@rajalakshmi.edu.in,regular,21,False
+CS203,Assistant Professor,,,Computer Science & Engineering,jaeyalakshmi.m@rajalakshmi.edu.in,regular,21,False
+CS218,Dean,,,Computer Science & Engineering,muralibhaskaran.v@rajalakshmi.edu.in,regular,21,False
+CS221,Assistant Professor,,,Computer Science & Engineering,jinusophia.j@rajalakshmi.edu.in,regular,21,False
+CS224,Assistant Professor,,,Computer Science & Engineering,bhavani.m@rajalakshmi.edu.in,regular,21,False
+CS226,Assistant Professor,,,Computer Science & Engineering,santhiya.m@rajalakshmi.edu.in,regular,21,False
+CS237,Professor,,,Computer Science & Engineering,ananthasivaprakasam.s@rajalakshmi.edu.in,regular,21,False
+CS239,Professor,,,Computer Science & Engineering,srinivasan.n@rajalakshmi.edu.in,regular,21,False
+CS247,Assistant Professor,,,Computer Science & Engineering,preethi.j@rajalakshmi.edu.in,regular,21,False
+IT191,Associate Professor,,,Computer Science & Engineering,dharanidevi.g@rajalakshmi.edu.in,regular,21,False
+IT194,Assistant Professor,,,Computer Science & Engineering,farjana.u@rajalakshmi.edu.in,regular,21,False
+CS251,Associate Professor,,,Computer Science & Engineering,shanmugam.p@rajalakshmi.edu.in,regular,21,False
+CS253,Professor,,,Computer Science & Engineering,anand.k@rajalakshmi.edu.in,regular,21,False
+CS255,Professor,,,Computer Science & Engineering,ananthajothi.k@rajalakshmi.edu.in,regular,21,False
+CS256,Professor,,,Computer Science & Engineering,sabitha.r@rajalakshmi.edu.in,regular,21,False
+CS258,Associate Professor,,,Computer Science & Engineering,senthilpandi.s@rajalakshmi.edu.in,regular,21,False
+CS262,Assistant Professor,,,Computer Science & Engineering,kumaragurubaran.t@rajalakshmi.edu.in,regular,21,False
+CS265,Assistant Professor,,,Computer Science & Engineering,saravanagokul.g@rajalakshmi.edu.in,regular,21,False
+CS268,Assistant Professor,,,Computer Science & Engineering,Rahulchiranjeevi.v@rajalakshmi.edu.in,regular,21,False
+CS269,Assistant Professor,,,Computer Science & Engineering,anandhi.s@rajalakshmi.edu.in,regular,21,False
+CS272,Assistant Professor,,,Computer Science & Engineering,vinothini.s@rajalakshmi.edu.in,regular,21,False
+CS273,Assistant Professor,,,Computer Science & Engineering,deepakkumar.k@rajalakshmi.edu.in,regular,21,False
+CS274,Assistant Professor,,,Computer Science & Engineering,sasikala.gm@rajalakshmi.edu.in,regular,21,False
+IT210,Assistant Professor,,,Computer Science & Engineering,adlinlayola.ja@rajalakshmi.edu.in,regular,21,False
+CS279,Assistant Professor,,,Computer Science & Engineering,rakeshkumar.m@rajalakshmi.edu.in,regular,21,False
+CS281,Associate Professor,,,Computer Science & Engineering,karthick.v@rajalakshmi.edu.in,regular,21,False
+CS282,Assistant Professor,,,Computer Science & Engineering,ariyamala.v@rajalakshmi.edu.in,regular,21,False
+CS284,Professor,,,Computer Science & Engineering,muneeshwari.p@rajalakshmi.edu.in,regular,21,False
+IT218,Assistant Professor,,,Computer Science & Engineering,shafiyabanu.m@rajalakshmi.edu.in,regular,21,False
+CS291,Assistant Professor,,,Computer Science & Engineering,mahesmeena@rajalakshmi.edu.in,regular,21,False
+CS297,Assistant Professor,,,Computer Science & Engineering,muthupandeeswari.r@rajalakshmi.edu.in,regular,21,False
+CS298,Assistant Professor,,,Computer Science & Engineering,divya.m@rajalakshmi.edu.in,regular,21,False
+CS301,POP,,,Computer Science & Engineering,srinivas.vadlamani@rajalakshmi.edu.in,regular,21,False
+CS302,Assistant Professor,,,Computer Science & Engineering,auxiliaosvinnancy.v@rajalakshmi.edu.in,regular,21,False
+CS305,Professor,,,Computer Science & Engineering,parthasarathy.c@rajalakshmi.edu.in,regular,21,False
+CS308,Assistant Professor,,,Computer Science & Engineering,aswanalal@rajalakshmi.edu.in,regular,21,False
+CS309,Assistant Professor,,,Computer Science & Engineering,sivagami.s@rajalakshmi.edu.in,regular,21,False
+CS310,Assistant Professor,,,Computer Science & Engineering,sandhiyavani.s@rajalakshmi.edu.in,regular,21,False
+CS312,Assistant Professor,,,Computer Science & Engineering,akshaikhaanth.jm@rajalakshmi.edu.in,regular,21,False
+CS313,Associate Professor,,,Computer Science & Engineering,ayyadurai.m@rajalakshmi.edu.in,regular,21,False
+CS314,Assistant Professor,,,Computer Science & Engineering,deepa.b@rajalakshmi.edu.in,regular,21,False
+CS317,Assistant Professor,,,Computer Science & Engineering,ragu.g@rajalakshmi.edu.in,regular,21,False
+CS318,Assistant Professor,,,Computer Science & Engineering,senthilkumar.ss@rajalakshmi.edu.in,regular,21,False
+CS319,Professor,,,Computer Science & Engineering,chettiyarvanivivekanand@rajalakshmi.edu.in,regular,21,False
+CS321,Associate Professor,,,Computer Science & Engineering,bhuvaneswari.r@rajalakshmi.edu.in,regular,21,False
+CS320,Associate Professor,,,Computer Science & Engineering,madhusudhan.s@rajalakshmi.edu.in,regular,21,False
+CS322,Assistant Professor,,,Computer Science & Engineering,dharshini.bs@rajalakshmi.edu.in,regular,21,False
+CS326,Dean,,,Computer Science & Engineering,duraipandian.n@rajalakshmi.edu.in /dean.cs@rajalakshmi.edu.in,regular,21,False
+CS238,Assistant Professor,,,Computer Science & Engineering,sathiyavathi.s@rajalakshmi.edu.in,regular,21,False
+CS332,POP,,,Computer Science & Engineering,senthilkumar.k1@rajalakshmi.edu.in,regular,21,False
+CS334,POP,,,Computer Science & Engineering,kirubhakar.tt@rajalakshmi.edu.in,regular,21,False
+CS333,Assistant Professor,,,Computer Science & Engineering,subamalai.r@rajalakshmi.edu.in,regular,21,False
+CS40,HOD,,,Computer Science & Engineering (Cyber Security),benedictjn@rajalakshmi.edu.in ; hod.csecs@rajalakshmi.edu.in,regular,21,False
+CS315,Professor,,,Computer Science & Engineering (Cyber Security),balasubramanian.v@rajalakshmi.edu.in,regular,21,False
+CS324,Professor,,,Computer Science & Engineering (Cyber Security),rupmala.r@rajalakshmi.edu.in,regular,21,False
+IT258,Assistant Professor,,,Computer Science & Engineering (Cyber Security),subashrimeenakshi.g@rajalakshmi.edu.in,regular,21,False
+EC04,Professor,,,Electronics & Communication Engineering,thilakavathi.b@rajalakshmi.edu.in,regular,21,False
+EC31,Professor,,,Electronics & Communication Engineering,palanivelan.m@rajalakshmi.edu.in,regular,21,False
+EC34,Professor,,,Electronics & Communication Engineering,asha.a@rajalakshmi.edu.in,regular,21,False
+EC47,Professor,,,Electronics & Communication Engineering,chitra.s@rajalakshmi.edu.in,regular,21,False
+EC67,Professor,,,Electronics & Communication Engineering,selvakumar.vs@rajalakshmi.edu.in,regular,21,False
+EE55,Assistant Professor,,,Electronics & Communication Engineering,sudha.k@rajalakshmi.edu.in,regular,21,False
+EC101,Professor,,,Electronics & Communication Engineering,manikandan.t@rajalakshmi.edu.in,regular,21,False
+EC104,Professor,,,Electronics & Communication Engineering,suganthi.s@rajalakshmi.edu.in,regular,21,False
+EC106,Professor,,,Electronics & Communication Engineering,sujatha.l@rajalakshmi.edu.in,regular,21,False
+EC114,Professor,,,Electronics & Communication Engineering,sathish.m@rajalakshmi.edu.in,regular,21,False
+EC121,Assistant Professor,,,Electronics & Communication Engineering,shaikthasleembanu@rajalakshmi.edu.in,regular,21,False
+EC130,Professor,,,Electronics & Communication Engineering,priya.b@rajalakshmi.edu.in,regular,21,False
+EC134,Assistant Professor,,,Electronics & Communication Engineering,radhamani.v@rajalakshmi.edu.in,regular,21,False
+EC135,Associate Professor,,,Electronics & Communication Engineering,saranya.j@rajalakshmi.edu.in,regular,21,False
+EC143,Assistant Professor,,,Electronics & Communication Engineering,gururaj.d@rajalakshmi.edu.in,regular,21,False
+EC147,Assistant Professor,,,Electronics & Communication Engineering,bharathy.r@rajalakshmi.edu.in,regular,21,False
+EC149,Assistant Professor,,,Electronics & Communication Engineering,anithamary.m@rajalakshmi.edu.in,regular,21,False
+EE98,Professor,,,Electronics & Communication Engineering,mariammal.t@rajalakshmi.edu.in,regular,21,False
+EC163,Assistant Professor,,,Electronics & Communication Engineering,karthi.j@rajalakshmi.edu.in,regular,21,False
+EC162,Assistant Professor,,,Electronics & Communication Engineering,benazirbegam.r@rajalakshmi.edu.in,regular,21,False
+EC160,Assistant Professor,,,Electronics & Communication Engineering,jananishree.u@rajalakshmi.edu.in,regular,21,False
+EC167,Assistant Professor,,,Electronics & Communication Engineering,asokan.v@rajalakshmi.edu.in,regular,21,False
+EC171,Assistant Professor,,,Electronics & Communication Engineering,helanvidhya.t@rajalakshmi.edu.in,regular,21,False
+EC172,Assistant Professor,,,Electronics & Communication Engineering,shanmugapriya.p@rajalakshmi.edu.in,regular,21,False
+EC173,HOD,,,Electronics & Communication Engineering,bhagyalakshmi.l@rajalakshmi.edu.in,regular,21,False
+EC175,Assistant Professor,,,Electronics & Communication Engineering,sasirekha.d@rajalakshmi.edu.in,regular,21,False
+EC181,Assistant Professor,,,Electronics & Communication Engineering,sathya.r@rajalakshmi.edu.in,regular,21,False
+EC179,Assistant Professor,,,Electronics & Communication Engineering,sushmasjagtap@rajalakshmi.edu.in,regular,21,False
+EC177,Assistant Professor,,,Electronics & Communication Engineering,tamilarasi.m@rajalakshmi.edu.in,regular,21,False
+EC185,Assistant Professor,,,Electronics & Communication Engineering,muralikrishna.k@rajalakshmi.edu.in,regular,21,False
+EC186,Assistant Professor,,,Electronics & Communication Engineering,yogalakshmi.v@rajalakshmi.edu.in,regular,21,False
+EC190,Assistant Professor,,,Electronics & Communication Engineering,saranya.g@rajalakshmi.edu.in,regular,21,False
+EC192,Assistant Professor,,,Electronics & Communication Engineering,sudharsan.s@rajalakshmi.edu.in,regular,21,False
+EC193,Professor,,,Electronics & Communication Engineering,gayathri.r@rajalakshmi.edu.in,regular,21,False
+EC194,Assistant Professor,,,Electronics & Communication Engineering,prabhu.ae@rajalakshmi.edu.in,regular,21,False
+EC197,Assistant Professor,,,Electronics & Communication Engineering,indhumathi.g@rajalakshmi.edu.in,regular,21,False
+EC198,Assistant Professor,,,Electronics & Communication Engineering,vinodhini.sv@rajalakshmi.edu.in,regular,21,False
+EC200,Assistant Professor,,,Electronics & Communication Engineering,brenda.m@rajalakshmi.edu.in,regular,21,False
+EC201,Assistant Professor,,,Electronics & Communication Engineering,priyankadevi.s@rajalakshmi.edu.in,regular,21,False
+EC204,Associate Professor,,,Electronics & Communication Engineering,latha.m@rajalakshmi.edu.in,regular,21,False
+EC205,Assistant Professor,,,Electronics & Communication Engineering,ganesamoorthy.r@rajalakshmi.edu.in,regular,21,False
+EC206,Assistant Professor,,,Electronics & Communication Engineering,sowmiya.g@rajalakshmi.edu.in,regular,21,False
+EC207,Assistant Professor,,,Electronics & Communication Engineering,loganathan.g@rajalakshmi.edu.in,regular,21,False
+EC209,Assistant Professor,,,Electronics & Communication Engineering,kumaran.n@rajalakshmi.edu.in,regular,21,False
+EC210,Assistant Professor,,,Electronics & Communication Engineering,senthilraja.b@rajalakshmi.edu.in,regular,21,False
+EC211,Professor,,,Electronics & Communication Engineering,jayanthi.d@rajalakshmi.edu.in,regular,21,False
+EC212,Assistant Professor,,,Electronics & Communication Engineering,nirmala.d@rajalakshmi.edu.in,regular,21,False
+EC213,Professor,,,Electronics & Communication Engineering,uppuramachandraiah@rajalakshmi.edu.in,regular,21,False
+EC215,Professor,,,Electronics & Communication Engineering,sathiyavathi.sasikumar@rajalakshmi.edu.in,regular,21,False
+EC214,Assistant Professor,,,Electronics & Communication Engineering,balaji.sr@rajalakshmi.edu.in,regular,21,False
+EC216,Assistant Professor,,,Electronics & Communication Engineering,jeevani.r@rajalakshmi.edu.in,regular,21,False
+EC217,Assistant Professor,,,Electronics & Communication Engineering,indhubala.b@rajalakshmi.edu.in,regular,21,False
+EE08,Dean,,,Electrical & Electronics Engineering,philippraveen.i@rajalakshmi.edu.in,regular,21,False
+EE03,Professor,,,Electrical & Electronics Engineering,geethapriya.v@rajalakshmi.edu.in,regular,21,False
+EE05,Professor,,,Electrical & Electronics Engineering,kavitha.j@rajalakshmi.edu.in,regular,21,False
+EE10,Professor,,,Electrical & Electronics Engineering,alicehepzibah.a@rajalakshmi.edu.in,regular,21,False
+EE11,Professor,,,Electrical & Electronics Engineering,kalaivani.r@rajalakshmi.edu.in,regular,21,False
+EE23,Assistant Professor,,,Electrical & Electronics Engineering,santhanakrishnan.t@rajalakshmi.edu.in,regular,21,False
+EE40,Assistant Professor,,,Electrical & Electronics Engineering,padmavathi.r@rajalakshmi.edu.in,regular,21,False
+EE43,Professor,,,Electrical & Electronics Engineering,essakiraj.r@rajalakshmi.edu.in,regular,21,False
+EE47,Professor,,,Electrical & Electronics Engineering,thamizhselvan.t@rajalakshmi.edu.in,regular,21,False
+EE50,Professor,,,Electrical & Electronics Engineering,subbiah.m@rajalakshmi.edu.in,regular,21,False
+EE48,Associate Professor,,,Electrical & Electronics Engineering,devimaheswaran.v@rajalakshmi.edu.in,regular,21,False
+EE52,Associate Professor,,,Electrical & Electronics Engineering,sangari.a@rajalakshmi.edu.in,regular,21,False
+EE54,Professor,,,Electrical & Electronics Engineering,selvaraj.a@rajalakshmi.edu.in,regular,21,False
+EE56,Professor,,,Electrical & Electronics Engineering,rajalakshmi.a@rajalakshmi.edu.in,regular,21,False
+EE57,Assistant Professor,,,Electrical & Electronics Engineering,saravanan.ts@rajalakshmi.edu.in,regular,21,False
+EE59,Associate Professor,,,Electrical & Electronics Engineering,thirusenthilkumaran.p@rajalakshmi.edu.in,regular,21,False
+EE77,Assistant Professor,,,Electrical & Electronics Engineering,jayasree.k@rajalakshmi.edu.in,regular,21,False
+EE78,Assistant Professor,,,Electrical & Electronics Engineering,antosheeba.j@rajalakshmi.edu.in,regular,21,False
+EE82,Associate Professor,,,Electrical & Electronics Engineering,sivaraman.pr@rajalakshmi.edu.in,regular,21,False
+EE90,Assistant Professor,,,Electrical & Electronics Engineering,ragupathy.p@rajalakshmi.edu.in,regular,21,False
+EE96,Assistant Professor,,,Electrical & Electronics Engineering,shyam.d@rajalakshmi.edu.in,regular,21,False
+EE99,Assistant Professor,,,Electrical & Electronics Engineering,amutha.c@rajalakshmi.edu.in,regular,21,False
+EE102,Assistant Professor,,,Electrical & Electronics Engineering,roncarter.sb@rajalakshmi.edu.in,regular,21,False
+EE108,Assistant Professor,,,Electrical & Electronics Engineering,sivagami.v@rajalakshmi.edu.in,regular,21,False
+EE60,Assistant Professor,,,Electrical & Electronics Engineering,sivamani.d@rajalakshmi.edu.in,regular,21,False
+EE114,Assistant Professor,,,Electrical & Electronics Engineering,anitha.d@rajalakshmi.edu.in,regular,21,False
+EE112,Professor,,,Electrical & Electronics Engineering,sivakumar.p@rajalakshmi.edu.in,regular,21,False
+EE117,Assistant Professor,,,Electrical & Electronics Engineering,jenysophia.s@rajalakshmi.edu.in,regular,21,False
+EE121,Professor,,,Electrical & Electronics Engineering,umamaheswari.mg@rajalakshmi.edu.in,regular,21,False
+EE125,Professor,,,Electrical & Electronics Engineering,nazarali.a@rajalakshmi.edu.in,regular,21,False
+EE126,Dean,,,Electrical & Electronics Engineering,ramareddy.s@rajalakshmi.edu.in,regular,21,False
+EE127,HOD,,,Electrical & Electronics Engineering,kamalakannanc@rajalakshmi.edu.in ; hod.eee@rajalakshmi.edu.in,regular,21,False
+EE128,Assistant Professor,,,Electrical & Electronics Engineering,sowmiya.a@rajalakshmi.edu.in,regular,21,False
+EE130,Assistant Professor,,,Electrical & Electronics Engineering,manimegalai.d@rajalakshmi.edu.in,regular,21,False
+EE129,Assistant Professor,,,Electrical & Electronics Engineering,vinitha.jc@rajalakshmi.edu.in,regular,21,False
+EE132,Assistant Professor,,,Electrical & Electronics Engineering,vijayalakshmi.km@rajalakshmi.edu.in,regular,21,False
+EE133,Professor,,,Electrical & Electronics Engineering,sridevi.m@rajalakshmi.edu.in,regular,21,False
+EE134,Associate Professor,,,Electrical & Electronics Engineering,kandaswamy.kv@rajalakshmi.edu.in,regular,21,False
+EE136,Assistant Professor,,,Electrical & Electronics Engineering,srinivasan.c@rajalakshmi.edu.in,regular,21,False
+EE135,Assistant Professor,,,Electrical & Electronics Engineering,aswini.a@rajalakshmi.edu.in,regular,21,False
+EE137,Assistant Professor,,,Electrical & Electronics Engineering,krishnan.s@rajalakshmi.edu.in,regular,21,False
+EE138,Assistant Professor,,,Electrical & Electronics Engineering,dhandayuthapani.s@rajalakshmi.edu.in,regular,21,False
+EE139,Assistant Professor,,,Electrical & Electronics Engineering,brindhukumari.a@rajalakshmi.edu.in,regular,21,False
+EN33,Assistant Professor,,,English,hastin.fernandez@rajalakshmi.edu.in,regular,21,False
+EN35,Assistant Professor,,,English,srihari.g@rajalakshmi.edu.in,regular,21,False
+EN36,Professor,,,English,alamelu.g@rajalakshmi.edu.in,regular,21,False
+EN38,Assistant Professor,,,English,vijay.m@rajalakshmi.edu.in,regular,21,False
+EN40,Assistant Professor,,,English,janet.g@rajalakshmi.edu.in,regular,21,False
+EN46,Assistant Professor,,,English,andria.babu@rajalakshmi.edu.in,regular,21,False
+EN57,Assistant Professor,,,English,rajalakshmi.b@rajalakshmi.edu.in,regular,21,False
+EN59,Assistant Professor,,,English,angel.p@rajalakshmi.edu.in,regular,21,False
+EN62,Assistant Professor,,,English,muthumanikandan.m@rajalakshmi.edu.in,regular,21,False
+EN63,Associate Professor,,,English,lakshmi.b@rajalakshmi.edu.in,regular,21,False
+EN68,Assistant Professor,,,English,rohini.s@rajalakshmi.edu.in,regular,21,False
+EN49,Assistant Professor,,,English,renuga.bs@rajalakshmi.edu.in,regular,21,False
+EN69,Assistant Professor,,,English,raghavi.kk@rajalakshmi.edu.in,regular,21,False
+EN70,Assistant Professor,,,English,jebarajkabriel@rajalakshmi.edu.in,regular,21,False
+EN71,Assistant Professor,,,English,sharmila.b@rajalakshmi.edu.in,regular,21,False
+EN72,Assistant Professor,,,English,malikunnisha.n@rajalakshmi.edu.in,regular,21,False
+EN73,Assistant Professor,,,English,dinakaran.s@rajalakshmi.edu.in,regular,21,False
+EN75,Assistant Professor,,,English,rajasree.b@rajalakshmi.edu.in,regular,21,False
+EN76,Assistant Professor,,,English,vijayalakshmi.m@rajalakshmi.edu.in,regular,21,False
+EN77,Assistant Professor,,,English,gayathri.k.english@rajalakshmi.edu.in,regular,21,False
+EN78,Assistant Professor,,,English,chitradevi.p@rajalakshmi.edu.in,regular,21,False
+EN79,Assistant Professor,,,English,saviermutjabraj.a@rajalakshmi.edu.in,regular,21,False
+EN80,Assistant Professor,,,English,shanmugapriya.k@rajalakshmi.edu.in,regular,21,False
+EN81,Assistant Professor,,,English,malathy.g@rajalakshmi.edu.in,regular,21,False
+EN82,Assistant Professor,,,English,aishwarya.m@rajalakshmi.edu.in,regular,21,False
+EN83,Associate Professor,,,English,agnesnirmala.j@rajalakshmi.edu.in,regular,21,False
+EN84,Assistant Professor,,,English,manasa.k@rajalakshmi.edu.in,regular,21,False
+BT159,HOD,,,Food Technology,hod.ft@rajalakshmi.edu.in;ramalakshmi.k@rajalakshmi.edu.in,regular,21,False
+FT08,Assistant Professor,,,Food Technology,aruthradevi.g@rajalakshmi.edu.in,regular,21,False
+FT09,Assistant Professor,,,Food Technology,niveadhitha.s@rajalakshmi.edu.in,regular,21,False
+FT19,Professor,,,Food Technology,sudhakar.v@rajalakshmi.edu.in,regular,21,False
+FT10,Assistant Professor,,,Food Technology,kulasticjassy.a@rajalakshmi.edu.in,regular,21,False
+FT12,Assistant Professor,,,Food Technology,srimagal.a@rajalakshmi.edu.in,regular,21,False
+FT13,Assistant Professor,,,Food Technology,manonmani.k@rajalakshmi.edu.in,regular,21,False
+FT16,Associate Professor,,,Food Technology,bharathi.p@rajalakshmi.edu.in,regular,21,False
+FT23,Assistant Professor,,,Food Technology,anand.r@rajalakshmi.edu.in,regular,21,False
+FT24,Assistant Professor,,,Food Technology, priyadarshini.sr@rajalakshmi.edu.in,regular,21,False
+FT25,Assistant Professor,,,Food Technology,nithyabalasundari.s@rajalakshmi.edu.in,regular,21,False
+FT26,Assistant Professor,,,Food Technology,divyashree.js@rajalakshmi.edu.in,regular,21,False
+CS47,Professor,,,Information Technology,Priya.vijay@rajalakshmi.edu.in,regular,21,False
+IT30,Assistant Professor,,,Information Technology,usha.s@rajalakshmi.edu.in,regular,21,False
+IT118,Professor,,,Information Technology,priya.l@rajalakshmi.edu.in,regular,21,False
+MC55,Professor,,,Information Technology,prasannakumari.v@rajalakshmi.edu.in,regular,21,False
+CS200,Assistant Professor,,,Information Technology,narayana.ke@rajalakshmi.edu.in,regular,21,False
+IT173,Assistant Professor,,,Information Technology,madhurani.m@rajalakshmi.edu.in,regular,21,False
+IT186,Associate Professor,,,Information Technology,nalini.s@rajalakshmi.edu.in,regular,21,False
+IT187,Assistant Professor,,,Information Technology,arunajameela.ap@rajalakshmi.edu.in,regular,21,False
+IT189,Assistant Professor,,,Information Technology,sandhiya.m@rajalakshmi.edu.in,regular,21,False
+IT192,Assistant Professor,,,Information Technology,bhalashri.sethuraman@rajalakshmi.edu.in,regular,21,False
+IT201,Professor,,,Information Technology,babu.m@rajalakshmi.edu.in,regular,21,False
+IT198,Professor,,,Information Technology,subbiah.s@rajalakshmi.edu.in,regular,21,False
+IT199,Professor,,,Information Technology,kalaivani.a@rajalakshmi.edu.in,regular,21,False
+IT200,Professor,,,Information Technology,neelaveni.p@rajalakshmi.edu.in,regular,21,False
+CS259,Assistant Professor,,,Information Technology,sangeetha.tupili@rajalakshmi.edu.in,regular,21,False
+IT203,Assistant Professor,,,Information Technology,leenajeniferl@rajalakshmi.edu.in,regular,21,False
+IT204,Assistant Professor,,,Information Technology,pragadeeshm@rajalakshmi.edu.in,regular,21,False
+IT205,Assistant Professor,,,Information Technology,indumathik@rajalakshmi.edu.in,regular,21,False
+CS277,Assistant Professor,,,Information Technology,deivanai.k@rajalakshmi.edu.in,regular,21,False
+IT221,Assistant Professor,,,Information Technology,kalaivani.j@rajalakshmi.edu.in,regular,21,False
+IT223,Assistant Professor,,,Information Technology,padmini.s@rajalakshmi.edu.in,regular,21,False
+IT230,Professor,,,Information Technology,muthukumar.b@rajalakshmi.edu.in,regular,21,False
+IT231,Assistant Professor,,,Information Technology,kalaivani.s@rajalakshmi.edu.in,regular,21,False
+IT240,HOD,,,Information Technology,valarmathie.dinakaran@rajalakshmi.edu.in,regular,21,False
+IT241,POP,,,Information Technology, premalatha.pn@rajalakshmi.edu.in,regular,21,False
+CS325,Dean,,,Information Technology,shunmuganathan.kl@rajalakshmi.edu.in,regular,21,False
+IT247,Assistant Professor,,,Information Technology, janani.m@rajalakshmi.edu.in,regular,21,False
+IT249,Assistant Professor,,,Information Technology,priyanka.d@rajalakshmi.edu.in,regular,21,False
+IT251,Assistant Professor,,,Information Technology,sureshkumar.k@rajalakshmi.edu.in,regular,21,False
+IT259,POP,,,Information Technology,bhuvaneshwari.m@rajalakshmi.edu.in,regular,21,False
+IT260,Assistant Professor,,,Information Technology,vimalan.m@rajalakshmi.edu.in,regular,21,False
+IT263,Assistant Professor,,,Information Technology,sathish.m1@rajalakshmi.edu.in,regular,21,False
+MA08,Professor,,,Mathematics,lakshmi.v@rajalakshmi.edu.in,regular,21,False
+MA02,HOD,,,Mathematics,hodmath.s@rajalakshmi.edu.in; muthusamy.m@rajalakshmi.edu.in,regular,21,False
+MA21,Associate Professor,,,Mathematics,james.v@rajalakshmi.edu.in,regular,21,False
+MA72,Associate Professor,,,Mathematics,rajalakshmy.d@rajalakshmi.edu.in,regular,21,False
+MA76,Assistant Professor,,,Mathematics,renuga.c@rajalakshmi.edu.in,regular,21,False
+MA87,Associate Professor,,,Mathematics,venkatesan.j@rajalakshmi.edu.in,regular,21,False
+MA100,Assistant Professor,,,Mathematics,nathiya.r@rajalakshmi.edu.in,regular,21,False
+MA103,Assistant Professor,,,Mathematics,sunilkumar.vr@rajalakshmi.edu.in,regular,21,False
+MA104,Assistant Professor,,,Mathematics,vasanthi.s@rajalakshmi.edu.in,regular,21,False
+MA111,Assistant Professor,,,Mathematics,azhagarasu.a@rajalakshmi.edu.in,regular,21,False
+MA112,Assistant Professor,,,Mathematics,rajkumar.v@rajalakshmi.edu.in,regular,21,False
+MA113,Assistant Professor,,,Mathematics,siluvaidasan.r@rajalakshmi.edu.in,regular,21,False
+MA114,Associate Professor,,,Mathematics,julie.j@rajalakshmi.edu.in,regular,21,False
+MA116,Assistant Professor,,,Mathematics,shakila.v@rajalakshmi.edu.in,regular,21,False
+MA118,Assistant Professor,,,Mathematics,shanthini.c@rajalakshmi.edu.in,regular,21,False
+MA119,Assistant Professor,,,Mathematics,bhavani.s@rajalakshmi.edu.in,regular,21,False
+MA121,Assistant Professor,,,Mathematics,mageshwaran.k@rajalakshmi.edu.in,regular,21,False
+MA123,Associate Professor,,,Mathematics,prabhu.s.maths@rajalakshmi.edu.in,regular,21,False
+MA125,Assistant Professor,,,Mathematics,priyanair@rajalakshmi.edu.in,regular,21,False
+MA127,Assistant Professor,,,Mathematics,sivakumaran.v@rajalakshmi.edu.in,regular,21,False
+MA129,Assistant Professor,,,Mathematics,subha.m@rajalakshmi.edu.in,regular,21,False
+MA130,Assistant Professor,,,Mathematics,anbarasi.v@rajalakshmi.edu.in,regular,21,False
+MA131,Assistant Professor,,,Mathematics,bharathi.v@rajalakshmi.edu.in,regular,21,False
+MA132,Assistant Professor,,,Mathematics,rajaannam.k@rajalakshmi.edu.in,regular,21,False
+MA134,Assistant Professor,,,Mathematics,pomanaselvan.a@rajalakshmi.edu.in,regular,21,False
+MA135,Associate Professor,,,Mathematics,chalressagayaraj.ac@rajalakshmi.edu.in,regular,21,False
+MA136,Assistant Professor,,,Mathematics,sathiragavan.m@rajalakshmi.edu.in,regular,21,False
+MA137,Assistant Professor,,,Mathematics,vikram.st@rajalakshmi.edu.in,regular,21,False
+MA138,Assistant Professor,,,Mathematics,maimoonnisa.s@rajalakshmi.edu.in,regular,21,False
+MA139,Assistant Professor,,,Mathematics,meenakumari.r@rajalakshmi.edu.in,regular,21,False
+MA140,Professor,,,Mathematics,sriram.s@rajalakshmi.edu.in,regular,21,False
+MA141,Assistant Professor,,,Mathematics,thilagavathi.r@rajalakshmi.edu.in,regular,21,False
+MA142,Assistant Professor,,,Mathematics, gurunathan.s@rajalakshmi.edu.in,regular,21,False
+MA144,Assistant Professor,,,Mathematics,ramalakshmi.k.maths@rajalakshmi.edu.in,regular,21,False
+MA143,Assistant Professor,,,Mathematics,santhiya.s@rajalakshmi.edu.in,regular,21,False
+MA145,Assistant Professor,,,Mathematics,yuvashri.p@rajalakshmi.edu.in,regular,21,False
+MA146,Assistant Professor,,,Mathematics,hemasurya.s@rajalakshmi.edu.in,regular,21,False
+MA147,Assistant Professor,,,Mathematics,balavidhya.s@rajalakshmi.edu.in,regular,21,False
+MA148,Assistant Professor,,,Mathematics,vinodkumar.r@rajalakshmi.edu.in,regular,21,False
+MA150,Assistant Professor,,,Mathematics,chitra.r@rajalakshmi.edu.in,regular,21,False
+MA149,Assistant Professor,,,Mathematics,bharathi.d.maths@rajalakshmi.edu.in,regular,21,False
+MA151,Assistant Professor,,,Mathematics,akshaya.a@rajalakshmi.edu.in,regular,21,False
+MA152,Assistant Professor,,,Mathematics,arulmozhi.s@rajalakshmi.edu.in,regular,21,False
+MB12,Professor,,,Management Studies,sankararaman.g@rajalakshmi.edu.in,regular,21,False
+MB19,Professor,,,Management Studies,ragothaman.cb@rajalakshmi.edu.in,regular,21,False
+MB42,Associate Professor,,,Management Studies,suresh.s@rajalakshmi.edu.in,regular,21,False
+MB49,Assistant Professor,,,Management Studies,deborahsharon.s@rajalakshmi.edu.in,regular,21,False
+MB62,Assistant Professor,,,Management Studies,kumar.k@rajalakshmi.edu.in,regular,21,False
+MB64,Assistant Professor,,,Management Studies,sajana.kp@rajalakshmi.edu.in,regular,21,False
+MB65,Assistant Professor,,,Management Studies,babitha.s@rajalakshmi.edu.in,regular,21,False
+MB70,HOD,,,Management Studies,umaraman.m@rajalakshmi.edu.in,regular,21,False
+MB71,Assistant Professor,,,Management Studies,padmanaaban.p@rajalakshmi.edu.in,regular,21,False
+MB72,Assistant Professor,,,Management Studies,devikomathy@rajalakshmi.edu.in,regular,21,False
+MB74,Professor,,,Management Studies,valliammal.m@rajalakshmi.edu.in,regular,21,False
+MB75,Assistant Professor,,,Management Studies,anithaelavarasi.gn@rajalakshmi.edu.in,regular,21,False
+MB76,Assistant Professor,,,Management Studies,seema.balan@rajalakshmi.edu.in,regular,21,False
+MB77,Assistant Professor,,,Management Studies,silambarasi.s@rajalakshmi.edu.in,regular,21,False
+MB80,Assistant Professor,,,Management Studies,rekha.r@rajalakshmi.edu.in,regular,21,False
+MB81,Assistant Professor,,,Management Studies,preetha.t@rajalakshmi.edu.in,regular,21,False
+MB83,Assistant Professor,,,Management Studies,immaculateamali.j@rajalakshmi.edu.in,regular,21,False
+MB84,Assistant Professor,,,Management Studies,sudhan.sk@rajalakshmi.edu.in,regular,21,False
+MB86,POP,,,Management Studies,ravichandran.t@rajalakshmi.edu.in,regular,21,False
+MB85,POP,,,Management Studies,vasudevan.c@rajalakshmi.edu.in,regular,21,False
+MB87,POP,,,Management Studies,sridhar.k@rajalakshmi.edu.in,regular,21,False
+MB88,POP,,,Management Studies, ramanathan.kv@rajalakshmi.edu.in,regular,21,False
+MB89,Assistant Professor,,,Management Studies,sindhu.al@rajalakshmi.edu.in,regular,21,False
+ME35,Professor,,,Mechatronics Engineering,santhanam.v@rajalakshmi.edu.in,regular,21,False
+ME197,Assistant Professor,,,Mechatronics Engineering,sridharan.m@rajalakshmi.edu.in,regular,21,False
+ME227,Associate Professor,,,Mechatronics Engineering,balakarthikeyan.m@rajalakshmi.edu.in,regular,21,False
+ME231,Assistant Professor,,,Mechatronics Engineering,nareshbabu.g@rajalakshmi.edu.in,regular,21,False
+ME228,Assistant Professor,,,Mechatronics Engineering,nivethitha.sb@rajalakshmi.edu.in,regular,21,False
+ME235,Assistant Professor,,,Mechatronics Engineering,prakash.e@rajalakshmi.edu.in,regular,21,False
+ME239,Professor,,,Mechatronics Engineering,chandramohan.p@rajalakshmi.edu.in,regular,21,False
+ME242,Assistant Professor,,,Mechatronics Engineering,vimalesh.a@rajalakshmi.edu.in,regular,21,False
+ME251,HOD,,,Mechatronics Engineering,riteshbhat.rb@rajalakshmi.edu.in,regular,21,False
+ME254,Assistant Professor,,,Mechatronics Engineering, umamaheswari.m@rajalakshmi.edu.in,regular,21,False
+ME255,Assistant Professor,,,Mechatronics Engineering,shobana.d@rajalakshmi.edu.in,regular,21,False
+ME256,Assistant Professor,,,Mechatronics Engineering,ramesh.s@rajalakshmi.edu.in,regular,21,False
+ME257,Associate Professor,,,Mechatronics Engineering,gopinath.s@rajalakshmi.edu.in,regular,21,False
+ME258,Assistant Professor,,,Mechatronics Engineering,nambiraj.m@rajalakshmi.edu.in,regular,21,False
+ME11,Vice Principal,,,Mechanical Engineering,srinivasan.sp@rajalakshmi.edu.in,regular,21,False
+ME31,Professor,,,Mechanical Engineering,venkateshwaran.n@rajalakshmi.edu.in,regular,21,False
+ME32,Professor,,,Mechanical Engineering,rajkumar.a@rajalakshmi.edu.in,regular,21,False
+ME40,HOD,,,Mechanical Engineering,shanthi.r@rajalakshmi.edu.in,regular,21,False
+ME93,Professor,,,Mechanical Engineering,parthiban.m@rajalakshmi.edu.in,regular,21,False
+ME51,Associate Professor,,,Mechanical Engineering,ramya.g@rajalakshmi.edu.in,regular,21,False
+ME102,Associate Professor,,,Mechanical Engineering,panneerselvan.s@rajalakshmi.edu.in,regular,21,False
+ME123,Principal,,,Mechanical Engineering,principal@rajalakshmi.edu.in,regular,21,False
+ME132,Associate Professor,,,Mechanical Engineering,shankar.e@rajalakshmi.edu.in,regular,21,False
+ME137,Professor,,,Mechanical Engineering,sudharsan.nm@rajalakshmi.edu.in,regular,21,False
+ME146,Professor,,,Mechanical Engineering,vinothbabu.n@rajalakshmi.edu.in,regular,21,False
+ME147,Associate Professor,,,Mechanical Engineering,chandrasekar.p@rajalakshmi.edu.in,regular,21,False
+ME150,Assistant Professor,,,Mechanical Engineering,arulmurugan.s@rajalakshmi.edu.in,regular,21,False
+ME157,Assistant Professor,,,Mechanical Engineering,arunprakash.n@rajalakshmi.edu.in,regular,21,False
+ME163,Assistant Professor,,,Mechanical Engineering,hariram.s@rajalakshmi.edu.in,regular,21,False
+ME171,Associate Professor,,,Mechanical Engineering,arumugam.p@rajalakshmi.edu.in,regular,21,False
+ME177,Associate Professor,,,Mechanical Engineering,muthiah.ct@rajalakshmi.edu.in,regular,21,False
+ME188,Assistant Professor,,,Mechanical Engineering,devanathan.c@rajalakshmi.edu.in,regular,21,False
+ME184,Assistant Professor,,,Mechanical Engineering,Loganathan.k@rajalakshmi.edu.in,regular,21,False
+ME186,Assistant Professor,,,Mechanical Engineering,dineshkumar.pt@rajalakshmi.edu.in,regular,21,False
+ME183,Assistant Professor,,,Mechanical Engineering,santhanakrishnan.m@rajalakshmi.edu.in,regular,21,False
+ME195,Assistant Professor,,,Mechanical Engineering,vidhushini.p@rajalakshmi.edu.in,regular,21,False
+ME199,Professor,,,Mechanical Engineering,dhandapani.s@rajalakshmi.edu.in,regular,21,False
+ME201,Assistant Professor,,,Mechanical Engineering,abrahamantony@rajalakshmi.edu.in,regular,21,False
+ME203,Assistant Professor,,,Mechanical Engineering,aruna.r@rajalakshmi.edu.in,regular,21,False
+ME214,Assistant Professor,,,Mechanical Engineering,vigneswaran.k@rajalakshmi.edu.in,regular,21,False
+ME209,Associate Professor,,,Mechanical Engineering,paramasivam.a@rajalakshmi.edu.in,regular,21,False
+ME210,Associate Professor,,,Mechanical Engineering,kumar.s@rajalakshmi.edu.in,regular,21,False
+ME215,Assistant Professor,,,Mechanical Engineering,natarajan.s@rajalakshmi.edu.in,regular,21,False
+ME212,Assistant Professor,,,Mechanical Engineering,rajkumar.m@rajalakshmi.edu.in,regular,21,False
+ME220,Associate Professor,,,Mechanical Engineering,dhanaraj.r@rajalakshmi.edu.in,regular,21,False
+ME221,Assistant Professor,,,Mechanical Engineering,rajeshkumar.b@rajalakshmi.edu.in,regular,21,False
+ME226,Professor,,,Mechanical Engineering,sekar.s@rajalakshmi.edu.in,regular,21,False
+ME223,Assistant Professor,,,Mechanical Engineering,parthiban.n@rajalakshmi.edu.in,regular,21,False
+ME233,Professor,,,Mechanical Engineering,ghadhatharan.v@rajalakshmi.edu.in,regular,21,False
+ME234,Assistant Professor,,,Mechanical Engineering,senthilmurugan.s@rajalakshmi.edu.in,regular,21,False
+ME238,Assistant Professor,,,Mechanical Engineering,muthaimanoj.p@rajalakshmi.edu.in,regular,21,False
+ME241,Assistant Professor,,,Mechanical Engineering,ragavendiran.r@rajalakshmi.edu.in,regular,21,False
+ME245,Assistant Professor,,,Mechanical Engineering,tamizhselvan.ls@rajalakshmi.edu.in,regular,21,False
+ME249,Professor,,,Mechanical Engineering,venkataprasat.s@rajalakshmi.edu.in,regular,21,False
+ME253,Professor,,,Mechanical Engineering,baskar.s@rajalakshmi.edu.in,regular,21,False
+ME259,Associate Professor,,,Mechanical Engineering,ramkumar.s.aiml@rajalakshmi.edu.in,regular,21,False
+ME260,Professor,,,Mechanical Engineering,ramesh.g@rajalakshmi.edu.in,regular,21,False
+PE04,Physical Director,,,Physical Education,renuka.r@rajalakshmi.edu.in,regular,21,False
+PE06,Physical Director,,,Physical Education,vijayaraghavan.m@rajalakshmi.edu.in,regular,21,False
+PH09,Assistant Professor,,,Physics,anandraj.m@rajalakshmi.edu.in,regular,21,False
+PH25,Associate Professor,,,Physics,rubarani.p.gangadharan@rajalakshmi.edu.in,regular,21,False
+PH31,Assistant Professor,,,Physics,anumanthakannan.g@rajalakshmi.edu.in,regular,21,False
+PH32,Assistant Professor,,,Physics,kavitha.r@rajalakshmi.edu.in,regular,21,False
+PH34,Assistant Professor,,,Physics,sankarkumar.m@rajalakshmi.edu.in,regular,21,False
+PH36,Assistant Professor,,,Physics,vijayanarasimhan.k@rajalakshmi.edu.in,regular,21,False
+PH38,Assistant Professor,,,Physics,bhavani.r@rajalakshmi.edu.in,regular,21,False
+PH39,Assistant Professor,,,Physics,latha.b@rajalakshmi.edu.in,regular,21,False
+PH42,Assistant Professor,,,Physics,senthilkumar.k@rajalakshmi.edu.in,regular,21,False
+PH49,Professor,,,Physics,vasudevan.p@rajalakshmi.edu.in,regular,21,False
+PH51,Assistant Professor,,,Physics,saravanakumar.g@rajalakshmi.edu.in,regular,21,False
+PH52,Assistant Professor,,,Physics,Muralidharan.r@rajalakshmi.edu.in,regular,21,False
+PH53,Professor,,,Physics,venkatamuthukumar.j@rajalakshmi.edu.in,regular,21,False
+PH55,Assistant Professor,,,Physics,gobalakrishnan.s@rajalakshmi.edu.in,regular,21,False
+PH54,Assistant Professor,,,Physics,muthupradeepa.r@rajalakshmi.edu.in,regular,21,False
+PH56,Assistant Professor,,,Physics,sankeeda.i@rajalakshmi.edu.in,regular,21,False
+PH57,Associate Professor,,,Physics,ragavendran.v@rajalakshmi.edu.in,regular,21,False
+PH58,Associate Professor,,,Physics,pugazhvadivu.ks@rajalakshmi.edu.in,regular,21,False
+PH59,Assistant Professor,,,Physics,manumohan@rajalakshmi.edu.in,regular,21,False
+PH60,Assistant Professor,,,Physics,ahilandeswari.g@rajalakshmi.edu.in,regular,21,False
+PH61,Assistant Professor,,,Physics,mahesh.r@rajalakshmi.edu.in,regular,21,False
+ME50,HOD,,,Robotics & Automation,giri.r@rajalakshmi.edu.in;hod.ra@rajalakshmi.edu.in,regular,21,False
+ME185,Assistant Professor,,,Robotics & Automation,eswaran.a@rajalakshmi.edu.in,regular,21,False
+ME213,Assistant Professor,,,Robotics & Automation,ramkumar.s@rajalakshmi.edu.in,regular,21,False
+ME237,Assistant Professor,,,Robotics & Automation,rajapandi.r@rajalakshmi.edu.in,regular,21,False
+ME236,Assistant Professor,,,Robotics & Automation,vimalanathan.p@rajalakshmi.edu.in,regular,21,False
+ME243,Assistant Professor,,,Robotics & Automation,priyadharshini.r@rajalakshmi.edu.in,regular,21,False
+ME244,Assistant Professor,,,Robotics & Automation,venugopal.k@rajalakshmi.edu.in,regular,21,False
+ME246,Assistant Professor,,,Robotics & Automation,ganeshbabu.l@rajalakshmi.edu.in,regular,21,False
+ME247,Assistant Professor,,,Robotics & Automation,saravanan.r@rajalakshmi.edu.in,regular,21,False
+ME248,Assistant Professor,,,Robotics & Automation,senthilrajan.r@rajalakshmi.edu.in,regular,21,False
